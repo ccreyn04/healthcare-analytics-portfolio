@@ -7,14 +7,6 @@ This portfolio demonstrates how I translate healthcare operations and
 reimbursement questions into validated KPIs, auditable analysis, executive
 dashboards, and practical recommendations.
 
-## Live portfolio
-
-**[Open the interactive healthcare analytics portfolio](https://ccreyn04.github.io/healthcare-analytics-portfolio/)**
-
-The public site includes four complete case studies with interactive filters,
-recalculating KPIs, data-driven charts, searchable evidence tables, technical
-downloads, methodology, findings, recommendations, and limitations.
-
 ## Portfolio projects
 
 | Project | Business focus | Evidence |
@@ -36,7 +28,8 @@ downloads, methodology, findings, recommendations, and limitations.
 ## Supporting files
 
 - [`workbook/`](workbook/) contains the formula-driven Excel portfolio workbook.
-- [`docs/`](docs/) contains the GitHub Pages-ready interactive portfolio site.
+- [`website-source/`](website-source/) contains the responsive portfolio
+  website and interactive case-study source.
 - Each project folder contains its dashboard, complete PHI-free dataset, SQL
   analysis, methodology, findings, recommendations, and limitations.
 
@@ -66,3 +59,4 @@ represent a real patient, payer, employer, or guaranteed financial result.
 - LinkedIn: [linkedin.com/in/cierrareynolds20](https://www.linkedin.com/in/cierrareynolds20)
 - GitHub: [github.com/ccreyn04](https://github.com/ccreyn04)
 - Email: [ccreyn04@louisville.edu](mailto:ccreyn04@louisville.edu)
+

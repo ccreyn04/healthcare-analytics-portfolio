@@ -1,0 +1,1201 @@
+order_id,order_datetime,location,medication,priority,turnaround_minutes,on_time,controlled_substance
+ORD-00001,2026-05-05 07:40,Women & Children,Acetaminophen IV,Routine,91,No,No
+ORD-00002,2026-01-26 04:05,Hospital Main,Vancomycin,STAT,15,Yes,No
+ORD-00003,2026-04-28 16:02,Women & Children,Morphine,Scheduled,35,Yes,Yes
+ORD-00004,2026-06-07 01:42,Hospital Main,Acetaminophen IV,Scheduled,71,Yes,No
+ORD-00005,2026-05-05 09:44,Hospital Main,Heparin,Routine,41,Yes,Yes
+ORD-00006,2026-06-08 19:16,Outpatient Infusion,Insulin Lispro,Routine,79,Yes,No
+ORD-00007,2026-01-29 15:06,Women & Children,Insulin Lispro,STAT,13,Yes,No
+ORD-00008,2026-03-07 07:14,Ambulatory Clinic,Acetaminophen IV,Routine,58,Yes,No
+ORD-00009,2026-01-06 11:54,Outpatient Infusion,Insulin Lispro,STAT,15,Yes,No
+ORD-00010,2026-03-24 21:51,Outpatient Infusion,Albuterol,Scheduled,111,Yes,No
+ORD-00011,2026-04-08 06:58,Women & Children,Vancomycin,Routine,63,Yes,No
+ORD-00012,2026-03-16 09:19,Emergency Dept,Vancomycin,Routine,45,Yes,No
+ORD-00013,2026-05-13 15:32,Ambulatory Clinic,Albuterol,Scheduled,125,No,No
+ORD-00014,2026-02-12 00:55,Outpatient Infusion,Albuterol,Routine,59,Yes,No
+ORD-00015,2026-05-10 21:22,Hospital Main,Albuterol,Routine,44,Yes,No
+ORD-00016,2026-04-25 15:16,Ambulatory Clinic,Insulin Lispro,Routine,90,Yes,No
+ORD-00017,2026-06-12 21:13,Women & Children,Albuterol,Routine,44,Yes,No
+ORD-00018,2026-04-26 15:30,Outpatient Infusion,Insulin Lispro,STAT,22,Yes,No
+ORD-00019,2026-04-02 18:09,Hospital Main,Magnesium Sulfate,STAT,12,Yes,No
+ORD-00020,2026-02-06 19:08,Hospital Main,Morphine,Routine,73,Yes,Yes
+ORD-00021,2026-02-10 04:37,Outpatient Infusion,Cefazolin,STAT,35,No,No
+ORD-00022,2026-04-16 06:02,Women & Children,Albuterol,Routine,34,Yes,No
+ORD-00023,2026-06-20 22:37,Emergency Dept,Heparin,Routine,26,Yes,Yes
+ORD-00024,2026-02-09 20:26,Women & Children,Albuterol,Routine,65,Yes,No
+ORD-00025,2026-06-20 05:02,Emergency Dept,Magnesium Sulfate,STAT,14,Yes,No
+ORD-00026,2026-01-07 20:42,Ambulatory Clinic,Morphine,STAT,11,Yes,Yes
+ORD-00027,2026-02-22 23:06,Women & Children,Ceftriaxone,Routine,73,Yes,No
+ORD-00028,2026-05-17 07:45,Women & Children,Cefazolin,Scheduled,96,Yes,No
+ORD-00029,2026-01-22 05:54,Women & Children,Cefazolin,Scheduled,95,Yes,No
+ORD-00030,2026-03-17 16:42,Hospital Main,Morphine,Routine,65,Yes,Yes
+ORD-00031,2026-04-22 17:26,Ambulatory Clinic,Acetaminophen IV,Scheduled,88,Yes,No
+ORD-00032,2026-05-30 03:33,Outpatient Infusion,Ondansetron,Routine,60,Yes,No
+ORD-00033,2026-01-15 12:19,Outpatient Infusion,Insulin Lispro,Scheduled,85,Yes,No
+ORD-00034,2026-04-10 05:36,Ambulatory Clinic,Acetaminophen IV,Routine,52,Yes,No
+ORD-00035,2026-05-15 15:15,Outpatient Infusion,Ceftriaxone,Routine,56,Yes,No
+ORD-00036,2026-04-13 09:55,Emergency Dept,Ondansetron,Routine,37,Yes,No
+ORD-00037,2026-01-31 19:27,Women & Children,Heparin,Routine,69,Yes,Yes
+ORD-00038,2026-04-22 04:11,Hospital Main,Heparin,Routine,83,Yes,Yes
+ORD-00039,2026-03-20 22:04,Hospital Main,Ondansetron,STAT,19,Yes,No
+ORD-00040,2026-01-29 09:46,Emergency Dept,Ceftriaxone,Scheduled,112,Yes,No
+ORD-00041,2026-05-26 22:55,Hospital Main,Cefazolin,Routine,49,Yes,No
+ORD-00042,2026-04-15 18:39,Ambulatory Clinic,Albuterol,Routine,50,Yes,No
+ORD-00043,2026-06-26 16:06,Women & Children,Ceftriaxone,Routine,77,Yes,No
+ORD-00044,2026-01-15 07:56,Emergency Dept,Magnesium Sulfate,Routine,74,Yes,No
+ORD-00045,2026-06-26 23:10,Hospital Main,Vancomycin,STAT,30,Yes,No
+ORD-00046,2026-05-19 10:12,Ambulatory Clinic,Magnesium Sulfate,Routine,44,Yes,No
+ORD-00047,2026-01-25 00:20,Hospital Main,Morphine,Scheduled,81,Yes,Yes
+ORD-00048,2026-03-02 17:45,Hospital Main,Morphine,Routine,99,No,Yes
+ORD-00049,2026-02-11 13:53,Ambulatory Clinic,Insulin Lispro,Routine,32,Yes,No
+ORD-00050,2026-01-16 14:25,Ambulatory Clinic,Magnesium Sulfate,STAT,16,Yes,No
+ORD-00051,2026-04-28 13:59,Women & Children,Heparin,STAT,6,Yes,Yes
+ORD-00052,2026-05-09 19:57,Emergency Dept,Heparin,Routine,43,Yes,Yes
+ORD-00053,2026-05-04 13:57,Hospital Main,Ceftriaxone,Routine,79,Yes,No
+ORD-00054,2026-05-19 12:11,Emergency Dept,Acetaminophen IV,STAT,26,Yes,No
+ORD-00055,2026-04-22 17:19,Hospital Main,Vancomycin,Scheduled,107,Yes,No
+ORD-00056,2026-02-10 06:57,Women & Children,Albuterol,STAT,29,Yes,No
+ORD-00057,2026-06-22 17:54,Ambulatory Clinic,Heparin,Routine,70,Yes,Yes
+ORD-00058,2026-01-17 16:30,Outpatient Infusion,Vancomycin,Routine,88,Yes,No
+ORD-00059,2026-05-04 15:24,Hospital Main,Vancomycin,Routine,44,Yes,No
+ORD-00060,2026-05-29 05:00,Ambulatory Clinic,Ceftriaxone,STAT,15,Yes,No
+ORD-00061,2026-06-17 08:15,Hospital Main,Albuterol,STAT,6,Yes,No
+ORD-00062,2026-01-30 14:58,Ambulatory Clinic,Cefazolin,Routine,26,Yes,No
+ORD-00063,2026-06-01 13:37,Ambulatory Clinic,Heparin,Routine,48,Yes,Yes
+ORD-00064,2026-02-15 23:43,Hospital Main,Insulin Lispro,Routine,86,Yes,No
+ORD-00065,2026-04-07 11:44,Emergency Dept,Ceftriaxone,Routine,77,Yes,No
+ORD-00066,2026-05-28 03:08,Outpatient Infusion,Acetaminophen IV,Routine,94,No,No
+ORD-00067,2026-06-07 16:37,Ambulatory Clinic,Insulin Lispro,Routine,60,Yes,No
+ORD-00068,2026-04-22 20:40,Hospital Main,Acetaminophen IV,Routine,73,Yes,No
+ORD-00069,2026-02-04 18:55,Ambulatory Clinic,Vancomycin,Routine,50,Yes,No
+ORD-00070,2026-06-08 13:27,Ambulatory Clinic,Ondansetron,STAT,17,Yes,No
+ORD-00071,2026-04-23 18:39,Emergency Dept,Acetaminophen IV,STAT,32,No,No
+ORD-00072,2026-04-28 09:43,Emergency Dept,Ondansetron,Routine,58,Yes,No
+ORD-00073,2026-06-25 19:54,Ambulatory Clinic,Ondansetron,Routine,79,Yes,No
+ORD-00074,2026-06-05 16:54,Outpatient Infusion,Cefazolin,Routine,69,Yes,No
+ORD-00075,2026-03-04 09:53,Emergency Dept,Ceftriaxone,Scheduled,72,Yes,No
+ORD-00076,2026-05-29 17:51,Ambulatory Clinic,Cefazolin,Scheduled,116,Yes,No
+ORD-00077,2026-03-16 18:34,Hospital Main,Ondansetron,Routine,85,Yes,No
+ORD-00078,2026-06-19 20:32,Emergency Dept,Vancomycin,Routine,59,Yes,No
+ORD-00079,2026-02-13 03:53,Hospital Main,Insulin Lispro,Routine,63,Yes,No
+ORD-00080,2026-04-13 09:35,Ambulatory Clinic,Vancomycin,STAT,19,Yes,No
+ORD-00081,2026-05-20 05:17,Ambulatory Clinic,Ondansetron,Routine,69,Yes,No
+ORD-00082,2026-05-23 17:36,Ambulatory Clinic,Heparin,Scheduled,103,Yes,Yes
+ORD-00083,2026-01-11 10:30,Outpatient Infusion,Ceftriaxone,Routine,33,Yes,No
+ORD-00084,2026-03-09 23:06,Ambulatory Clinic,Morphine,Routine,35,Yes,Yes
+ORD-00085,2026-03-02 00:09,Emergency Dept,Morphine,Scheduled,110,Yes,Yes
+ORD-00086,2026-06-23 11:46,Emergency Dept,Magnesium Sulfate,STAT,21,Yes,No
+ORD-00087,2026-06-02 11:41,Women & Children,Vancomycin,Scheduled,119,Yes,No
+ORD-00088,2026-01-25 17:16,Ambulatory Clinic,Heparin,Scheduled,80,Yes,Yes
+ORD-00089,2026-05-19 21:54,Outpatient Infusion,Magnesium Sulfate,Routine,90,Yes,No
+ORD-00090,2026-01-05 20:07,Ambulatory Clinic,Acetaminophen IV,STAT,23,Yes,No
+ORD-00091,2026-06-14 01:01,Hospital Main,Heparin,Routine,65,Yes,Yes
+ORD-00092,2026-03-01 08:58,Outpatient Infusion,Ondansetron,Scheduled,79,Yes,No
+ORD-00093,2026-03-06 04:38,Ambulatory Clinic,Vancomycin,Routine,55,Yes,No
+ORD-00094,2026-04-19 17:57,Emergency Dept,Morphine,STAT,26,Yes,Yes
+ORD-00095,2026-01-10 12:09,Women & Children,Cefazolin,Routine,42,Yes,No
+ORD-00096,2026-05-03 04:20,Emergency Dept,Insulin Lispro,Routine,80,Yes,No
+ORD-00097,2026-02-16 03:38,Hospital Main,Morphine,Routine,84,Yes,Yes
+ORD-00098,2026-03-17 14:50,Hospital Main,Ondansetron,Routine,45,Yes,No
+ORD-00099,2026-05-03 12:19,Ambulatory Clinic,Ondansetron,Routine,45,Yes,No
+ORD-00100,2026-06-03 13:20,Women & Children,Cefazolin,Scheduled,127,No,No
+ORD-00101,2026-03-01 17:14,Outpatient Infusion,Vancomycin,Routine,67,Yes,No
+ORD-00102,2026-03-27 23:22,Women & Children,Cefazolin,STAT,21,Yes,No
+ORD-00103,2026-06-02 01:00,Women & Children,Magnesium Sulfate,STAT,21,Yes,No
+ORD-00104,2026-01-18 22:49,Emergency Dept,Heparin,Scheduled,102,Yes,Yes
+ORD-00105,2026-06-13 04:40,Emergency Dept,Acetaminophen IV,STAT,21,Yes,No
+ORD-00106,2026-05-20 23:15,Ambulatory Clinic,Morphine,Routine,33,Yes,Yes
+ORD-00107,2026-06-22 10:35,Outpatient Infusion,Insulin Lispro,Routine,51,Yes,No
+ORD-00108,2026-03-30 04:45,Outpatient Infusion,Cefazolin,Routine,47,Yes,No
+ORD-00109,2026-05-09 10:31,Outpatient Infusion,Albuterol,STAT,25,Yes,No
+ORD-00110,2026-01-14 16:54,Hospital Main,Morphine,Routine,65,Yes,Yes
+ORD-00111,2026-01-24 08:28,Emergency Dept,Ondansetron,Routine,60,Yes,No
+ORD-00112,2026-02-24 11:49,Women & Children,Ondansetron,Routine,77,Yes,No
+ORD-00113,2026-05-16 23:47,Outpatient Infusion,Cefazolin,Scheduled,98,Yes,No
+ORD-00114,2026-05-29 09:44,Ambulatory Clinic,Acetaminophen IV,Routine,49,Yes,No
+ORD-00115,2026-03-16 19:13,Hospital Main,Morphine,Routine,52,Yes,Yes
+ORD-00116,2026-02-19 03:33,Women & Children,Magnesium Sulfate,STAT,19,Yes,No
+ORD-00117,2026-01-18 22:12,Women & Children,Ceftriaxone,Scheduled,122,No,No
+ORD-00118,2026-01-10 16:30,Ambulatory Clinic,Ceftriaxone,Scheduled,85,Yes,No
+ORD-00119,2026-05-23 02:22,Women & Children,Acetaminophen IV,Routine,63,Yes,No
+ORD-00120,2026-05-23 13:11,Outpatient Infusion,Cefazolin,Routine,73,Yes,No
+ORD-00121,2026-02-01 14:44,Outpatient Infusion,Magnesium Sulfate,Routine,33,Yes,No
+ORD-00122,2026-02-27 15:51,Ambulatory Clinic,Vancomycin,STAT,6,Yes,No
+ORD-00123,2026-05-25 03:22,Emergency Dept,Acetaminophen IV,Routine,54,Yes,No
+ORD-00124,2026-01-23 23:30,Emergency Dept,Magnesium Sulfate,Scheduled,120,Yes,No
+ORD-00125,2026-06-01 12:37,Hospital Main,Ondansetron,Routine,62,Yes,No
+ORD-00126,2026-06-04 18:16,Emergency Dept,Magnesium Sulfate,Routine,47,Yes,No
+ORD-00127,2026-03-29 01:39,Ambulatory Clinic,Albuterol,Routine,63,Yes,No
+ORD-00128,2026-01-13 17:38,Ambulatory Clinic,Morphine,Routine,59,Yes,Yes
+ORD-00129,2026-05-28 00:34,Women & Children,Morphine,STAT,17,Yes,Yes
+ORD-00130,2026-04-15 21:33,Outpatient Infusion,Ondansetron,STAT,11,Yes,No
+ORD-00131,2026-03-17 12:17,Ambulatory Clinic,Ceftriaxone,Routine,58,Yes,No
+ORD-00132,2026-06-21 19:46,Emergency Dept,Albuterol,Routine,14,Yes,No
+ORD-00133,2026-02-13 17:58,Outpatient Infusion,Acetaminophen IV,Routine,53,Yes,No
+ORD-00134,2026-05-14 04:33,Hospital Main,Albuterol,STAT,13,Yes,No
+ORD-00135,2026-02-06 02:28,Ambulatory Clinic,Acetaminophen IV,Routine,24,Yes,No
+ORD-00136,2026-06-11 02:52,Women & Children,Ondansetron,Routine,30,Yes,No
+ORD-00137,2026-02-18 20:38,Emergency Dept,Cefazolin,Routine,88,Yes,No
+ORD-00138,2026-05-16 09:58,Outpatient Infusion,Morphine,Scheduled,66,Yes,Yes
+ORD-00139,2026-03-10 06:27,Emergency Dept,Insulin Lispro,Routine,38,Yes,No
+ORD-00140,2026-01-22 05:46,Women & Children,Vancomycin,Routine,73,Yes,No
+ORD-00141,2026-05-09 10:48,Emergency Dept,Ceftriaxone,STAT,24,Yes,No
+ORD-00142,2026-05-06 17:05,Outpatient Infusion,Morphine,Routine,65,Yes,Yes
+ORD-00143,2026-01-06 23:50,Ambulatory Clinic,Albuterol,Routine,62,Yes,No
+ORD-00144,2026-04-30 18:03,Outpatient Infusion,Morphine,STAT,22,Yes,Yes
+ORD-00145,2026-04-19 13:37,Women & Children,Heparin,Scheduled,58,Yes,Yes
+ORD-00146,2026-06-18 10:47,Ambulatory Clinic,Ceftriaxone,Routine,78,Yes,No
+ORD-00147,2026-04-29 23:00,Outpatient Infusion,Heparin,STAT,10,Yes,Yes
+ORD-00148,2026-02-01 03:36,Women & Children,Albuterol,STAT,27,Yes,No
+ORD-00149,2026-03-05 17:08,Ambulatory Clinic,Acetaminophen IV,Routine,47,Yes,No
+ORD-00150,2026-02-01 07:46,Emergency Dept,Vancomycin,Routine,43,Yes,No
+ORD-00151,2026-06-26 16:20,Ambulatory Clinic,Cefazolin,Scheduled,88,Yes,No
+ORD-00152,2026-03-25 01:56,Women & Children,Ondansetron,Routine,52,Yes,No
+ORD-00153,2026-04-29 06:25,Hospital Main,Morphine,Scheduled,100,Yes,Yes
+ORD-00154,2026-02-22 12:48,Emergency Dept,Insulin Lispro,Scheduled,52,Yes,No
+ORD-00155,2026-01-21 06:44,Outpatient Infusion,Ceftriaxone,Routine,45,Yes,No
+ORD-00156,2026-04-01 07:51,Ambulatory Clinic,Vancomycin,Routine,66,Yes,No
+ORD-00157,2026-06-10 10:34,Outpatient Infusion,Magnesium Sulfate,STAT,16,Yes,No
+ORD-00158,2026-06-20 07:05,Outpatient Infusion,Magnesium Sulfate,Scheduled,70,Yes,No
+ORD-00159,2026-03-03 18:31,Ambulatory Clinic,Insulin Lispro,Routine,60,Yes,No
+ORD-00160,2026-04-08 09:15,Emergency Dept,Albuterol,STAT,16,Yes,No
+ORD-00161,2026-02-04 16:58,Women & Children,Acetaminophen IV,Routine,19,Yes,No
+ORD-00162,2026-05-20 19:26,Emergency Dept,Magnesium Sulfate,STAT,23,Yes,No
+ORD-00163,2026-03-05 09:11,Ambulatory Clinic,Cefazolin,Routine,57,Yes,No
+ORD-00164,2026-06-30 21:26,Hospital Main,Vancomycin,Scheduled,101,Yes,No
+ORD-00165,2026-06-09 22:29,Outpatient Infusion,Heparin,Routine,78,Yes,Yes
+ORD-00166,2026-03-18 13:53,Outpatient Infusion,Vancomycin,Scheduled,57,Yes,No
+ORD-00167,2026-02-01 01:12,Ambulatory Clinic,Ceftriaxone,STAT,15,Yes,No
+ORD-00168,2026-03-09 04:31,Emergency Dept,Heparin,Routine,58,Yes,Yes
+ORD-00169,2026-05-11 03:16,Outpatient Infusion,Ondansetron,Routine,31,Yes,No
+ORD-00170,2026-06-01 10:50,Women & Children,Vancomycin,Routine,53,Yes,No
+ORD-00171,2026-05-28 01:26,Emergency Dept,Magnesium Sulfate,Routine,59,Yes,No
+ORD-00172,2026-06-05 20:44,Hospital Main,Albuterol,STAT,4,Yes,No
+ORD-00173,2026-05-10 17:48,Outpatient Infusion,Albuterol,Routine,61,Yes,No
+ORD-00174,2026-03-31 03:54,Women & Children,Morphine,Routine,17,Yes,Yes
+ORD-00175,2026-04-27 04:54,Emergency Dept,Cefazolin,Routine,61,Yes,No
+ORD-00176,2026-04-19 17:35,Hospital Main,Cefazolin,Routine,55,Yes,No
+ORD-00177,2026-03-11 23:49,Hospital Main,Heparin,Routine,64,Yes,Yes
+ORD-00178,2026-05-14 02:32,Emergency Dept,Heparin,Routine,81,Yes,Yes
+ORD-00179,2026-04-24 20:47,Outpatient Infusion,Ceftriaxone,Routine,60,Yes,No
+ORD-00180,2026-05-02 14:00,Outpatient Infusion,Cefazolin,Routine,78,Yes,No
+ORD-00181,2026-01-03 19:00,Ambulatory Clinic,Cefazolin,Scheduled,67,Yes,No
+ORD-00182,2026-06-13 13:01,Women & Children,Ceftriaxone,STAT,26,Yes,No
+ORD-00183,2026-02-04 11:16,Women & Children,Vancomycin,Scheduled,145,No,No
+ORD-00184,2026-03-01 02:39,Hospital Main,Morphine,Routine,74,Yes,Yes
+ORD-00185,2026-02-04 00:17,Outpatient Infusion,Cefazolin,STAT,17,Yes,No
+ORD-00186,2026-06-01 22:17,Hospital Main,Albuterol,Routine,35,Yes,No
+ORD-00187,2026-03-11 11:49,Women & Children,Ceftriaxone,Routine,79,Yes,No
+ORD-00188,2026-06-07 09:06,Women & Children,Insulin Lispro,Routine,66,Yes,No
+ORD-00189,2026-05-20 14:01,Ambulatory Clinic,Ceftriaxone,Routine,55,Yes,No
+ORD-00190,2026-05-28 13:13,Women & Children,Insulin Lispro,Routine,4,Yes,No
+ORD-00191,2026-05-07 09:50,Women & Children,Insulin Lispro,Routine,53,Yes,No
+ORD-00192,2026-06-15 21:13,Women & Children,Magnesium Sulfate,STAT,34,No,No
+ORD-00193,2026-05-17 19:03,Hospital Main,Heparin,Routine,48,Yes,Yes
+ORD-00194,2026-04-08 06:03,Emergency Dept,Vancomycin,STAT,19,Yes,No
+ORD-00195,2026-04-13 14:44,Women & Children,Vancomycin,Scheduled,94,Yes,No
+ORD-00196,2026-06-02 10:49,Women & Children,Magnesium Sulfate,Scheduled,96,Yes,No
+ORD-00197,2026-04-17 23:08,Hospital Main,Albuterol,Routine,36,Yes,No
+ORD-00198,2026-01-08 00:21,Emergency Dept,Acetaminophen IV,Routine,71,Yes,No
+ORD-00199,2026-01-08 01:06,Emergency Dept,Heparin,STAT,28,Yes,Yes
+ORD-00200,2026-01-04 00:51,Emergency Dept,Heparin,Routine,50,Yes,Yes
+ORD-00201,2026-01-23 06:48,Hospital Main,Acetaminophen IV,STAT,23,Yes,No
+ORD-00202,2026-04-08 18:02,Ambulatory Clinic,Acetaminophen IV,Scheduled,101,Yes,No
+ORD-00203,2026-06-17 12:31,Women & Children,Insulin Lispro,STAT,21,Yes,No
+ORD-00204,2026-03-13 23:26,Hospital Main,Acetaminophen IV,STAT,14,Yes,No
+ORD-00205,2026-02-12 17:51,Hospital Main,Acetaminophen IV,Scheduled,64,Yes,No
+ORD-00206,2026-04-15 01:09,Women & Children,Ondansetron,Routine,62,Yes,No
+ORD-00207,2026-02-03 05:23,Women & Children,Cefazolin,Routine,76,Yes,No
+ORD-00208,2026-02-24 18:17,Hospital Main,Insulin Lispro,Scheduled,92,Yes,No
+ORD-00209,2026-06-20 23:01,Ambulatory Clinic,Ondansetron,Routine,74,Yes,No
+ORD-00210,2026-05-02 05:24,Ambulatory Clinic,Vancomycin,Routine,25,Yes,No
+ORD-00211,2026-02-16 13:41,Outpatient Infusion,Morphine,STAT,26,Yes,Yes
+ORD-00212,2026-01-21 20:29,Ambulatory Clinic,Ondansetron,Routine,47,Yes,No
+ORD-00213,2026-01-07 21:08,Outpatient Infusion,Morphine,Scheduled,65,Yes,Yes
+ORD-00214,2026-01-29 12:02,Women & Children,Cefazolin,STAT,26,Yes,No
+ORD-00215,2026-06-20 03:20,Ambulatory Clinic,Albuterol,Scheduled,137,No,No
+ORD-00216,2026-05-19 12:48,Outpatient Infusion,Albuterol,Scheduled,120,Yes,No
+ORD-00217,2026-04-16 08:30,Ambulatory Clinic,Magnesium Sulfate,Scheduled,121,No,No
+ORD-00218,2026-04-18 04:13,Emergency Dept,Magnesium Sulfate,Scheduled,69,Yes,No
+ORD-00219,2026-01-03 16:33,Outpatient Infusion,Ondansetron,Routine,91,No,No
+ORD-00220,2026-04-23 21:35,Hospital Main,Albuterol,STAT,21,Yes,No
+ORD-00221,2026-01-09 15:18,Ambulatory Clinic,Albuterol,STAT,18,Yes,No
+ORD-00222,2026-04-14 18:47,Ambulatory Clinic,Heparin,Routine,60,Yes,Yes
+ORD-00223,2026-06-10 04:53,Women & Children,Morphine,Scheduled,85,Yes,Yes
+ORD-00224,2026-04-22 08:28,Hospital Main,Ceftriaxone,STAT,25,Yes,No
+ORD-00225,2026-02-27 18:33,Emergency Dept,Morphine,Routine,70,Yes,Yes
+ORD-00226,2026-01-03 05:04,Women & Children,Heparin,Routine,87,Yes,Yes
+ORD-00227,2026-05-06 21:47,Women & Children,Vancomycin,Routine,38,Yes,No
+ORD-00228,2026-02-25 00:03,Hospital Main,Vancomycin,Routine,94,No,No
+ORD-00229,2026-04-07 07:50,Outpatient Infusion,Magnesium Sulfate,Routine,34,Yes,No
+ORD-00230,2026-01-01 16:33,Ambulatory Clinic,Albuterol,Scheduled,65,Yes,No
+ORD-00231,2026-02-01 08:07,Emergency Dept,Vancomycin,STAT,33,No,No
+ORD-00232,2026-04-09 18:48,Women & Children,Heparin,STAT,16,Yes,Yes
+ORD-00233,2026-05-07 06:59,Emergency Dept,Albuterol,Routine,83,Yes,No
+ORD-00234,2026-04-28 23:45,Ambulatory Clinic,Vancomycin,Routine,48,Yes,No
+ORD-00235,2026-05-19 23:21,Outpatient Infusion,Ceftriaxone,Scheduled,161,No,No
+ORD-00236,2026-05-21 13:30,Outpatient Infusion,Magnesium Sulfate,Routine,43,Yes,No
+ORD-00237,2026-01-13 00:58,Ambulatory Clinic,Albuterol,Routine,51,Yes,No
+ORD-00238,2026-01-31 03:46,Women & Children,Acetaminophen IV,STAT,15,Yes,No
+ORD-00239,2026-01-25 16:56,Hospital Main,Morphine,STAT,11,Yes,Yes
+ORD-00240,2026-06-27 08:21,Ambulatory Clinic,Insulin Lispro,Routine,40,Yes,No
+ORD-00241,2026-03-21 04:01,Women & Children,Ondansetron,Scheduled,83,Yes,No
+ORD-00242,2026-02-22 10:48,Women & Children,Ondansetron,Routine,51,Yes,No
+ORD-00243,2026-01-08 14:20,Emergency Dept,Albuterol,Routine,57,Yes,No
+ORD-00244,2026-06-30 08:55,Emergency Dept,Magnesium Sulfate,Routine,84,Yes,No
+ORD-00245,2026-01-14 03:03,Ambulatory Clinic,Insulin Lispro,Routine,55,Yes,No
+ORD-00246,2026-02-05 22:49,Ambulatory Clinic,Cefazolin,Routine,55,Yes,No
+ORD-00247,2026-02-08 04:41,Women & Children,Ceftriaxone,Routine,72,Yes,No
+ORD-00248,2026-01-01 04:57,Emergency Dept,Insulin Lispro,STAT,17,Yes,No
+ORD-00249,2026-03-30 16:56,Hospital Main,Acetaminophen IV,Routine,53,Yes,No
+ORD-00250,2026-02-28 11:40,Women & Children,Magnesium Sulfate,Routine,67,Yes,No
+ORD-00251,2026-02-26 11:29,Hospital Main,Vancomycin,Routine,62,Yes,No
+ORD-00252,2026-05-24 04:35,Outpatient Infusion,Cefazolin,Routine,65,Yes,No
+ORD-00253,2026-06-25 13:04,Women & Children,Morphine,Routine,87,Yes,Yes
+ORD-00254,2026-04-12 03:56,Hospital Main,Vancomycin,Routine,61,Yes,No
+ORD-00255,2026-02-14 07:03,Outpatient Infusion,Magnesium Sulfate,Routine,68,Yes,No
+ORD-00256,2026-03-04 16:09,Emergency Dept,Cefazolin,STAT,21,Yes,No
+ORD-00257,2026-02-14 06:57,Women & Children,Albuterol,Routine,77,Yes,No
+ORD-00258,2026-03-31 02:08,Hospital Main,Ondansetron,Scheduled,74,Yes,No
+ORD-00259,2026-04-06 00:31,Emergency Dept,Magnesium Sulfate,Routine,63,Yes,No
+ORD-00260,2026-03-08 09:24,Hospital Main,Ondansetron,Routine,94,No,No
+ORD-00261,2026-02-06 14:26,Women & Children,Ondansetron,Routine,67,Yes,No
+ORD-00262,2026-01-23 10:15,Hospital Main,Morphine,Routine,55,Yes,Yes
+ORD-00263,2026-06-10 06:46,Outpatient Infusion,Acetaminophen IV,Scheduled,88,Yes,No
+ORD-00264,2026-04-18 02:31,Emergency Dept,Ceftriaxone,STAT,26,Yes,No
+ORD-00265,2026-03-23 03:47,Women & Children,Acetaminophen IV,Routine,67,Yes,No
+ORD-00266,2026-01-01 16:25,Emergency Dept,Magnesium Sulfate,Scheduled,121,No,No
+ORD-00267,2026-06-28 12:09,Women & Children,Ondansetron,Scheduled,132,No,No
+ORD-00268,2026-04-24 13:54,Ambulatory Clinic,Acetaminophen IV,Routine,50,Yes,No
+ORD-00269,2026-03-11 19:18,Emergency Dept,Acetaminophen IV,Scheduled,68,Yes,No
+ORD-00270,2026-06-13 06:23,Hospital Main,Vancomycin,Routine,35,Yes,No
+ORD-00271,2026-01-28 16:19,Ambulatory Clinic,Albuterol,Routine,54,Yes,No
+ORD-00272,2026-03-02 10:55,Outpatient Infusion,Heparin,Routine,68,Yes,Yes
+ORD-00273,2026-03-20 23:26,Emergency Dept,Ceftriaxone,STAT,22,Yes,No
+ORD-00274,2026-06-13 13:53,Outpatient Infusion,Albuterol,Routine,63,Yes,No
+ORD-00275,2026-04-02 05:22,Outpatient Infusion,Albuterol,Scheduled,121,No,No
+ORD-00276,2026-06-26 08:51,Outpatient Infusion,Cefazolin,Routine,60,Yes,No
+ORD-00277,2026-01-26 21:45,Ambulatory Clinic,Acetaminophen IV,Routine,50,Yes,No
+ORD-00278,2026-02-07 14:15,Hospital Main,Magnesium Sulfate,Routine,55,Yes,No
+ORD-00279,2026-02-27 10:43,Ambulatory Clinic,Ondansetron,Routine,82,Yes,No
+ORD-00280,2026-01-17 16:33,Outpatient Infusion,Albuterol,Scheduled,46,Yes,No
+ORD-00281,2026-05-18 00:25,Emergency Dept,Ondansetron,Scheduled,150,No,No
+ORD-00282,2026-01-26 01:11,Hospital Main,Insulin Lispro,Scheduled,96,Yes,No
+ORD-00283,2026-04-05 09:12,Outpatient Infusion,Cefazolin,Scheduled,114,Yes,No
+ORD-00284,2026-01-31 22:25,Hospital Main,Ondansetron,Routine,95,No,No
+ORD-00285,2026-05-16 13:00,Women & Children,Acetaminophen IV,STAT,17,Yes,No
+ORD-00286,2026-05-10 12:03,Hospital Main,Heparin,STAT,10,Yes,Yes
+ORD-00287,2026-06-28 06:06,Ambulatory Clinic,Acetaminophen IV,Routine,34,Yes,No
+ORD-00288,2026-01-13 02:05,Outpatient Infusion,Vancomycin,Scheduled,66,Yes,No
+ORD-00289,2026-02-23 09:58,Emergency Dept,Cefazolin,Routine,58,Yes,No
+ORD-00290,2026-01-26 18:52,Emergency Dept,Ceftriaxone,Routine,34,Yes,No
+ORD-00291,2026-01-27 20:48,Emergency Dept,Insulin Lispro,Routine,86,Yes,No
+ORD-00292,2026-06-07 01:46,Ambulatory Clinic,Ondansetron,STAT,16,Yes,No
+ORD-00293,2026-06-15 09:54,Emergency Dept,Ceftriaxone,Routine,56,Yes,No
+ORD-00294,2026-01-31 02:13,Emergency Dept,Morphine,Routine,60,Yes,Yes
+ORD-00295,2026-05-16 05:45,Hospital Main,Vancomycin,Routine,70,Yes,No
+ORD-00296,2026-04-24 16:47,Hospital Main,Acetaminophen IV,STAT,27,Yes,No
+ORD-00297,2026-04-30 19:48,Hospital Main,Heparin,Routine,67,Yes,Yes
+ORD-00298,2026-01-08 17:44,Ambulatory Clinic,Cefazolin,Routine,54,Yes,No
+ORD-00299,2026-05-01 04:08,Women & Children,Albuterol,Scheduled,10,Yes,No
+ORD-00300,2026-03-06 15:31,Hospital Main,Ceftriaxone,Routine,26,Yes,No
+ORD-00301,2026-03-28 07:02,Emergency Dept,Magnesium Sulfate,Routine,92,No,No
+ORD-00302,2026-02-16 09:35,Hospital Main,Ceftriaxone,Routine,85,Yes,No
+ORD-00303,2026-04-01 14:55,Ambulatory Clinic,Vancomycin,STAT,13,Yes,No
+ORD-00304,2026-03-17 06:51,Women & Children,Heparin,Scheduled,51,Yes,Yes
+ORD-00305,2026-02-17 05:52,Hospital Main,Magnesium Sulfate,Routine,62,Yes,No
+ORD-00306,2026-06-21 12:35,Outpatient Infusion,Acetaminophen IV,Routine,38,Yes,No
+ORD-00307,2026-06-20 15:01,Emergency Dept,Acetaminophen IV,Routine,44,Yes,No
+ORD-00308,2026-06-26 03:15,Ambulatory Clinic,Morphine,Routine,75,Yes,Yes
+ORD-00309,2026-02-06 02:20,Hospital Main,Cefazolin,Scheduled,136,No,No
+ORD-00310,2026-04-10 02:00,Emergency Dept,Vancomycin,Routine,34,Yes,No
+ORD-00311,2026-04-04 01:52,Ambulatory Clinic,Ondansetron,Scheduled,123,No,No
+ORD-00312,2026-06-29 23:44,Hospital Main,Albuterol,Routine,90,Yes,No
+ORD-00313,2026-02-26 18:08,Outpatient Infusion,Ceftriaxone,Scheduled,67,Yes,No
+ORD-00314,2026-01-03 09:58,Hospital Main,Magnesium Sulfate,Routine,57,Yes,No
+ORD-00315,2026-01-20 00:20,Women & Children,Vancomycin,STAT,18,Yes,No
+ORD-00316,2026-05-02 23:23,Ambulatory Clinic,Magnesium Sulfate,Routine,63,Yes,No
+ORD-00317,2026-04-14 22:50,Women & Children,Heparin,Routine,95,No,Yes
+ORD-00318,2026-03-01 09:35,Hospital Main,Cefazolin,STAT,14,Yes,No
+ORD-00319,2026-01-05 03:56,Outpatient Infusion,Acetaminophen IV,Routine,59,Yes,No
+ORD-00320,2026-05-10 18:50,Emergency Dept,Cefazolin,Routine,46,Yes,No
+ORD-00321,2026-03-05 17:21,Outpatient Infusion,Cefazolin,STAT,21,Yes,No
+ORD-00322,2026-05-07 10:51,Hospital Main,Insulin Lispro,Routine,14,Yes,No
+ORD-00323,2026-04-06 18:31,Ambulatory Clinic,Cefazolin,Routine,56,Yes,No
+ORD-00324,2026-06-13 01:48,Ambulatory Clinic,Acetaminophen IV,STAT,26,Yes,No
+ORD-00325,2026-04-09 00:09,Outpatient Infusion,Ondansetron,Routine,53,Yes,No
+ORD-00326,2026-03-13 13:49,Emergency Dept,Acetaminophen IV,STAT,4,Yes,No
+ORD-00327,2026-04-02 02:28,Hospital Main,Vancomycin,Routine,80,Yes,No
+ORD-00328,2026-02-01 11:24,Outpatient Infusion,Acetaminophen IV,Routine,66,Yes,No
+ORD-00329,2026-06-14 07:30,Hospital Main,Heparin,STAT,11,Yes,Yes
+ORD-00330,2026-05-16 00:49,Women & Children,Acetaminophen IV,Routine,109,No,No
+ORD-00331,2026-01-19 09:32,Outpatient Infusion,Acetaminophen IV,Routine,49,Yes,No
+ORD-00332,2026-02-14 10:16,Emergency Dept,Ceftriaxone,Routine,66,Yes,No
+ORD-00333,2026-02-07 14:11,Ambulatory Clinic,Ceftriaxone,Scheduled,124,No,No
+ORD-00334,2026-04-20 08:08,Hospital Main,Acetaminophen IV,Routine,57,Yes,No
+ORD-00335,2026-04-07 21:13,Women & Children,Acetaminophen IV,Scheduled,121,No,No
+ORD-00336,2026-03-28 06:46,Ambulatory Clinic,Magnesium Sulfate,Routine,33,Yes,No
+ORD-00337,2026-06-27 04:22,Ambulatory Clinic,Insulin Lispro,Routine,26,Yes,No
+ORD-00338,2026-05-02 19:03,Emergency Dept,Vancomycin,Scheduled,80,Yes,No
+ORD-00339,2026-05-13 16:25,Ambulatory Clinic,Heparin,STAT,15,Yes,Yes
+ORD-00340,2026-03-02 08:00,Outpatient Infusion,Vancomycin,Routine,24,Yes,No
+ORD-00341,2026-06-04 04:30,Women & Children,Albuterol,Routine,96,No,No
+ORD-00342,2026-06-02 14:27,Outpatient Infusion,Vancomycin,Routine,80,Yes,No
+ORD-00343,2026-06-24 20:47,Outpatient Infusion,Magnesium Sulfate,Routine,56,Yes,No
+ORD-00344,2026-04-29 15:45,Outpatient Infusion,Morphine,Routine,34,Yes,Yes
+ORD-00345,2026-04-22 02:37,Hospital Main,Heparin,Scheduled,72,Yes,Yes
+ORD-00346,2026-02-16 15:13,Emergency Dept,Insulin Lispro,Routine,56,Yes,No
+ORD-00347,2026-02-22 05:03,Women & Children,Insulin Lispro,Scheduled,98,Yes,No
+ORD-00348,2026-01-20 14:53,Outpatient Infusion,Acetaminophen IV,Routine,65,Yes,No
+ORD-00349,2026-01-31 15:06,Emergency Dept,Insulin Lispro,STAT,17,Yes,No
+ORD-00350,2026-05-20 11:07,Outpatient Infusion,Ondansetron,Scheduled,131,No,No
+ORD-00351,2026-04-14 18:35,Women & Children,Vancomycin,Routine,93,No,No
+ORD-00352,2026-05-29 00:13,Ambulatory Clinic,Insulin Lispro,Routine,43,Yes,No
+ORD-00353,2026-02-16 23:26,Ambulatory Clinic,Ceftriaxone,STAT,34,No,No
+ORD-00354,2026-02-17 21:25,Outpatient Infusion,Acetaminophen IV,Scheduled,88,Yes,No
+ORD-00355,2026-01-16 13:34,Hospital Main,Cefazolin,Routine,83,Yes,No
+ORD-00356,2026-02-25 02:25,Women & Children,Acetaminophen IV,Scheduled,54,Yes,No
+ORD-00357,2026-01-11 10:43,Hospital Main,Vancomycin,Routine,62,Yes,No
+ORD-00358,2026-04-28 05:16,Outpatient Infusion,Magnesium Sulfate,Routine,70,Yes,No
+ORD-00359,2026-01-29 14:10,Ambulatory Clinic,Ondansetron,Scheduled,68,Yes,No
+ORD-00360,2026-05-23 00:34,Women & Children,Albuterol,STAT,22,Yes,No
+ORD-00361,2026-04-12 10:16,Hospital Main,Insulin Lispro,Scheduled,57,Yes,No
+ORD-00362,2026-05-21 10:06,Ambulatory Clinic,Heparin,Routine,39,Yes,Yes
+ORD-00363,2026-02-27 04:29,Women & Children,Acetaminophen IV,Routine,65,Yes,No
+ORD-00364,2026-05-27 03:52,Emergency Dept,Heparin,Routine,48,Yes,Yes
+ORD-00365,2026-01-13 09:49,Ambulatory Clinic,Magnesium Sulfate,STAT,25,Yes,No
+ORD-00366,2026-04-26 12:41,Outpatient Infusion,Insulin Lispro,Routine,29,Yes,No
+ORD-00367,2026-02-12 17:41,Outpatient Infusion,Morphine,Scheduled,68,Yes,Yes
+ORD-00368,2026-06-10 18:23,Hospital Main,Acetaminophen IV,Routine,49,Yes,No
+ORD-00369,2026-05-10 17:27,Outpatient Infusion,Vancomycin,Routine,38,Yes,No
+ORD-00370,2026-04-16 00:10,Hospital Main,Ceftriaxone,STAT,20,Yes,No
+ORD-00371,2026-01-27 18:53,Women & Children,Albuterol,STAT,21,Yes,No
+ORD-00372,2026-04-06 09:56,Women & Children,Albuterol,STAT,22,Yes,No
+ORD-00373,2026-03-08 17:36,Hospital Main,Albuterol,Routine,73,Yes,No
+ORD-00374,2026-02-19 07:13,Women & Children,Vancomycin,Scheduled,72,Yes,No
+ORD-00375,2026-03-04 11:04,Hospital Main,Insulin Lispro,Scheduled,137,No,No
+ORD-00376,2026-03-30 01:07,Ambulatory Clinic,Heparin,Scheduled,58,Yes,Yes
+ORD-00377,2026-03-14 10:50,Hospital Main,Heparin,Scheduled,39,Yes,Yes
+ORD-00378,2026-05-24 09:44,Women & Children,Albuterol,Routine,39,Yes,No
+ORD-00379,2026-03-04 06:56,Women & Children,Ondansetron,Scheduled,75,Yes,No
+ORD-00380,2026-04-20 04:00,Ambulatory Clinic,Vancomycin,Routine,65,Yes,No
+ORD-00381,2026-05-18 20:14,Hospital Main,Insulin Lispro,Scheduled,102,Yes,No
+ORD-00382,2026-01-24 05:56,Ambulatory Clinic,Vancomycin,Routine,25,Yes,No
+ORD-00383,2026-03-27 19:25,Outpatient Infusion,Albuterol,Routine,62,Yes,No
+ORD-00384,2026-02-06 07:31,Emergency Dept,Heparin,STAT,21,Yes,Yes
+ORD-00385,2026-04-28 09:37,Outpatient Infusion,Ondansetron,STAT,25,Yes,No
+ORD-00386,2026-06-02 08:41,Hospital Main,Albuterol,Routine,46,Yes,No
+ORD-00387,2026-04-25 10:39,Hospital Main,Albuterol,STAT,17,Yes,No
+ORD-00388,2026-02-28 03:30,Outpatient Infusion,Heparin,Routine,62,Yes,Yes
+ORD-00389,2026-02-02 13:54,Outpatient Infusion,Acetaminophen IV,Routine,46,Yes,No
+ORD-00390,2026-04-13 08:24,Hospital Main,Insulin Lispro,Routine,36,Yes,No
+ORD-00391,2026-06-08 13:07,Emergency Dept,Heparin,STAT,16,Yes,Yes
+ORD-00392,2026-05-17 08:20,Women & Children,Ondansetron,STAT,18,Yes,No
+ORD-00393,2026-02-12 22:06,Hospital Main,Morphine,Routine,70,Yes,Yes
+ORD-00394,2026-03-23 03:17,Women & Children,Insulin Lispro,STAT,14,Yes,No
+ORD-00395,2026-06-13 03:19,Women & Children,Vancomycin,Routine,15,Yes,No
+ORD-00396,2026-04-29 20:08,Outpatient Infusion,Acetaminophen IV,Routine,74,Yes,No
+ORD-00397,2026-02-02 11:44,Outpatient Infusion,Insulin Lispro,STAT,27,Yes,No
+ORD-00398,2026-03-07 20:51,Outpatient Infusion,Ceftriaxone,Scheduled,111,Yes,No
+ORD-00399,2026-06-01 05:47,Hospital Main,Ondansetron,Routine,52,Yes,No
+ORD-00400,2026-05-07 20:24,Ambulatory Clinic,Heparin,Scheduled,90,Yes,Yes
+ORD-00401,2026-03-02 05:37,Ambulatory Clinic,Ceftriaxone,Routine,92,No,No
+ORD-00402,2026-01-15 05:21,Emergency Dept,Ceftriaxone,Routine,81,Yes,No
+ORD-00403,2026-04-21 08:03,Ambulatory Clinic,Morphine,Routine,62,Yes,Yes
+ORD-00404,2026-05-15 16:12,Ambulatory Clinic,Insulin Lispro,Scheduled,61,Yes,No
+ORD-00405,2026-03-24 22:27,Emergency Dept,Insulin Lispro,Routine,73,Yes,No
+ORD-00406,2026-03-10 12:30,Women & Children,Albuterol,Routine,87,Yes,No
+ORD-00407,2026-04-03 09:59,Women & Children,Morphine,Routine,81,Yes,Yes
+ORD-00408,2026-02-13 17:10,Women & Children,Insulin Lispro,Scheduled,110,Yes,No
+ORD-00409,2026-01-03 03:34,Women & Children,Morphine,Routine,43,Yes,Yes
+ORD-00410,2026-02-13 09:28,Women & Children,Ceftriaxone,Routine,33,Yes,No
+ORD-00411,2026-05-31 08:56,Women & Children,Vancomycin,STAT,31,No,No
+ORD-00412,2026-03-04 08:05,Outpatient Infusion,Albuterol,Routine,45,Yes,No
+ORD-00413,2026-06-02 00:50,Hospital Main,Albuterol,Routine,47,Yes,No
+ORD-00414,2026-06-27 14:02,Women & Children,Magnesium Sulfate,Routine,64,Yes,No
+ORD-00415,2026-03-09 10:52,Hospital Main,Albuterol,Routine,60,Yes,No
+ORD-00416,2026-03-14 20:02,Hospital Main,Heparin,Routine,65,Yes,Yes
+ORD-00417,2026-01-13 23:48,Hospital Main,Albuterol,Routine,48,Yes,No
+ORD-00418,2026-06-08 05:08,Women & Children,Ondansetron,Scheduled,105,Yes,No
+ORD-00419,2026-01-24 02:37,Women & Children,Magnesium Sulfate,Scheduled,78,Yes,No
+ORD-00420,2026-01-06 16:09,Emergency Dept,Acetaminophen IV,Routine,38,Yes,No
+ORD-00421,2026-03-24 12:17,Emergency Dept,Cefazolin,Scheduled,89,Yes,No
+ORD-00422,2026-01-15 15:27,Women & Children,Magnesium Sulfate,Routine,19,Yes,No
+ORD-00423,2026-05-15 22:22,Hospital Main,Vancomycin,Routine,59,Yes,No
+ORD-00424,2026-03-11 13:05,Emergency Dept,Magnesium Sulfate,Routine,70,Yes,No
+ORD-00425,2026-02-27 21:07,Women & Children,Heparin,Scheduled,123,No,Yes
+ORD-00426,2026-06-08 08:18,Hospital Main,Magnesium Sulfate,Routine,77,Yes,No
+ORD-00427,2026-02-21 22:06,Emergency Dept,Morphine,Routine,62,Yes,Yes
+ORD-00428,2026-02-20 14:11,Emergency Dept,Acetaminophen IV,Routine,48,Yes,No
+ORD-00429,2026-04-10 16:23,Emergency Dept,Magnesium Sulfate,Scheduled,90,Yes,No
+ORD-00430,2026-06-27 06:50,Outpatient Infusion,Albuterol,Routine,36,Yes,No
+ORD-00431,2026-06-09 01:52,Outpatient Infusion,Magnesium Sulfate,Scheduled,28,Yes,No
+ORD-00432,2026-01-26 16:35,Emergency Dept,Vancomycin,Scheduled,100,Yes,No
+ORD-00433,2026-05-07 19:39,Ambulatory Clinic,Heparin,STAT,19,Yes,Yes
+ORD-00434,2026-02-13 09:35,Women & Children,Acetaminophen IV,Routine,52,Yes,No
+ORD-00435,2026-03-10 02:49,Emergency Dept,Insulin Lispro,Routine,38,Yes,No
+ORD-00436,2026-02-20 16:52,Emergency Dept,Albuterol,Routine,87,Yes,No
+ORD-00437,2026-05-26 00:10,Outpatient Infusion,Ondansetron,Routine,48,Yes,No
+ORD-00438,2026-02-05 13:35,Ambulatory Clinic,Vancomycin,Routine,68,Yes,No
+ORD-00439,2026-04-30 05:12,Ambulatory Clinic,Magnesium Sulfate,Routine,54,Yes,No
+ORD-00440,2026-01-01 19:21,Women & Children,Ceftriaxone,Scheduled,135,No,No
+ORD-00441,2026-06-10 10:30,Outpatient Infusion,Insulin Lispro,STAT,19,Yes,No
+ORD-00442,2026-06-01 19:01,Hospital Main,Albuterol,Scheduled,67,Yes,No
+ORD-00443,2026-05-03 17:04,Outpatient Infusion,Magnesium Sulfate,STAT,9,Yes,No
+ORD-00444,2026-04-16 23:06,Outpatient Infusion,Heparin,Routine,60,Yes,Yes
+ORD-00445,2026-05-14 08:17,Women & Children,Acetaminophen IV,STAT,19,Yes,No
+ORD-00446,2026-04-26 20:54,Outpatient Infusion,Magnesium Sulfate,Routine,49,Yes,No
+ORD-00447,2026-04-17 14:08,Emergency Dept,Heparin,Routine,96,No,Yes
+ORD-00448,2026-01-18 11:42,Outpatient Infusion,Cefazolin,Routine,38,Yes,No
+ORD-00449,2026-05-13 23:38,Ambulatory Clinic,Vancomycin,Scheduled,111,Yes,No
+ORD-00450,2026-06-28 05:36,Hospital Main,Vancomycin,Routine,76,Yes,No
+ORD-00451,2026-03-20 10:02,Emergency Dept,Ceftriaxone,Routine,54,Yes,No
+ORD-00452,2026-04-16 13:02,Outpatient Infusion,Vancomycin,Routine,72,Yes,No
+ORD-00453,2026-03-05 14:17,Emergency Dept,Albuterol,Routine,62,Yes,No
+ORD-00454,2026-06-15 14:42,Women & Children,Vancomycin,Scheduled,120,Yes,No
+ORD-00455,2026-05-01 22:50,Hospital Main,Ceftriaxone,Scheduled,98,Yes,No
+ORD-00456,2026-04-16 15:58,Ambulatory Clinic,Ondansetron,Routine,69,Yes,No
+ORD-00457,2026-06-07 00:49,Ambulatory Clinic,Acetaminophen IV,Routine,39,Yes,No
+ORD-00458,2026-05-09 10:43,Ambulatory Clinic,Vancomycin,Routine,57,Yes,No
+ORD-00459,2026-02-22 18:26,Women & Children,Ondansetron,Routine,69,Yes,No
+ORD-00460,2026-06-08 16:48,Emergency Dept,Magnesium Sulfate,STAT,27,Yes,No
+ORD-00461,2026-03-22 20:20,Hospital Main,Ondansetron,Routine,64,Yes,No
+ORD-00462,2026-04-27 01:16,Ambulatory Clinic,Magnesium Sulfate,Routine,65,Yes,No
+ORD-00463,2026-01-20 17:55,Emergency Dept,Acetaminophen IV,STAT,16,Yes,No
+ORD-00464,2026-01-16 02:25,Women & Children,Albuterol,Scheduled,102,Yes,No
+ORD-00465,2026-06-23 00:30,Women & Children,Albuterol,Routine,60,Yes,No
+ORD-00466,2026-06-07 02:43,Ambulatory Clinic,Ceftriaxone,Scheduled,52,Yes,No
+ORD-00467,2026-05-06 03:35,Women & Children,Magnesium Sulfate,Routine,91,No,No
+ORD-00468,2026-03-01 14:05,Emergency Dept,Vancomycin,Routine,50,Yes,No
+ORD-00469,2026-03-20 19:16,Women & Children,Magnesium Sulfate,Routine,65,Yes,No
+ORD-00470,2026-06-28 18:34,Women & Children,Cefazolin,Routine,69,Yes,No
+ORD-00471,2026-03-02 10:19,Ambulatory Clinic,Vancomycin,STAT,14,Yes,No
+ORD-00472,2026-04-18 14:01,Emergency Dept,Albuterol,STAT,27,Yes,No
+ORD-00473,2026-06-07 10:52,Ambulatory Clinic,Acetaminophen IV,Routine,12,Yes,No
+ORD-00474,2026-05-16 05:17,Women & Children,Ceftriaxone,Scheduled,167,No,No
+ORD-00475,2026-03-13 21:50,Women & Children,Vancomycin,Routine,64,Yes,No
+ORD-00476,2026-01-20 14:46,Ambulatory Clinic,Cefazolin,Routine,27,Yes,No
+ORD-00477,2026-05-09 00:24,Emergency Dept,Ondansetron,Routine,49,Yes,No
+ORD-00478,2026-06-15 16:37,Hospital Main,Cefazolin,Routine,41,Yes,No
+ORD-00479,2026-03-06 18:58,Women & Children,Ceftriaxone,STAT,36,No,No
+ORD-00480,2026-01-12 03:30,Hospital Main,Albuterol,Scheduled,90,Yes,No
+ORD-00481,2026-04-16 20:19,Hospital Main,Acetaminophen IV,Scheduled,100,Yes,No
+ORD-00482,2026-05-19 01:33,Hospital Main,Acetaminophen IV,STAT,28,Yes,No
+ORD-00483,2026-02-08 16:10,Ambulatory Clinic,Magnesium Sulfate,Routine,37,Yes,No
+ORD-00484,2026-03-18 16:20,Hospital Main,Vancomycin,Routine,29,Yes,No
+ORD-00485,2026-05-13 16:42,Ambulatory Clinic,Morphine,Scheduled,108,Yes,Yes
+ORD-00486,2026-06-11 08:05,Hospital Main,Magnesium Sulfate,Routine,84,Yes,No
+ORD-00487,2026-04-19 18:43,Hospital Main,Albuterol,Scheduled,78,Yes,No
+ORD-00488,2026-05-01 12:25,Women & Children,Vancomycin,Routine,64,Yes,No
+ORD-00489,2026-05-16 04:53,Hospital Main,Heparin,Routine,30,Yes,Yes
+ORD-00490,2026-02-14 13:12,Outpatient Infusion,Ondansetron,Routine,65,Yes,No
+ORD-00491,2026-03-25 19:24,Women & Children,Ondansetron,Routine,20,Yes,No
+ORD-00492,2026-05-05 00:05,Women & Children,Vancomycin,Routine,52,Yes,No
+ORD-00493,2026-03-17 21:59,Women & Children,Ondansetron,STAT,23,Yes,No
+ORD-00494,2026-06-02 00:37,Hospital Main,Insulin Lispro,Scheduled,74,Yes,No
+ORD-00495,2026-04-28 11:15,Hospital Main,Insulin Lispro,Routine,55,Yes,No
+ORD-00496,2026-06-30 01:15,Ambulatory Clinic,Magnesium Sulfate,Routine,80,Yes,No
+ORD-00497,2026-04-25 00:08,Outpatient Infusion,Heparin,Routine,81,Yes,Yes
+ORD-00498,2026-06-26 09:02,Outpatient Infusion,Morphine,Routine,83,Yes,Yes
+ORD-00499,2026-04-19 08:32,Hospital Main,Ceftriaxone,Scheduled,103,Yes,No
+ORD-00500,2026-03-13 21:01,Women & Children,Magnesium Sulfate,Scheduled,36,Yes,No
+ORD-00501,2026-03-11 16:34,Women & Children,Cefazolin,Routine,53,Yes,No
+ORD-00502,2026-05-08 07:33,Outpatient Infusion,Ondansetron,Scheduled,56,Yes,No
+ORD-00503,2026-04-13 13:09,Women & Children,Insulin Lispro,Routine,78,Yes,No
+ORD-00504,2026-04-29 19:49,Ambulatory Clinic,Ceftriaxone,Routine,62,Yes,No
+ORD-00505,2026-05-30 02:08,Outpatient Infusion,Albuterol,Routine,79,Yes,No
+ORD-00506,2026-06-20 05:08,Hospital Main,Ondansetron,Routine,9,Yes,No
+ORD-00507,2026-05-15 12:11,Women & Children,Magnesium Sulfate,Routine,71,Yes,No
+ORD-00508,2026-04-12 02:29,Ambulatory Clinic,Albuterol,Routine,72,Yes,No
+ORD-00509,2026-02-18 11:24,Ambulatory Clinic,Albuterol,Scheduled,133,No,No
+ORD-00510,2026-02-09 18:58,Ambulatory Clinic,Ceftriaxone,Routine,48,Yes,No
+ORD-00511,2026-03-24 17:47,Emergency Dept,Magnesium Sulfate,Routine,34,Yes,No
+ORD-00512,2026-06-06 05:23,Emergency Dept,Vancomycin,Routine,63,Yes,No
+ORD-00513,2026-03-05 08:33,Women & Children,Vancomycin,Routine,68,Yes,No
+ORD-00514,2026-06-05 07:06,Outpatient Infusion,Heparin,Routine,46,Yes,Yes
+ORD-00515,2026-02-18 19:05,Women & Children,Insulin Lispro,Routine,100,No,No
+ORD-00516,2026-03-16 09:03,Emergency Dept,Magnesium Sulfate,STAT,22,Yes,No
+ORD-00517,2026-06-07 23:47,Hospital Main,Ondansetron,Routine,36,Yes,No
+ORD-00518,2026-03-14 23:59,Ambulatory Clinic,Cefazolin,Routine,24,Yes,No
+ORD-00519,2026-01-31 00:13,Ambulatory Clinic,Albuterol,Routine,74,Yes,No
+ORD-00520,2026-05-20 15:08,Hospital Main,Albuterol,Routine,81,Yes,No
+ORD-00521,2026-04-22 20:20,Emergency Dept,Ondansetron,STAT,23,Yes,No
+ORD-00522,2026-02-04 09:58,Hospital Main,Morphine,Routine,11,Yes,Yes
+ORD-00523,2026-06-16 04:03,Ambulatory Clinic,Insulin Lispro,Routine,60,Yes,No
+ORD-00524,2026-05-05 13:27,Ambulatory Clinic,Cefazolin,Routine,53,Yes,No
+ORD-00525,2026-03-08 17:57,Ambulatory Clinic,Magnesium Sulfate,STAT,35,No,No
+ORD-00526,2026-05-20 01:41,Outpatient Infusion,Magnesium Sulfate,Routine,39,Yes,No
+ORD-00527,2026-01-02 02:30,Outpatient Infusion,Heparin,Routine,86,Yes,Yes
+ORD-00528,2026-04-15 03:59,Ambulatory Clinic,Magnesium Sulfate,Routine,58,Yes,No
+ORD-00529,2026-05-03 04:48,Outpatient Infusion,Vancomycin,Routine,62,Yes,No
+ORD-00530,2026-03-07 03:45,Women & Children,Morphine,Routine,41,Yes,Yes
+ORD-00531,2026-01-19 21:12,Emergency Dept,Albuterol,Routine,55,Yes,No
+ORD-00532,2026-05-08 15:31,Women & Children,Insulin Lispro,STAT,20,Yes,No
+ORD-00533,2026-03-31 01:14,Emergency Dept,Cefazolin,Routine,58,Yes,No
+ORD-00534,2026-01-12 04:44,Outpatient Infusion,Albuterol,Routine,45,Yes,No
+ORD-00535,2026-05-30 19:46,Hospital Main,Albuterol,Routine,44,Yes,No
+ORD-00536,2026-01-11 06:19,Women & Children,Ondansetron,Scheduled,92,Yes,No
+ORD-00537,2026-03-21 08:54,Emergency Dept,Ondansetron,Routine,74,Yes,No
+ORD-00538,2026-04-21 00:28,Ambulatory Clinic,Magnesium Sulfate,Scheduled,90,Yes,No
+ORD-00539,2026-02-27 10:04,Hospital Main,Acetaminophen IV,Routine,88,Yes,No
+ORD-00540,2026-01-19 15:40,Hospital Main,Ceftriaxone,Scheduled,114,Yes,No
+ORD-00541,2026-04-02 02:30,Women & Children,Insulin Lispro,Scheduled,79,Yes,No
+ORD-00542,2026-04-01 12:12,Outpatient Infusion,Vancomycin,Routine,53,Yes,No
+ORD-00543,2026-01-19 17:50,Outpatient Infusion,Ceftriaxone,STAT,13,Yes,No
+ORD-00544,2026-01-25 10:57,Emergency Dept,Ondansetron,Routine,85,Yes,No
+ORD-00545,2026-06-08 12:42,Outpatient Infusion,Heparin,Routine,73,Yes,Yes
+ORD-00546,2026-06-15 15:52,Emergency Dept,Vancomycin,STAT,24,Yes,No
+ORD-00547,2026-01-03 18:15,Hospital Main,Ondansetron,Routine,48,Yes,No
+ORD-00548,2026-01-05 07:38,Ambulatory Clinic,Insulin Lispro,STAT,28,Yes,No
+ORD-00549,2026-05-19 00:43,Women & Children,Albuterol,Routine,62,Yes,No
+ORD-00550,2026-01-11 07:32,Outpatient Infusion,Ceftriaxone,Routine,23,Yes,No
+ORD-00551,2026-06-25 08:40,Hospital Main,Acetaminophen IV,Routine,78,Yes,No
+ORD-00552,2026-02-10 19:44,Outpatient Infusion,Cefazolin,Scheduled,92,Yes,No
+ORD-00553,2026-04-08 09:44,Emergency Dept,Albuterol,Routine,62,Yes,No
+ORD-00554,2026-04-17 04:12,Hospital Main,Heparin,Routine,72,Yes,Yes
+ORD-00555,2026-04-30 09:16,Hospital Main,Ceftriaxone,Scheduled,133,No,No
+ORD-00556,2026-04-21 15:02,Ambulatory Clinic,Albuterol,Routine,37,Yes,No
+ORD-00557,2026-01-11 19:10,Hospital Main,Cefazolin,Routine,39,Yes,No
+ORD-00558,2026-06-27 20:56,Outpatient Infusion,Heparin,STAT,14,Yes,Yes
+ORD-00559,2026-02-21 21:54,Women & Children,Magnesium Sulfate,Routine,78,Yes,No
+ORD-00560,2026-05-22 10:35,Hospital Main,Morphine,STAT,24,Yes,Yes
+ORD-00561,2026-04-13 07:11,Hospital Main,Cefazolin,Routine,44,Yes,No
+ORD-00562,2026-04-27 21:43,Women & Children,Insulin Lispro,STAT,23,Yes,No
+ORD-00563,2026-02-27 19:57,Emergency Dept,Vancomycin,Routine,76,Yes,No
+ORD-00564,2026-03-13 09:30,Hospital Main,Ceftriaxone,Routine,52,Yes,No
+ORD-00565,2026-06-23 04:58,Women & Children,Cefazolin,Routine,76,Yes,No
+ORD-00566,2026-01-19 19:36,Outpatient Infusion,Heparin,Routine,65,Yes,Yes
+ORD-00567,2026-04-18 15:51,Emergency Dept,Magnesium Sulfate,STAT,15,Yes,No
+ORD-00568,2026-06-29 18:24,Hospital Main,Morphine,Routine,66,Yes,Yes
+ORD-00569,2026-01-04 04:47,Emergency Dept,Cefazolin,Routine,54,Yes,No
+ORD-00570,2026-05-05 17:58,Emergency Dept,Vancomycin,Routine,68,Yes,No
+ORD-00571,2026-04-10 16:25,Hospital Main,Morphine,Scheduled,111,Yes,Yes
+ORD-00572,2026-04-12 12:15,Emergency Dept,Vancomycin,Routine,62,Yes,No
+ORD-00573,2026-02-03 23:33,Hospital Main,Magnesium Sulfate,Routine,83,Yes,No
+ORD-00574,2026-01-31 00:55,Women & Children,Albuterol,STAT,20,Yes,No
+ORD-00575,2026-01-31 05:03,Women & Children,Vancomycin,STAT,26,Yes,No
+ORD-00576,2026-03-28 05:44,Women & Children,Acetaminophen IV,Routine,78,Yes,No
+ORD-00577,2026-05-26 14:44,Ambulatory Clinic,Morphine,Routine,80,Yes,Yes
+ORD-00578,2026-02-17 12:02,Hospital Main,Albuterol,Routine,77,Yes,No
+ORD-00579,2026-04-21 01:08,Emergency Dept,Morphine,Scheduled,159,No,Yes
+ORD-00580,2026-06-19 10:16,Outpatient Infusion,Albuterol,Scheduled,66,Yes,No
+ORD-00581,2026-01-12 10:18,Ambulatory Clinic,Albuterol,Routine,54,Yes,No
+ORD-00582,2026-05-12 02:07,Ambulatory Clinic,Vancomycin,Routine,75,Yes,No
+ORD-00583,2026-01-31 22:35,Ambulatory Clinic,Magnesium Sulfate,Routine,49,Yes,No
+ORD-00584,2026-03-14 10:25,Emergency Dept,Insulin Lispro,Scheduled,107,Yes,No
+ORD-00585,2026-06-02 21:23,Women & Children,Cefazolin,Routine,40,Yes,No
+ORD-00586,2026-04-15 12:00,Women & Children,Magnesium Sulfate,STAT,20,Yes,No
+ORD-00587,2026-04-18 04:19,Ambulatory Clinic,Magnesium Sulfate,STAT,27,Yes,No
+ORD-00588,2026-06-13 04:48,Emergency Dept,Magnesium Sulfate,STAT,20,Yes,No
+ORD-00589,2026-02-20 11:51,Hospital Main,Morphine,Routine,77,Yes,Yes
+ORD-00590,2026-02-20 21:00,Hospital Main,Acetaminophen IV,Routine,61,Yes,No
+ORD-00591,2026-06-12 02:27,Emergency Dept,Cefazolin,Routine,81,Yes,No
+ORD-00592,2026-05-27 01:23,Women & Children,Insulin Lispro,Routine,66,Yes,No
+ORD-00593,2026-01-20 06:15,Ambulatory Clinic,Morphine,Routine,51,Yes,Yes
+ORD-00594,2026-04-07 08:46,Outpatient Infusion,Heparin,STAT,19,Yes,Yes
+ORD-00595,2026-03-23 22:58,Emergency Dept,Albuterol,STAT,19,Yes,No
+ORD-00596,2026-01-21 20:59,Ambulatory Clinic,Albuterol,Routine,47,Yes,No
+ORD-00597,2026-04-22 23:59,Outpatient Infusion,Magnesium Sulfate,Routine,39,Yes,No
+ORD-00598,2026-02-01 17:15,Women & Children,Morphine,Routine,66,Yes,Yes
+ORD-00599,2026-05-07 08:40,Ambulatory Clinic,Acetaminophen IV,Routine,76,Yes,No
+ORD-00600,2026-04-30 01:49,Women & Children,Heparin,Scheduled,81,Yes,Yes
+ORD-00601,2026-06-27 15:54,Emergency Dept,Cefazolin,Routine,58,Yes,No
+ORD-00602,2026-06-14 03:36,Women & Children,Insulin Lispro,STAT,20,Yes,No
+ORD-00603,2026-04-03 13:31,Women & Children,Heparin,Routine,70,Yes,Yes
+ORD-00604,2026-06-04 22:30,Women & Children,Insulin Lispro,Routine,29,Yes,No
+ORD-00605,2026-04-14 09:16,Hospital Main,Insulin Lispro,Scheduled,114,Yes,No
+ORD-00606,2026-02-11 12:59,Emergency Dept,Magnesium Sulfate,Routine,49,Yes,No
+ORD-00607,2026-06-01 20:11,Outpatient Infusion,Insulin Lispro,Routine,82,Yes,No
+ORD-00608,2026-02-10 07:46,Ambulatory Clinic,Morphine,Routine,44,Yes,Yes
+ORD-00609,2026-01-12 04:15,Women & Children,Vancomycin,Routine,57,Yes,No
+ORD-00610,2026-01-17 13:39,Women & Children,Heparin,Routine,120,No,Yes
+ORD-00611,2026-02-14 16:17,Outpatient Infusion,Insulin Lispro,Routine,49,Yes,No
+ORD-00612,2026-06-04 18:33,Women & Children,Albuterol,STAT,29,Yes,No
+ORD-00613,2026-06-22 15:21,Outpatient Infusion,Cefazolin,Routine,55,Yes,No
+ORD-00614,2026-04-10 01:58,Emergency Dept,Morphine,Routine,76,Yes,Yes
+ORD-00615,2026-06-26 19:39,Hospital Main,Heparin,Routine,58,Yes,Yes
+ORD-00616,2026-04-11 09:15,Women & Children,Insulin Lispro,Routine,62,Yes,No
+ORD-00617,2026-04-21 20:46,Women & Children,Insulin Lispro,Routine,44,Yes,No
+ORD-00618,2026-01-20 13:56,Ambulatory Clinic,Vancomycin,Scheduled,94,Yes,No
+ORD-00619,2026-04-13 09:46,Emergency Dept,Vancomycin,Scheduled,69,Yes,No
+ORD-00620,2026-04-03 01:15,Emergency Dept,Vancomycin,Routine,62,Yes,No
+ORD-00621,2026-03-22 05:39,Ambulatory Clinic,Ondansetron,STAT,17,Yes,No
+ORD-00622,2026-01-10 20:30,Outpatient Infusion,Vancomycin,STAT,30,Yes,No
+ORD-00623,2026-05-07 08:01,Emergency Dept,Acetaminophen IV,Scheduled,77,Yes,No
+ORD-00624,2026-04-27 13:08,Outpatient Infusion,Albuterol,Scheduled,104,Yes,No
+ORD-00625,2026-04-21 05:00,Hospital Main,Heparin,Routine,66,Yes,Yes
+ORD-00626,2026-04-02 20:54,Emergency Dept,Ondansetron,Scheduled,124,No,No
+ORD-00627,2026-01-19 09:36,Emergency Dept,Ondansetron,Routine,31,Yes,No
+ORD-00628,2026-01-27 16:59,Women & Children,Albuterol,Routine,60,Yes,No
+ORD-00629,2026-05-27 21:31,Ambulatory Clinic,Ceftriaxone,Routine,72,Yes,No
+ORD-00630,2026-01-20 08:38,Ambulatory Clinic,Magnesium Sulfate,STAT,12,Yes,No
+ORD-00631,2026-06-08 10:52,Outpatient Infusion,Vancomycin,Scheduled,43,Yes,No
+ORD-00632,2026-02-23 04:52,Emergency Dept,Magnesium Sulfate,Routine,37,Yes,No
+ORD-00633,2026-02-02 04:47,Women & Children,Albuterol,Routine,50,Yes,No
+ORD-00634,2026-02-10 22:35,Ambulatory Clinic,Ceftriaxone,Scheduled,101,Yes,No
+ORD-00635,2026-01-20 21:55,Hospital Main,Morphine,Routine,40,Yes,Yes
+ORD-00636,2026-03-06 00:00,Hospital Main,Insulin Lispro,Routine,50,Yes,No
+ORD-00637,2026-04-22 23:44,Women & Children,Insulin Lispro,Scheduled,124,No,No
+ORD-00638,2026-06-30 09:31,Outpatient Infusion,Insulin Lispro,Scheduled,12,Yes,No
+ORD-00639,2026-06-13 05:21,Emergency Dept,Acetaminophen IV,Routine,55,Yes,No
+ORD-00640,2026-05-12 16:33,Women & Children,Insulin Lispro,Routine,51,Yes,No
+ORD-00641,2026-05-15 20:34,Emergency Dept,Vancomycin,Routine,20,Yes,No
+ORD-00642,2026-01-18 12:33,Hospital Main,Magnesium Sulfate,Routine,46,Yes,No
+ORD-00643,2026-02-21 22:46,Outpatient Infusion,Albuterol,Routine,39,Yes,No
+ORD-00644,2026-05-28 19:34,Outpatient Infusion,Magnesium Sulfate,STAT,24,Yes,No
+ORD-00645,2026-06-23 10:32,Emergency Dept,Acetaminophen IV,Routine,24,Yes,No
+ORD-00646,2026-02-19 21:34,Women & Children,Vancomycin,Scheduled,66,Yes,No
+ORD-00647,2026-04-24 04:12,Emergency Dept,Cefazolin,STAT,11,Yes,No
+ORD-00648,2026-02-06 13:05,Emergency Dept,Magnesium Sulfate,STAT,17,Yes,No
+ORD-00649,2026-01-26 13:20,Outpatient Infusion,Morphine,Routine,49,Yes,Yes
+ORD-00650,2026-03-13 10:31,Ambulatory Clinic,Magnesium Sulfate,Routine,39,Yes,No
+ORD-00651,2026-04-02 15:22,Hospital Main,Insulin Lispro,Routine,56,Yes,No
+ORD-00652,2026-01-14 12:33,Emergency Dept,Morphine,Routine,58,Yes,Yes
+ORD-00653,2026-04-17 16:54,Women & Children,Ondansetron,Routine,44,Yes,No
+ORD-00654,2026-04-01 08:20,Hospital Main,Insulin Lispro,STAT,25,Yes,No
+ORD-00655,2026-03-07 09:16,Hospital Main,Ceftriaxone,Routine,41,Yes,No
+ORD-00656,2026-02-06 06:12,Ambulatory Clinic,Magnesium Sulfate,Scheduled,94,Yes,No
+ORD-00657,2026-04-20 00:32,Women & Children,Morphine,Scheduled,124,No,Yes
+ORD-00658,2026-04-26 00:15,Emergency Dept,Heparin,STAT,11,Yes,Yes
+ORD-00659,2026-06-09 09:51,Outpatient Infusion,Insulin Lispro,Scheduled,57,Yes,No
+ORD-00660,2026-02-14 01:51,Outpatient Infusion,Vancomycin,Routine,56,Yes,No
+ORD-00661,2026-05-17 07:01,Ambulatory Clinic,Ondansetron,Routine,65,Yes,No
+ORD-00662,2026-01-04 18:49,Emergency Dept,Cefazolin,Scheduled,135,No,No
+ORD-00663,2026-05-02 19:31,Ambulatory Clinic,Acetaminophen IV,STAT,16,Yes,No
+ORD-00664,2026-05-23 08:07,Women & Children,Morphine,Routine,119,No,Yes
+ORD-00665,2026-03-11 16:00,Outpatient Infusion,Morphine,Scheduled,61,Yes,Yes
+ORD-00666,2026-04-07 22:31,Outpatient Infusion,Ceftriaxone,Scheduled,96,Yes,No
+ORD-00667,2026-01-04 18:20,Emergency Dept,Heparin,Routine,39,Yes,Yes
+ORD-00668,2026-05-30 20:48,Ambulatory Clinic,Vancomycin,STAT,6,Yes,No
+ORD-00669,2026-04-21 00:10,Ambulatory Clinic,Ondansetron,Routine,36,Yes,No
+ORD-00670,2026-01-12 07:05,Outpatient Infusion,Ceftriaxone,Routine,28,Yes,No
+ORD-00671,2026-02-05 10:33,Outpatient Infusion,Albuterol,Scheduled,110,Yes,No
+ORD-00672,2026-03-21 04:02,Women & Children,Cefazolin,Routine,59,Yes,No
+ORD-00673,2026-04-23 21:29,Emergency Dept,Ondansetron,Routine,31,Yes,No
+ORD-00674,2026-01-30 21:19,Hospital Main,Ceftriaxone,Scheduled,100,Yes,No
+ORD-00675,2026-03-10 21:33,Women & Children,Heparin,STAT,8,Yes,Yes
+ORD-00676,2026-06-05 10:50,Ambulatory Clinic,Magnesium Sulfate,Routine,53,Yes,No
+ORD-00677,2026-03-12 03:36,Emergency Dept,Insulin Lispro,Routine,59,Yes,No
+ORD-00678,2026-04-20 00:47,Outpatient Infusion,Ceftriaxone,Routine,45,Yes,No
+ORD-00679,2026-06-09 08:10,Emergency Dept,Magnesium Sulfate,Scheduled,79,Yes,No
+ORD-00680,2026-01-26 14:12,Hospital Main,Magnesium Sulfate,Routine,81,Yes,No
+ORD-00681,2026-06-01 06:42,Hospital Main,Morphine,STAT,26,Yes,Yes
+ORD-00682,2026-01-24 14:34,Ambulatory Clinic,Insulin Lispro,Routine,15,Yes,No
+ORD-00683,2026-02-07 12:52,Outpatient Infusion,Morphine,Routine,36,Yes,Yes
+ORD-00684,2026-01-06 13:59,Women & Children,Heparin,STAT,24,Yes,Yes
+ORD-00685,2026-02-06 07:41,Emergency Dept,Cefazolin,Routine,31,Yes,No
+ORD-00686,2026-02-08 05:14,Emergency Dept,Albuterol,STAT,19,Yes,No
+ORD-00687,2026-04-20 10:52,Outpatient Infusion,Ceftriaxone,Routine,29,Yes,No
+ORD-00688,2026-05-22 08:51,Emergency Dept,Acetaminophen IV,Routine,67,Yes,No
+ORD-00689,2026-06-30 08:04,Emergency Dept,Magnesium Sulfate,Routine,47,Yes,No
+ORD-00690,2026-01-20 17:34,Ambulatory Clinic,Vancomycin,Scheduled,128,No,No
+ORD-00691,2026-02-23 14:32,Hospital Main,Morphine,Routine,46,Yes,Yes
+ORD-00692,2026-05-23 18:19,Outpatient Infusion,Ceftriaxone,Scheduled,128,No,No
+ORD-00693,2026-06-10 12:10,Emergency Dept,Ceftriaxone,Routine,55,Yes,No
+ORD-00694,2026-04-16 06:33,Hospital Main,Insulin Lispro,Scheduled,127,No,No
+ORD-00695,2026-06-25 15:25,Hospital Main,Insulin Lispro,Routine,50,Yes,No
+ORD-00696,2026-01-30 20:50,Ambulatory Clinic,Vancomycin,Routine,63,Yes,No
+ORD-00697,2026-03-27 23:05,Ambulatory Clinic,Ceftriaxone,STAT,29,Yes,No
+ORD-00698,2026-05-19 16:41,Emergency Dept,Cefazolin,Routine,45,Yes,No
+ORD-00699,2026-02-04 00:41,Emergency Dept,Vancomycin,Scheduled,49,Yes,No
+ORD-00700,2026-06-02 01:55,Hospital Main,Vancomycin,Routine,80,Yes,No
+ORD-00701,2026-02-03 07:30,Women & Children,Albuterol,Routine,36,Yes,No
+ORD-00702,2026-03-01 07:17,Ambulatory Clinic,Magnesium Sulfate,Routine,75,Yes,No
+ORD-00703,2026-06-05 14:58,Hospital Main,Heparin,Routine,80,Yes,Yes
+ORD-00704,2026-04-28 16:39,Emergency Dept,Ceftriaxone,Scheduled,100,Yes,No
+ORD-00705,2026-02-27 06:21,Outpatient Infusion,Acetaminophen IV,STAT,14,Yes,No
+ORD-00706,2026-01-26 05:53,Women & Children,Cefazolin,Routine,59,Yes,No
+ORD-00707,2026-03-29 20:02,Outpatient Infusion,Acetaminophen IV,Routine,68,Yes,No
+ORD-00708,2026-01-24 16:30,Ambulatory Clinic,Albuterol,Routine,60,Yes,No
+ORD-00709,2026-02-26 16:17,Outpatient Infusion,Ondansetron,STAT,14,Yes,No
+ORD-00710,2026-02-23 03:04,Outpatient Infusion,Cefazolin,Routine,75,Yes,No
+ORD-00711,2026-05-04 01:41,Hospital Main,Insulin Lispro,Scheduled,145,No,No
+ORD-00712,2026-01-13 06:25,Ambulatory Clinic,Acetaminophen IV,STAT,18,Yes,No
+ORD-00713,2026-06-10 12:52,Ambulatory Clinic,Albuterol,STAT,29,Yes,No
+ORD-00714,2026-04-26 19:28,Ambulatory Clinic,Vancomycin,Scheduled,100,Yes,No
+ORD-00715,2026-02-06 07:40,Outpatient Infusion,Ondansetron,Routine,42,Yes,No
+ORD-00716,2026-05-02 18:51,Outpatient Infusion,Vancomycin,Scheduled,88,Yes,No
+ORD-00717,2026-03-01 13:46,Emergency Dept,Ondansetron,Scheduled,110,Yes,No
+ORD-00718,2026-02-04 19:20,Emergency Dept,Heparin,Routine,63,Yes,Yes
+ORD-00719,2026-05-10 21:13,Hospital Main,Morphine,Routine,35,Yes,Yes
+ORD-00720,2026-02-11 19:58,Women & Children,Acetaminophen IV,Routine,58,Yes,No
+ORD-00721,2026-05-11 12:35,Women & Children,Vancomycin,STAT,23,Yes,No
+ORD-00722,2026-04-05 22:42,Outpatient Infusion,Insulin Lispro,Scheduled,65,Yes,No
+ORD-00723,2026-02-28 07:11,Outpatient Infusion,Cefazolin,Routine,77,Yes,No
+ORD-00724,2026-05-21 11:40,Outpatient Infusion,Ceftriaxone,Routine,57,Yes,No
+ORD-00725,2026-04-21 12:01,Emergency Dept,Heparin,Routine,68,Yes,Yes
+ORD-00726,2026-03-07 12:11,Hospital Main,Morphine,Routine,20,Yes,Yes
+ORD-00727,2026-05-27 11:34,Outpatient Infusion,Cefazolin,Scheduled,38,Yes,No
+ORD-00728,2026-06-06 03:27,Hospital Main,Acetaminophen IV,STAT,20,Yes,No
+ORD-00729,2026-01-04 05:57,Women & Children,Cefazolin,Routine,79,Yes,No
+ORD-00730,2026-01-19 20:53,Outpatient Infusion,Cefazolin,Routine,72,Yes,No
+ORD-00731,2026-03-18 08:42,Emergency Dept,Magnesium Sulfate,Routine,83,Yes,No
+ORD-00732,2026-05-24 06:44,Emergency Dept,Acetaminophen IV,Routine,67,Yes,No
+ORD-00733,2026-02-02 18:51,Women & Children,Ceftriaxone,Routine,22,Yes,No
+ORD-00734,2026-02-21 00:51,Women & Children,Magnesium Sulfate,Scheduled,4,Yes,No
+ORD-00735,2026-06-12 11:59,Hospital Main,Albuterol,Routine,30,Yes,No
+ORD-00736,2026-02-17 03:35,Women & Children,Magnesium Sulfate,Routine,41,Yes,No
+ORD-00737,2026-04-28 03:38,Emergency Dept,Magnesium Sulfate,Routine,59,Yes,No
+ORD-00738,2026-03-22 23:25,Women & Children,Ondansetron,STAT,19,Yes,No
+ORD-00739,2026-01-09 04:50,Women & Children,Insulin Lispro,Routine,73,Yes,No
+ORD-00740,2026-05-31 17:02,Hospital Main,Heparin,Routine,55,Yes,Yes
+ORD-00741,2026-04-19 17:14,Emergency Dept,Acetaminophen IV,Routine,57,Yes,No
+ORD-00742,2026-04-26 19:04,Outpatient Infusion,Insulin Lispro,Routine,49,Yes,No
+ORD-00743,2026-03-12 12:07,Outpatient Infusion,Ondansetron,STAT,22,Yes,No
+ORD-00744,2026-03-31 02:29,Outpatient Infusion,Magnesium Sulfate,Scheduled,110,Yes,No
+ORD-00745,2026-04-22 09:08,Emergency Dept,Vancomycin,STAT,13,Yes,No
+ORD-00746,2026-02-02 12:13,Hospital Main,Albuterol,Routine,73,Yes,No
+ORD-00747,2026-04-02 23:57,Emergency Dept,Albuterol,Routine,36,Yes,No
+ORD-00748,2026-06-13 05:31,Emergency Dept,Magnesium Sulfate,Scheduled,131,No,No
+ORD-00749,2026-03-09 02:19,Ambulatory Clinic,Vancomycin,STAT,36,No,No
+ORD-00750,2026-05-21 10:00,Women & Children,Morphine,Routine,34,Yes,Yes
+ORD-00751,2026-02-23 08:49,Outpatient Infusion,Ondansetron,Scheduled,76,Yes,No
+ORD-00752,2026-05-17 17:14,Ambulatory Clinic,Vancomycin,Routine,64,Yes,No
+ORD-00753,2026-03-03 07:04,Outpatient Infusion,Morphine,Routine,54,Yes,Yes
+ORD-00754,2026-04-06 21:30,Outpatient Infusion,Albuterol,Scheduled,41,Yes,No
+ORD-00755,2026-02-08 11:05,Hospital Main,Ondansetron,Routine,36,Yes,No
+ORD-00756,2026-04-30 18:52,Outpatient Infusion,Heparin,STAT,15,Yes,Yes
+ORD-00757,2026-06-26 00:18,Hospital Main,Albuterol,Routine,58,Yes,No
+ORD-00758,2026-04-22 13:06,Ambulatory Clinic,Heparin,STAT,28,Yes,Yes
+ORD-00759,2026-05-16 11:32,Hospital Main,Vancomycin,STAT,17,Yes,No
+ORD-00760,2026-03-04 02:19,Women & Children,Albuterol,STAT,12,Yes,No
+ORD-00761,2026-01-24 02:16,Women & Children,Magnesium Sulfate,Routine,33,Yes,No
+ORD-00762,2026-01-04 15:51,Ambulatory Clinic,Cefazolin,Routine,72,Yes,No
+ORD-00763,2026-01-25 01:39,Emergency Dept,Ceftriaxone,Routine,52,Yes,No
+ORD-00764,2026-04-27 01:26,Ambulatory Clinic,Vancomycin,STAT,25,Yes,No
+ORD-00765,2026-04-20 18:42,Women & Children,Heparin,Scheduled,84,Yes,Yes
+ORD-00766,2026-03-09 05:45,Women & Children,Vancomycin,Routine,38,Yes,No
+ORD-00767,2026-01-14 05:12,Hospital Main,Insulin Lispro,Scheduled,64,Yes,No
+ORD-00768,2026-06-15 22:21,Hospital Main,Morphine,Scheduled,101,Yes,Yes
+ORD-00769,2026-02-05 05:18,Hospital Main,Cefazolin,Routine,69,Yes,No
+ORD-00770,2026-05-03 01:06,Outpatient Infusion,Cefazolin,Routine,74,Yes,No
+ORD-00771,2026-05-31 18:09,Hospital Main,Cefazolin,Scheduled,35,Yes,No
+ORD-00772,2026-02-22 23:33,Women & Children,Insulin Lispro,STAT,28,Yes,No
+ORD-00773,2026-02-04 08:02,Hospital Main,Morphine,Routine,68,Yes,Yes
+ORD-00774,2026-06-20 05:03,Outpatient Infusion,Magnesium Sulfate,STAT,19,Yes,No
+ORD-00775,2026-01-08 03:42,Ambulatory Clinic,Vancomycin,Scheduled,106,Yes,No
+ORD-00776,2026-05-17 09:13,Women & Children,Albuterol,STAT,23,Yes,No
+ORD-00777,2026-02-28 20:11,Outpatient Infusion,Insulin Lispro,Routine,67,Yes,No
+ORD-00778,2026-02-24 05:15,Ambulatory Clinic,Ondansetron,Routine,55,Yes,No
+ORD-00779,2026-04-16 21:18,Outpatient Infusion,Insulin Lispro,Routine,66,Yes,No
+ORD-00780,2026-03-18 19:28,Emergency Dept,Vancomycin,STAT,26,Yes,No
+ORD-00781,2026-05-30 16:27,Emergency Dept,Heparin,Routine,57,Yes,Yes
+ORD-00782,2026-05-30 11:15,Emergency Dept,Acetaminophen IV,Routine,25,Yes,No
+ORD-00783,2026-05-02 20:57,Women & Children,Ondansetron,Routine,30,Yes,No
+ORD-00784,2026-02-15 19:30,Women & Children,Morphine,Routine,49,Yes,Yes
+ORD-00785,2026-01-24 10:44,Women & Children,Magnesium Sulfate,Scheduled,42,Yes,No
+ORD-00786,2026-05-25 02:17,Emergency Dept,Magnesium Sulfate,Scheduled,122,No,No
+ORD-00787,2026-04-05 07:55,Ambulatory Clinic,Vancomycin,Routine,43,Yes,No
+ORD-00788,2026-03-10 15:50,Outpatient Infusion,Heparin,Routine,66,Yes,Yes
+ORD-00789,2026-05-29 22:23,Women & Children,Ondansetron,Scheduled,103,Yes,No
+ORD-00790,2026-04-11 13:46,Outpatient Infusion,Heparin,Routine,9,Yes,Yes
+ORD-00791,2026-05-24 18:44,Emergency Dept,Insulin Lispro,Routine,77,Yes,No
+ORD-00792,2026-03-28 23:15,Women & Children,Ondansetron,Routine,39,Yes,No
+ORD-00793,2026-04-10 15:59,Ambulatory Clinic,Insulin Lispro,Routine,53,Yes,No
+ORD-00794,2026-06-14 14:55,Emergency Dept,Heparin,Routine,65,Yes,Yes
+ORD-00795,2026-05-21 07:20,Outpatient Infusion,Heparin,Scheduled,80,Yes,Yes
+ORD-00796,2026-05-09 23:27,Women & Children,Albuterol,STAT,28,Yes,No
+ORD-00797,2026-01-26 12:46,Ambulatory Clinic,Insulin Lispro,Routine,29,Yes,No
+ORD-00798,2026-06-07 19:48,Ambulatory Clinic,Cefazolin,Routine,63,Yes,No
+ORD-00799,2026-04-01 07:43,Ambulatory Clinic,Cefazolin,STAT,26,Yes,No
+ORD-00800,2026-02-20 22:29,Hospital Main,Vancomycin,Routine,43,Yes,No
+ORD-00801,2026-05-08 06:30,Women & Children,Magnesium Sulfate,STAT,15,Yes,No
+ORD-00802,2026-01-02 03:17,Ambulatory Clinic,Albuterol,Routine,25,Yes,No
+ORD-00803,2026-05-04 17:57,Hospital Main,Ceftriaxone,Scheduled,70,Yes,No
+ORD-00804,2026-02-23 03:08,Hospital Main,Ondansetron,Routine,68,Yes,No
+ORD-00805,2026-02-20 18:49,Outpatient Infusion,Acetaminophen IV,Routine,50,Yes,No
+ORD-00806,2026-02-06 23:37,Women & Children,Magnesium Sulfate,Scheduled,112,Yes,No
+ORD-00807,2026-03-17 11:48,Emergency Dept,Heparin,Scheduled,95,Yes,Yes
+ORD-00808,2026-02-05 23:59,Ambulatory Clinic,Albuterol,Routine,67,Yes,No
+ORD-00809,2026-03-18 00:13,Emergency Dept,Albuterol,Routine,62,Yes,No
+ORD-00810,2026-06-20 03:11,Emergency Dept,Magnesium Sulfate,Routine,51,Yes,No
+ORD-00811,2026-05-26 14:05,Ambulatory Clinic,Magnesium Sulfate,Routine,48,Yes,No
+ORD-00812,2026-05-21 07:13,Outpatient Infusion,Heparin,Routine,39,Yes,Yes
+ORD-00813,2026-01-09 03:24,Hospital Main,Insulin Lispro,Routine,58,Yes,No
+ORD-00814,2026-04-13 22:15,Ambulatory Clinic,Albuterol,Routine,53,Yes,No
+ORD-00815,2026-05-30 01:48,Hospital Main,Heparin,Routine,55,Yes,Yes
+ORD-00816,2026-05-02 21:26,Emergency Dept,Heparin,Scheduled,114,Yes,Yes
+ORD-00817,2026-03-12 17:50,Hospital Main,Ondansetron,STAT,8,Yes,No
+ORD-00818,2026-03-09 02:46,Hospital Main,Cefazolin,Scheduled,68,Yes,No
+ORD-00819,2026-05-07 19:13,Hospital Main,Cefazolin,Scheduled,101,Yes,No
+ORD-00820,2026-04-13 00:18,Ambulatory Clinic,Albuterol,Routine,53,Yes,No
+ORD-00821,2026-01-22 00:03,Outpatient Infusion,Insulin Lispro,Scheduled,127,No,No
+ORD-00822,2026-04-17 13:59,Hospital Main,Magnesium Sulfate,Scheduled,99,Yes,No
+ORD-00823,2026-01-09 23:04,Ambulatory Clinic,Albuterol,STAT,19,Yes,No
+ORD-00824,2026-02-21 08:32,Outpatient Infusion,Ondansetron,Routine,67,Yes,No
+ORD-00825,2026-02-09 01:13,Outpatient Infusion,Heparin,STAT,27,Yes,Yes
+ORD-00826,2026-06-21 03:31,Ambulatory Clinic,Cefazolin,Routine,66,Yes,No
+ORD-00827,2026-05-20 12:03,Hospital Main,Morphine,Scheduled,129,No,Yes
+ORD-00828,2026-01-23 15:07,Women & Children,Insulin Lispro,Scheduled,118,Yes,No
+ORD-00829,2026-01-26 18:43,Outpatient Infusion,Vancomycin,Scheduled,78,Yes,No
+ORD-00830,2026-01-02 05:59,Ambulatory Clinic,Ceftriaxone,Scheduled,123,No,No
+ORD-00831,2026-01-23 09:05,Hospital Main,Insulin Lispro,Scheduled,46,Yes,No
+ORD-00832,2026-03-23 04:58,Emergency Dept,Cefazolin,Routine,65,Yes,No
+ORD-00833,2026-06-05 06:27,Emergency Dept,Ceftriaxone,Routine,28,Yes,No
+ORD-00834,2026-02-18 19:04,Women & Children,Ceftriaxone,Scheduled,132,No,No
+ORD-00835,2026-01-21 01:58,Emergency Dept,Ondansetron,Routine,103,No,No
+ORD-00836,2026-02-01 18:18,Women & Children,Heparin,Routine,96,No,Yes
+ORD-00837,2026-01-31 11:18,Hospital Main,Cefazolin,Routine,73,Yes,No
+ORD-00838,2026-03-26 01:26,Ambulatory Clinic,Magnesium Sulfate,Scheduled,104,Yes,No
+ORD-00839,2026-02-17 12:04,Emergency Dept,Ceftriaxone,Routine,51,Yes,No
+ORD-00840,2026-03-24 05:48,Emergency Dept,Ondansetron,Scheduled,105,Yes,No
+ORD-00841,2026-01-01 04:40,Outpatient Infusion,Ondansetron,Routine,75,Yes,No
+ORD-00842,2026-04-30 18:34,Ambulatory Clinic,Albuterol,Routine,13,Yes,No
+ORD-00843,2026-05-15 11:27,Emergency Dept,Albuterol,Routine,13,Yes,No
+ORD-00844,2026-02-26 01:01,Outpatient Infusion,Cefazolin,Routine,36,Yes,No
+ORD-00845,2026-06-10 22:46,Outpatient Infusion,Magnesium Sulfate,Routine,100,No,No
+ORD-00846,2026-02-23 11:23,Ambulatory Clinic,Ondansetron,Scheduled,63,Yes,No
+ORD-00847,2026-02-17 14:40,Hospital Main,Acetaminophen IV,STAT,10,Yes,No
+ORD-00848,2026-04-03 12:23,Hospital Main,Ondansetron,Routine,77,Yes,No
+ORD-00849,2026-01-03 15:01,Hospital Main,Cefazolin,Routine,103,No,No
+ORD-00850,2026-01-29 07:00,Emergency Dept,Ceftriaxone,Routine,57,Yes,No
+ORD-00851,2026-04-18 05:16,Hospital Main,Ceftriaxone,Routine,72,Yes,No
+ORD-00852,2026-01-01 20:52,Emergency Dept,Magnesium Sulfate,Routine,19,Yes,No
+ORD-00853,2026-01-16 21:17,Hospital Main,Acetaminophen IV,STAT,25,Yes,No
+ORD-00854,2026-02-13 06:32,Hospital Main,Cefazolin,Routine,75,Yes,No
+ORD-00855,2026-06-18 05:08,Women & Children,Insulin Lispro,Routine,68,Yes,No
+ORD-00856,2026-03-14 00:34,Outpatient Infusion,Acetaminophen IV,Routine,81,Yes,No
+ORD-00857,2026-02-09 16:12,Outpatient Infusion,Albuterol,Routine,57,Yes,No
+ORD-00858,2026-01-24 01:46,Ambulatory Clinic,Ondansetron,Routine,58,Yes,No
+ORD-00859,2026-01-30 07:23,Hospital Main,Cefazolin,Scheduled,85,Yes,No
+ORD-00860,2026-03-22 06:20,Emergency Dept,Insulin Lispro,STAT,21,Yes,No
+ORD-00861,2026-06-14 16:37,Women & Children,Vancomycin,Scheduled,75,Yes,No
+ORD-00862,2026-06-29 21:23,Emergency Dept,Ceftriaxone,Scheduled,96,Yes,No
+ORD-00863,2026-06-03 14:33,Women & Children,Vancomycin,STAT,6,Yes,No
+ORD-00864,2026-01-07 09:06,Ambulatory Clinic,Ondansetron,Scheduled,74,Yes,No
+ORD-00865,2026-03-26 07:19,Hospital Main,Albuterol,Routine,60,Yes,No
+ORD-00866,2026-05-11 03:59,Outpatient Infusion,Ondansetron,Routine,22,Yes,No
+ORD-00867,2026-04-15 14:18,Women & Children,Ceftriaxone,STAT,27,Yes,No
+ORD-00868,2026-05-23 19:14,Hospital Main,Magnesium Sulfate,Routine,70,Yes,No
+ORD-00869,2026-03-30 15:58,Ambulatory Clinic,Vancomycin,Routine,61,Yes,No
+ORD-00870,2026-01-30 21:09,Hospital Main,Heparin,Scheduled,129,No,Yes
+ORD-00871,2026-06-08 23:57,Emergency Dept,Ondansetron,Scheduled,138,No,No
+ORD-00872,2026-04-14 19:36,Hospital Main,Morphine,Scheduled,56,Yes,Yes
+ORD-00873,2026-05-22 10:22,Emergency Dept,Morphine,Routine,46,Yes,Yes
+ORD-00874,2026-05-20 08:11,Ambulatory Clinic,Vancomycin,Scheduled,140,No,No
+ORD-00875,2026-06-04 13:36,Hospital Main,Ondansetron,Routine,73,Yes,No
+ORD-00876,2026-05-20 13:00,Emergency Dept,Cefazolin,Routine,80,Yes,No
+ORD-00877,2026-04-10 10:26,Emergency Dept,Heparin,Routine,58,Yes,Yes
+ORD-00878,2026-01-12 02:25,Outpatient Infusion,Insulin Lispro,Routine,38,Yes,No
+ORD-00879,2026-01-24 07:26,Ambulatory Clinic,Cefazolin,Routine,63,Yes,No
+ORD-00880,2026-04-02 07:40,Hospital Main,Ceftriaxone,Routine,53,Yes,No
+ORD-00881,2026-05-03 23:25,Ambulatory Clinic,Albuterol,STAT,14,Yes,No
+ORD-00882,2026-03-10 09:29,Emergency Dept,Insulin Lispro,Routine,44,Yes,No
+ORD-00883,2026-01-03 17:18,Women & Children,Heparin,Routine,68,Yes,Yes
+ORD-00884,2026-03-19 16:00,Hospital Main,Ondansetron,STAT,17,Yes,No
+ORD-00885,2026-02-02 09:07,Outpatient Infusion,Morphine,Routine,77,Yes,Yes
+ORD-00886,2026-03-25 17:21,Outpatient Infusion,Acetaminophen IV,Routine,38,Yes,No
+ORD-00887,2026-05-30 00:24,Women & Children,Acetaminophen IV,Routine,49,Yes,No
+ORD-00888,2026-02-12 11:28,Hospital Main,Heparin,Scheduled,102,Yes,Yes
+ORD-00889,2026-02-24 07:42,Women & Children,Albuterol,Scheduled,78,Yes,No
+ORD-00890,2026-02-16 07:54,Hospital Main,Morphine,Routine,42,Yes,Yes
+ORD-00891,2026-02-05 16:24,Women & Children,Vancomycin,Routine,67,Yes,No
+ORD-00892,2026-04-22 12:11,Ambulatory Clinic,Albuterol,STAT,17,Yes,No
+ORD-00893,2026-02-10 03:31,Outpatient Infusion,Insulin Lispro,Routine,60,Yes,No
+ORD-00894,2026-01-23 13:29,Ambulatory Clinic,Insulin Lispro,Scheduled,83,Yes,No
+ORD-00895,2026-04-02 21:15,Ambulatory Clinic,Insulin Lispro,Scheduled,74,Yes,No
+ORD-00896,2026-01-02 12:14,Women & Children,Morphine,Routine,67,Yes,Yes
+ORD-00897,2026-02-25 03:53,Women & Children,Albuterol,STAT,28,Yes,No
+ORD-00898,2026-04-02 00:11,Women & Children,Vancomycin,Routine,64,Yes,No
+ORD-00899,2026-06-21 18:03,Hospital Main,Albuterol,Routine,58,Yes,No
+ORD-00900,2026-02-27 15:38,Emergency Dept,Cefazolin,Routine,77,Yes,No
+ORD-00901,2026-01-01 01:41,Hospital Main,Insulin Lispro,Routine,45,Yes,No
+ORD-00902,2026-04-07 04:11,Outpatient Infusion,Magnesium Sulfate,Routine,40,Yes,No
+ORD-00903,2026-06-23 08:44,Emergency Dept,Cefazolin,Routine,21,Yes,No
+ORD-00904,2026-03-21 00:46,Emergency Dept,Albuterol,Scheduled,151,No,No
+ORD-00905,2026-02-06 07:00,Outpatient Infusion,Morphine,Routine,68,Yes,Yes
+ORD-00906,2026-03-01 02:24,Emergency Dept,Acetaminophen IV,Scheduled,87,Yes,No
+ORD-00907,2026-05-17 02:18,Outpatient Infusion,Magnesium Sulfate,Routine,54,Yes,No
+ORD-00908,2026-04-24 00:50,Hospital Main,Albuterol,Routine,19,Yes,No
+ORD-00909,2026-04-01 06:43,Ambulatory Clinic,Cefazolin,Scheduled,49,Yes,No
+ORD-00910,2026-04-20 13:45,Emergency Dept,Morphine,STAT,4,Yes,Yes
+ORD-00911,2026-02-15 21:30,Emergency Dept,Cefazolin,STAT,20,Yes,No
+ORD-00912,2026-01-23 22:41,Outpatient Infusion,Acetaminophen IV,Routine,46,Yes,No
+ORD-00913,2026-04-15 21:04,Ambulatory Clinic,Vancomycin,STAT,20,Yes,No
+ORD-00914,2026-04-11 15:40,Ambulatory Clinic,Acetaminophen IV,STAT,30,Yes,No
+ORD-00915,2026-06-11 15:40,Emergency Dept,Heparin,Routine,66,Yes,Yes
+ORD-00916,2026-05-05 03:34,Outpatient Infusion,Albuterol,STAT,23,Yes,No
+ORD-00917,2026-02-05 12:52,Ambulatory Clinic,Ondansetron,Routine,48,Yes,No
+ORD-00918,2026-05-08 02:05,Outpatient Infusion,Insulin Lispro,Routine,68,Yes,No
+ORD-00919,2026-02-19 00:02,Hospital Main,Heparin,Routine,35,Yes,Yes
+ORD-00920,2026-05-26 17:36,Women & Children,Heparin,Routine,95,No,Yes
+ORD-00921,2026-01-19 06:09,Outpatient Infusion,Magnesium Sulfate,Routine,44,Yes,No
+ORD-00922,2026-04-08 12:39,Women & Children,Insulin Lispro,Scheduled,58,Yes,No
+ORD-00923,2026-05-18 22:16,Hospital Main,Acetaminophen IV,Routine,67,Yes,No
+ORD-00924,2026-04-16 10:36,Hospital Main,Morphine,Scheduled,135,No,Yes
+ORD-00925,2026-05-15 04:02,Hospital Main,Cefazolin,Routine,55,Yes,No
+ORD-00926,2026-04-10 11:10,Emergency Dept,Magnesium Sulfate,Routine,53,Yes,No
+ORD-00927,2026-04-21 14:55,Women & Children,Morphine,STAT,22,Yes,Yes
+ORD-00928,2026-03-13 10:22,Women & Children,Heparin,Routine,68,Yes,Yes
+ORD-00929,2026-04-04 21:25,Outpatient Infusion,Magnesium Sulfate,Routine,73,Yes,No
+ORD-00930,2026-04-23 16:18,Ambulatory Clinic,Magnesium Sulfate,STAT,19,Yes,No
+ORD-00931,2026-03-13 18:18,Outpatient Infusion,Cefazolin,STAT,16,Yes,No
+ORD-00932,2026-01-02 13:37,Women & Children,Albuterol,Routine,64,Yes,No
+ORD-00933,2026-04-09 17:59,Outpatient Infusion,Cefazolin,STAT,13,Yes,No
+ORD-00934,2026-02-02 14:56,Emergency Dept,Acetaminophen IV,STAT,7,Yes,No
+ORD-00935,2026-03-01 23:20,Hospital Main,Albuterol,Routine,60,Yes,No
+ORD-00936,2026-03-10 04:04,Women & Children,Albuterol,STAT,14,Yes,No
+ORD-00937,2026-04-22 21:23,Hospital Main,Insulin Lispro,STAT,24,Yes,No
+ORD-00938,2026-04-29 17:54,Hospital Main,Ondansetron,Scheduled,152,No,No
+ORD-00939,2026-05-07 23:36,Emergency Dept,Insulin Lispro,Routine,69,Yes,No
+ORD-00940,2026-06-17 01:29,Hospital Main,Heparin,Routine,45,Yes,Yes
+ORD-00941,2026-06-06 16:08,Hospital Main,Ondansetron,Routine,37,Yes,No
+ORD-00942,2026-02-06 07:12,Emergency Dept,Insulin Lispro,Routine,13,Yes,No
+ORD-00943,2026-05-26 22:45,Outpatient Infusion,Morphine,STAT,27,Yes,Yes
+ORD-00944,2026-04-24 00:25,Women & Children,Magnesium Sulfate,Routine,47,Yes,No
+ORD-00945,2026-06-21 04:54,Ambulatory Clinic,Magnesium Sulfate,Routine,104,No,No
+ORD-00946,2026-02-08 00:52,Hospital Main,Ceftriaxone,Routine,97,No,No
+ORD-00947,2026-03-10 04:24,Outpatient Infusion,Ceftriaxone,Routine,72,Yes,No
+ORD-00948,2026-04-26 21:36,Emergency Dept,Vancomycin,Scheduled,89,Yes,No
+ORD-00949,2026-05-11 05:44,Ambulatory Clinic,Albuterol,Routine,53,Yes,No
+ORD-00950,2026-06-28 06:24,Hospital Main,Morphine,Routine,29,Yes,Yes
+ORD-00951,2026-03-06 19:58,Outpatient Infusion,Magnesium Sulfate,Scheduled,84,Yes,No
+ORD-00952,2026-04-05 13:17,Ambulatory Clinic,Vancomycin,STAT,19,Yes,No
+ORD-00953,2026-02-18 04:16,Ambulatory Clinic,Morphine,Routine,79,Yes,Yes
+ORD-00954,2026-02-25 11:03,Hospital Main,Cefazolin,STAT,25,Yes,No
+ORD-00955,2026-03-26 09:25,Hospital Main,Acetaminophen IV,Routine,83,Yes,No
+ORD-00956,2026-06-14 01:34,Hospital Main,Heparin,Scheduled,60,Yes,Yes
+ORD-00957,2026-05-11 18:40,Hospital Main,Ondansetron,Routine,73,Yes,No
+ORD-00958,2026-03-11 07:04,Outpatient Infusion,Magnesium Sulfate,Routine,64,Yes,No
+ORD-00959,2026-05-11 10:04,Women & Children,Morphine,Routine,51,Yes,Yes
+ORD-00960,2026-05-12 20:13,Emergency Dept,Ondansetron,Routine,50,Yes,No
+ORD-00961,2026-04-01 16:03,Women & Children,Vancomycin,Routine,103,No,No
+ORD-00962,2026-05-13 10:24,Outpatient Infusion,Acetaminophen IV,STAT,21,Yes,No
+ORD-00963,2026-04-26 17:16,Hospital Main,Cefazolin,Scheduled,75,Yes,No
+ORD-00964,2026-04-29 21:06,Emergency Dept,Albuterol,Routine,50,Yes,No
+ORD-00965,2026-05-24 20:45,Women & Children,Acetaminophen IV,Routine,49,Yes,No
+ORD-00966,2026-05-13 12:27,Ambulatory Clinic,Magnesium Sulfate,STAT,21,Yes,No
+ORD-00967,2026-05-26 18:30,Emergency Dept,Acetaminophen IV,Routine,55,Yes,No
+ORD-00968,2026-06-19 06:10,Emergency Dept,Cefazolin,Routine,33,Yes,No
+ORD-00969,2026-01-11 23:20,Hospital Main,Morphine,Scheduled,60,Yes,Yes
+ORD-00970,2026-03-07 11:41,Ambulatory Clinic,Cefazolin,Routine,53,Yes,No
+ORD-00971,2026-04-19 10:28,Women & Children,Ceftriaxone,Routine,48,Yes,No
+ORD-00972,2026-03-05 18:41,Ambulatory Clinic,Ceftriaxone,STAT,23,Yes,No
+ORD-00973,2026-02-10 12:25,Women & Children,Cefazolin,Routine,61,Yes,No
+ORD-00974,2026-05-24 01:04,Outpatient Infusion,Ceftriaxone,Scheduled,54,Yes,No
+ORD-00975,2026-04-19 13:35,Emergency Dept,Albuterol,Scheduled,154,No,No
+ORD-00976,2026-02-21 00:09,Ambulatory Clinic,Morphine,Routine,59,Yes,Yes
+ORD-00977,2026-04-29 05:30,Emergency Dept,Magnesium Sulfate,Routine,63,Yes,No
+ORD-00978,2026-03-23 02:40,Outpatient Infusion,Vancomycin,STAT,15,Yes,No
+ORD-00979,2026-02-02 16:23,Outpatient Infusion,Magnesium Sulfate,STAT,20,Yes,No
+ORD-00980,2026-04-30 06:58,Hospital Main,Ceftriaxone,Scheduled,146,No,No
+ORD-00981,2026-05-01 04:56,Hospital Main,Acetaminophen IV,Routine,64,Yes,No
+ORD-00982,2026-02-12 15:50,Emergency Dept,Acetaminophen IV,Routine,98,No,No
+ORD-00983,2026-01-30 03:56,Ambulatory Clinic,Ondansetron,STAT,27,Yes,No
+ORD-00984,2026-06-17 16:58,Emergency Dept,Heparin,STAT,28,Yes,Yes
+ORD-00985,2026-06-04 01:00,Emergency Dept,Cefazolin,STAT,23,Yes,No
+ORD-00986,2026-03-13 04:12,Outpatient Infusion,Ondansetron,Routine,61,Yes,No
+ORD-00987,2026-06-23 01:22,Emergency Dept,Acetaminophen IV,Scheduled,126,No,No
+ORD-00988,2026-04-20 03:43,Ambulatory Clinic,Albuterol,Routine,73,Yes,No
+ORD-00989,2026-01-28 12:23,Ambulatory Clinic,Magnesium Sulfate,Routine,30,Yes,No
+ORD-00990,2026-04-15 09:02,Ambulatory Clinic,Albuterol,Routine,78,Yes,No
+ORD-00991,2026-04-07 16:54,Women & Children,Heparin,Routine,57,Yes,Yes
+ORD-00992,2026-04-04 04:10,Outpatient Infusion,Insulin Lispro,Scheduled,95,Yes,No
+ORD-00993,2026-04-08 21:45,Outpatient Infusion,Heparin,Scheduled,33,Yes,Yes
+ORD-00994,2026-02-16 04:53,Hospital Main,Albuterol,STAT,7,Yes,No
+ORD-00995,2026-03-08 07:39,Hospital Main,Acetaminophen IV,STAT,17,Yes,No
+ORD-00996,2026-03-04 13:03,Hospital Main,Morphine,Routine,36,Yes,Yes
+ORD-00997,2026-06-13 18:07,Hospital Main,Morphine,STAT,19,Yes,Yes
+ORD-00998,2026-04-12 22:53,Women & Children,Magnesium Sulfate,STAT,17,Yes,No
+ORD-00999,2026-05-10 01:08,Emergency Dept,Morphine,Routine,51,Yes,Yes
+ORD-01000,2026-04-30 10:38,Emergency Dept,Ceftriaxone,Scheduled,44,Yes,No
+ORD-01001,2026-02-22 07:20,Outpatient Infusion,Ceftriaxone,Routine,64,Yes,No
+ORD-01002,2026-01-23 19:11,Hospital Main,Ondansetron,Routine,80,Yes,No
+ORD-01003,2026-05-01 18:05,Outpatient Infusion,Magnesium Sulfate,Routine,77,Yes,No
+ORD-01004,2026-04-16 20:24,Outpatient Infusion,Heparin,Scheduled,67,Yes,Yes
+ORD-01005,2026-01-06 06:05,Emergency Dept,Insulin Lispro,Scheduled,64,Yes,No
+ORD-01006,2026-05-13 04:19,Emergency Dept,Ceftriaxone,Routine,68,Yes,No
+ORD-01007,2026-06-01 05:46,Emergency Dept,Insulin Lispro,Routine,63,Yes,No
+ORD-01008,2026-06-22 21:09,Hospital Main,Ceftriaxone,Routine,59,Yes,No
+ORD-01009,2026-01-13 02:19,Emergency Dept,Vancomycin,Routine,35,Yes,No
+ORD-01010,2026-03-28 08:13,Women & Children,Acetaminophen IV,Scheduled,68,Yes,No
+ORD-01011,2026-04-13 20:12,Hospital Main,Heparin,Scheduled,75,Yes,Yes
+ORD-01012,2026-06-17 06:24,Ambulatory Clinic,Heparin,Scheduled,119,Yes,Yes
+ORD-01013,2026-01-23 01:03,Hospital Main,Albuterol,STAT,24,Yes,No
+ORD-01014,2026-01-17 17:28,Ambulatory Clinic,Cefazolin,Routine,33,Yes,No
+ORD-01015,2026-03-21 17:02,Women & Children,Ceftriaxone,Routine,75,Yes,No
+ORD-01016,2026-03-13 02:21,Ambulatory Clinic,Albuterol,Routine,52,Yes,No
+ORD-01017,2026-06-09 21:03,Ambulatory Clinic,Heparin,STAT,19,Yes,Yes
+ORD-01018,2026-04-24 13:27,Hospital Main,Heparin,Routine,72,Yes,Yes
+ORD-01019,2026-04-11 05:34,Hospital Main,Ceftriaxone,Scheduled,169,No,No
+ORD-01020,2026-06-22 20:27,Ambulatory Clinic,Cefazolin,Routine,87,Yes,No
+ORD-01021,2026-05-27 09:49,Emergency Dept,Ondansetron,Routine,81,Yes,No
+ORD-01022,2026-02-26 02:53,Hospital Main,Vancomycin,Scheduled,37,Yes,No
+ORD-01023,2026-06-24 17:13,Women & Children,Vancomycin,Scheduled,23,Yes,No
+ORD-01024,2026-06-04 14:39,Ambulatory Clinic,Ondansetron,Scheduled,119,Yes,No
+ORD-01025,2026-01-25 17:37,Hospital Main,Ondansetron,STAT,15,Yes,No
+ORD-01026,2026-04-15 23:55,Outpatient Infusion,Vancomycin,Routine,64,Yes,No
+ORD-01027,2026-01-27 12:51,Emergency Dept,Magnesium Sulfate,Routine,74,Yes,No
+ORD-01028,2026-05-03 12:55,Women & Children,Ceftriaxone,Routine,40,Yes,No
+ORD-01029,2026-02-25 13:59,Women & Children,Magnesium Sulfate,Routine,83,Yes,No
+ORD-01030,2026-01-07 02:46,Emergency Dept,Insulin Lispro,Routine,41,Yes,No
+ORD-01031,2026-04-13 05:37,Women & Children,Insulin Lispro,Routine,35,Yes,No
+ORD-01032,2026-06-26 16:00,Ambulatory Clinic,Heparin,Routine,67,Yes,Yes
+ORD-01033,2026-04-12 02:25,Outpatient Infusion,Insulin Lispro,Routine,81,Yes,No
+ORD-01034,2026-05-18 19:00,Emergency Dept,Ondansetron,Routine,44,Yes,No
+ORD-01035,2026-03-03 10:36,Ambulatory Clinic,Cefazolin,STAT,15,Yes,No
+ORD-01036,2026-04-30 04:27,Outpatient Infusion,Albuterol,Scheduled,120,Yes,No
+ORD-01037,2026-04-08 09:01,Ambulatory Clinic,Heparin,Scheduled,54,Yes,Yes
+ORD-01038,2026-01-07 10:01,Hospital Main,Ondansetron,STAT,28,Yes,No
+ORD-01039,2026-04-23 03:57,Emergency Dept,Morphine,Routine,35,Yes,Yes
+ORD-01040,2026-02-05 18:55,Outpatient Infusion,Magnesium Sulfate,Routine,44,Yes,No
+ORD-01041,2026-01-24 17:34,Emergency Dept,Cefazolin,Routine,67,Yes,No
+ORD-01042,2026-04-20 01:03,Outpatient Infusion,Vancomycin,STAT,14,Yes,No
+ORD-01043,2026-06-04 05:16,Outpatient Infusion,Albuterol,Routine,78,Yes,No
+ORD-01044,2026-05-24 15:22,Emergency Dept,Vancomycin,Routine,102,No,No
+ORD-01045,2026-06-14 00:49,Women & Children,Albuterol,Routine,81,Yes,No
+ORD-01046,2026-02-08 10:40,Hospital Main,Cefazolin,Routine,81,Yes,No
+ORD-01047,2026-04-11 20:02,Emergency Dept,Ondansetron,STAT,20,Yes,No
+ORD-01048,2026-06-19 20:38,Outpatient Infusion,Insulin Lispro,Scheduled,83,Yes,No
+ORD-01049,2026-02-11 07:54,Women & Children,Magnesium Sulfate,Routine,70,Yes,No
+ORD-01050,2026-01-05 12:10,Hospital Main,Vancomycin,Scheduled,49,Yes,No
+ORD-01051,2026-05-08 20:12,Hospital Main,Insulin Lispro,Scheduled,105,Yes,No
+ORD-01052,2026-06-16 22:27,Women & Children,Ondansetron,Routine,15,Yes,No
+ORD-01053,2026-05-27 14:23,Women & Children,Acetaminophen IV,Scheduled,87,Yes,No
+ORD-01054,2026-01-07 22:51,Outpatient Infusion,Acetaminophen IV,Scheduled,64,Yes,No
+ORD-01055,2026-06-26 02:51,Outpatient Infusion,Ondansetron,Routine,43,Yes,No
+ORD-01056,2026-04-15 21:49,Emergency Dept,Ondansetron,STAT,11,Yes,No
+ORD-01057,2026-04-08 17:57,Emergency Dept,Heparin,Routine,42,Yes,Yes
+ORD-01058,2026-02-26 08:21,Hospital Main,Ondansetron,Routine,103,No,No
+ORD-01059,2026-04-20 17:34,Emergency Dept,Morphine,Scheduled,43,Yes,Yes
+ORD-01060,2026-03-10 16:12,Outpatient Infusion,Ceftriaxone,Routine,55,Yes,No
+ORD-01061,2026-02-28 21:59,Outpatient Infusion,Ceftriaxone,Scheduled,47,Yes,No
+ORD-01062,2026-05-07 06:27,Emergency Dept,Ondansetron,Routine,28,Yes,No
+ORD-01063,2026-03-03 04:01,Emergency Dept,Acetaminophen IV,Routine,12,Yes,No
+ORD-01064,2026-06-05 09:15,Women & Children,Magnesium Sulfate,Routine,66,Yes,No
+ORD-01065,2026-06-06 17:13,Outpatient Infusion,Ondansetron,Routine,79,Yes,No
+ORD-01066,2026-06-02 22:21,Ambulatory Clinic,Vancomycin,Routine,54,Yes,No
+ORD-01067,2026-03-20 10:51,Hospital Main,Morphine,Scheduled,109,Yes,Yes
+ORD-01068,2026-03-10 12:29,Women & Children,Vancomycin,STAT,20,Yes,No
+ORD-01069,2026-02-20 08:11,Ambulatory Clinic,Heparin,Routine,50,Yes,Yes
+ORD-01070,2026-05-06 04:54,Ambulatory Clinic,Morphine,Routine,37,Yes,Yes
+ORD-01071,2026-03-30 21:40,Hospital Main,Heparin,Routine,78,Yes,Yes
+ORD-01072,2026-03-27 17:22,Hospital Main,Morphine,STAT,21,Yes,Yes
+ORD-01073,2026-02-03 22:44,Hospital Main,Ondansetron,Scheduled,109,Yes,No
+ORD-01074,2026-05-24 03:19,Women & Children,Morphine,Routine,59,Yes,Yes
+ORD-01075,2026-01-17 04:58,Emergency Dept,Albuterol,Routine,45,Yes,No
+ORD-01076,2026-03-01 07:48,Emergency Dept,Albuterol,Scheduled,46,Yes,No
+ORD-01077,2026-03-26 06:05,Hospital Main,Cefazolin,STAT,14,Yes,No
+ORD-01078,2026-03-12 05:25,Outpatient Infusion,Insulin Lispro,Scheduled,55,Yes,No
+ORD-01079,2026-03-09 04:35,Emergency Dept,Magnesium Sulfate,Scheduled,99,Yes,No
+ORD-01080,2026-06-27 01:33,Outpatient Infusion,Acetaminophen IV,Routine,40,Yes,No
+ORD-01081,2026-02-19 17:45,Outpatient Infusion,Morphine,Routine,73,Yes,Yes
+ORD-01082,2026-04-21 01:51,Ambulatory Clinic,Cefazolin,Routine,53,Yes,No
+ORD-01083,2026-03-24 03:05,Emergency Dept,Ondansetron,Routine,36,Yes,No
+ORD-01084,2026-02-26 22:29,Hospital Main,Magnesium Sulfate,STAT,29,Yes,No
+ORD-01085,2026-02-17 17:54,Hospital Main,Magnesium Sulfate,Routine,58,Yes,No
+ORD-01086,2026-01-25 04:54,Hospital Main,Morphine,Scheduled,113,Yes,Yes
+ORD-01087,2026-04-06 13:46,Women & Children,Magnesium Sulfate,Routine,85,Yes,No
+ORD-01088,2026-01-08 16:16,Ambulatory Clinic,Cefazolin,Routine,78,Yes,No
+ORD-01089,2026-06-17 14:25,Women & Children,Vancomycin,Routine,77,Yes,No
+ORD-01090,2026-03-01 02:38,Emergency Dept,Heparin,STAT,16,Yes,Yes
+ORD-01091,2026-03-02 19:38,Outpatient Infusion,Cefazolin,Routine,50,Yes,No
+ORD-01092,2026-03-27 01:45,Outpatient Infusion,Albuterol,Scheduled,90,Yes,No
+ORD-01093,2026-05-19 04:58,Women & Children,Magnesium Sulfate,Routine,53,Yes,No
+ORD-01094,2026-02-14 06:17,Women & Children,Ceftriaxone,Scheduled,77,Yes,No
+ORD-01095,2026-05-16 01:19,Ambulatory Clinic,Morphine,Scheduled,112,Yes,Yes
+ORD-01096,2026-02-08 01:09,Outpatient Infusion,Albuterol,Scheduled,104,Yes,No
+ORD-01097,2026-04-13 09:23,Hospital Main,Insulin Lispro,Routine,61,Yes,No
+ORD-01098,2026-03-05 08:08,Emergency Dept,Morphine,Routine,43,Yes,Yes
+ORD-01099,2026-04-24 12:29,Women & Children,Albuterol,Routine,72,Yes,No
+ORD-01100,2026-06-01 00:47,Outpatient Infusion,Ondansetron,Routine,69,Yes,No
+ORD-01101,2026-01-22 16:54,Women & Children,Ondansetron,Routine,72,Yes,No
+ORD-01102,2026-01-22 01:43,Women & Children,Albuterol,Routine,44,Yes,No
+ORD-01103,2026-01-31 21:41,Hospital Main,Morphine,STAT,25,Yes,Yes
+ORD-01104,2026-06-22 14:38,Women & Children,Magnesium Sulfate,Scheduled,123,No,No
+ORD-01105,2026-03-28 02:58,Emergency Dept,Heparin,Scheduled,29,Yes,Yes
+ORD-01106,2026-02-06 21:39,Hospital Main,Vancomycin,Routine,55,Yes,No
+ORD-01107,2026-05-06 07:52,Ambulatory Clinic,Insulin Lispro,STAT,15,Yes,No
+ORD-01108,2026-05-26 02:50,Outpatient Infusion,Acetaminophen IV,Routine,49,Yes,No
+ORD-01109,2026-04-28 13:49,Emergency Dept,Cefazolin,Routine,41,Yes,No
+ORD-01110,2026-06-24 14:31,Hospital Main,Acetaminophen IV,Routine,78,Yes,No
+ORD-01111,2026-03-30 19:47,Ambulatory Clinic,Cefazolin,Routine,63,Yes,No
+ORD-01112,2026-03-23 01:00,Women & Children,Vancomycin,STAT,25,Yes,No
+ORD-01113,2026-06-15 12:47,Ambulatory Clinic,Heparin,Routine,52,Yes,Yes
+ORD-01114,2026-02-24 23:19,Outpatient Infusion,Vancomycin,STAT,19,Yes,No
+ORD-01115,2026-03-22 16:25,Emergency Dept,Magnesium Sulfate,STAT,18,Yes,No
+ORD-01116,2026-01-03 19:49,Women & Children,Ondansetron,Routine,52,Yes,No
+ORD-01117,2026-06-26 14:43,Outpatient Infusion,Ondansetron,Routine,26,Yes,No
+ORD-01118,2026-03-03 13:34,Ambulatory Clinic,Cefazolin,STAT,17,Yes,No
+ORD-01119,2026-03-04 17:42,Women & Children,Acetaminophen IV,STAT,31,No,No
+ORD-01120,2026-01-26 07:15,Outpatient Infusion,Magnesium Sulfate,STAT,23,Yes,No
+ORD-01121,2026-05-20 09:10,Women & Children,Vancomycin,STAT,11,Yes,No
+ORD-01122,2026-04-03 07:11,Hospital Main,Ceftriaxone,Routine,52,Yes,No
+ORD-01123,2026-06-25 23:04,Emergency Dept,Ceftriaxone,STAT,21,Yes,No
+ORD-01124,2026-04-17 00:15,Ambulatory Clinic,Albuterol,Routine,37,Yes,No
+ORD-01125,2026-06-24 02:41,Emergency Dept,Heparin,Routine,39,Yes,Yes
+ORD-01126,2026-05-11 18:45,Outpatient Infusion,Acetaminophen IV,Routine,44,Yes,No
+ORD-01127,2026-02-17 01:02,Hospital Main,Morphine,STAT,19,Yes,Yes
+ORD-01128,2026-01-13 15:58,Hospital Main,Acetaminophen IV,STAT,31,No,No
+ORD-01129,2026-03-03 08:35,Outpatient Infusion,Vancomycin,Scheduled,61,Yes,No
+ORD-01130,2026-03-24 03:11,Women & Children,Acetaminophen IV,STAT,8,Yes,No
+ORD-01131,2026-04-06 02:48,Hospital Main,Albuterol,Routine,31,Yes,No
+ORD-01132,2026-03-19 11:16,Outpatient Infusion,Magnesium Sulfate,Routine,32,Yes,No
+ORD-01133,2026-02-06 19:25,Outpatient Infusion,Morphine,Routine,67,Yes,Yes
+ORD-01134,2026-04-20 15:05,Women & Children,Acetaminophen IV,Routine,66,Yes,No
+ORD-01135,2026-06-25 03:44,Ambulatory Clinic,Ceftriaxone,Routine,71,Yes,No
+ORD-01136,2026-05-30 11:25,Hospital Main,Insulin Lispro,Routine,74,Yes,No
+ORD-01137,2026-04-08 14:34,Women & Children,Vancomycin,Routine,35,Yes,No
+ORD-01138,2026-02-20 17:54,Ambulatory Clinic,Acetaminophen IV,Routine,58,Yes,No
+ORD-01139,2026-01-12 05:46,Women & Children,Heparin,Routine,88,Yes,Yes
+ORD-01140,2026-03-15 21:24,Hospital Main,Ondansetron,Routine,42,Yes,No
+ORD-01141,2026-04-11 12:11,Emergency Dept,Magnesium Sulfate,Routine,61,Yes,No
+ORD-01142,2026-06-24 03:04,Emergency Dept,Magnesium Sulfate,Routine,74,Yes,No
+ORD-01143,2026-06-25 09:11,Hospital Main,Morphine,Routine,48,Yes,Yes
+ORD-01144,2026-04-12 17:47,Emergency Dept,Heparin,Scheduled,88,Yes,Yes
+ORD-01145,2026-04-17 08:30,Hospital Main,Ondansetron,Routine,18,Yes,No
+ORD-01146,2026-04-10 18:32,Emergency Dept,Vancomycin,Routine,96,No,No
+ORD-01147,2026-05-22 17:49,Women & Children,Vancomycin,STAT,12,Yes,No
+ORD-01148,2026-06-04 20:14,Emergency Dept,Heparin,Routine,51,Yes,Yes
+ORD-01149,2026-01-21 11:36,Women & Children,Insulin Lispro,Routine,44,Yes,No
+ORD-01150,2026-01-30 21:41,Women & Children,Acetaminophen IV,Scheduled,16,Yes,No
+ORD-01151,2026-04-09 10:38,Women & Children,Ondansetron,STAT,21,Yes,No
+ORD-01152,2026-06-25 04:37,Hospital Main,Cefazolin,Routine,54,Yes,No
+ORD-01153,2026-02-13 04:32,Women & Children,Ondansetron,Routine,53,Yes,No
+ORD-01154,2026-05-18 03:28,Ambulatory Clinic,Magnesium Sulfate,Routine,57,Yes,No
+ORD-01155,2026-05-03 10:43,Emergency Dept,Ceftriaxone,Routine,66,Yes,No
+ORD-01156,2026-06-17 08:53,Ambulatory Clinic,Acetaminophen IV,Scheduled,40,Yes,No
+ORD-01157,2026-05-29 19:28,Ambulatory Clinic,Albuterol,STAT,27,Yes,No
+ORD-01158,2026-01-28 15:07,Hospital Main,Ondansetron,Routine,92,No,No
+ORD-01159,2026-04-15 10:26,Outpatient Infusion,Ceftriaxone,Routine,34,Yes,No
+ORD-01160,2026-01-27 00:27,Hospital Main,Acetaminophen IV,Routine,49,Yes,No
+ORD-01161,2026-06-25 22:20,Emergency Dept,Heparin,STAT,8,Yes,Yes
+ORD-01162,2026-02-13 19:29,Outpatient Infusion,Morphine,Routine,78,Yes,Yes
+ORD-01163,2026-02-15 23:55,Emergency Dept,Cefazolin,Routine,50,Yes,No
+ORD-01164,2026-05-05 17:32,Hospital Main,Cefazolin,Routine,77,Yes,No
+ORD-01165,2026-02-24 16:54,Ambulatory Clinic,Albuterol,Scheduled,126,No,No
+ORD-01166,2026-02-12 22:03,Hospital Main,Heparin,Routine,66,Yes,Yes
+ORD-01167,2026-01-04 15:04,Emergency Dept,Acetaminophen IV,Routine,66,Yes,No
+ORD-01168,2026-01-30 12:14,Women & Children,Magnesium Sulfate,Scheduled,43,Yes,No
+ORD-01169,2026-03-03 02:30,Ambulatory Clinic,Ceftriaxone,Routine,28,Yes,No
+ORD-01170,2026-01-12 09:44,Ambulatory Clinic,Vancomycin,Routine,41,Yes,No
+ORD-01171,2026-06-22 05:38,Outpatient Infusion,Ondansetron,Routine,61,Yes,No
+ORD-01172,2026-03-29 22:26,Women & Children,Albuterol,Scheduled,53,Yes,No
+ORD-01173,2026-05-21 03:09,Emergency Dept,Ondansetron,Scheduled,98,Yes,No
+ORD-01174,2026-02-07 10:49,Outpatient Infusion,Cefazolin,Routine,86,Yes,No
+ORD-01175,2026-03-11 02:53,Ambulatory Clinic,Insulin Lispro,Routine,63,Yes,No
+ORD-01176,2026-03-07 15:55,Emergency Dept,Insulin Lispro,Scheduled,82,Yes,No
+ORD-01177,2026-01-28 22:11,Women & Children,Magnesium Sulfate,Scheduled,118,Yes,No
+ORD-01178,2026-03-01 18:38,Outpatient Infusion,Morphine,Routine,75,Yes,Yes
+ORD-01179,2026-02-23 23:49,Ambulatory Clinic,Ondansetron,Routine,74,Yes,No
+ORD-01180,2026-01-14 19:15,Hospital Main,Acetaminophen IV,Routine,69,Yes,No
+ORD-01181,2026-05-14 21:47,Outpatient Infusion,Albuterol,STAT,10,Yes,No
+ORD-01182,2026-03-20 11:56,Ambulatory Clinic,Ceftriaxone,Routine,41,Yes,No
+ORD-01183,2026-06-11 08:58,Hospital Main,Ceftriaxone,Scheduled,41,Yes,No
+ORD-01184,2026-06-29 03:29,Emergency Dept,Heparin,Routine,31,Yes,Yes
+ORD-01185,2026-01-24 13:25,Ambulatory Clinic,Cefazolin,STAT,24,Yes,No
+ORD-01186,2026-05-01 06:59,Emergency Dept,Acetaminophen IV,STAT,37,No,No
+ORD-01187,2026-06-27 04:07,Emergency Dept,Heparin,Routine,89,Yes,Yes
+ORD-01188,2026-02-16 09:08,Women & Children,Insulin Lispro,Routine,52,Yes,No
+ORD-01189,2026-03-11 03:44,Ambulatory Clinic,Ceftriaxone,Scheduled,102,Yes,No
+ORD-01190,2026-01-16 13:43,Women & Children,Insulin Lispro,Routine,45,Yes,No
+ORD-01191,2026-04-22 10:19,Hospital Main,Cefazolin,Scheduled,135,No,No
+ORD-01192,2026-03-16 08:10,Outpatient Infusion,Ceftriaxone,Scheduled,122,No,No
+ORD-01193,2026-03-11 04:42,Hospital Main,Insulin Lispro,Routine,59,Yes,No
+ORD-01194,2026-04-05 00:44,Ambulatory Clinic,Ondansetron,Routine,96,No,No
+ORD-01195,2026-03-31 22:57,Hospital Main,Cefazolin,Routine,28,Yes,No
+ORD-01196,2026-03-28 13:17,Hospital Main,Albuterol,Scheduled,85,Yes,No
+ORD-01197,2026-03-14 03:19,Emergency Dept,Morphine,Routine,27,Yes,Yes
+ORD-01198,2026-02-19 14:02,Outpatient Infusion,Ondansetron,Scheduled,77,Yes,No
+ORD-01199,2026-02-04 09:53,Outpatient Infusion,Cefazolin,Routine,40,Yes,No
+ORD-01200,2026-02-15 12:55,Hospital Main,Cefazolin,STAT,14,Yes,No

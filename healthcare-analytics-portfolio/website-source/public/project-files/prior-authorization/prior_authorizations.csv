@@ -1,0 +1,701 @@
+pa_id,submission_date,payer,drug_class,outcome,days_to_decision,estimated_savings
+PA-00001,2026-02-21 00:00,Commercial B,MS biologic,Approved,3,5464.6
+PA-00002,2026-02-14 00:00,Medicaid,GLP-1 therapy,Approved,7,3625.41
+PA-00003,2026-04-08 00:00,Self-Pay,Hepatitis C antiviral,Denied,6,0
+PA-00004,2026-02-12 00:00,Medicaid,MS biologic,Approved,3,3638.39
+PA-00005,2026-05-26 00:00,Medicare,Migraine CGRP,Pending,12,0
+PA-00006,2026-06-05 00:00,Self-Pay,GLP-1 therapy,Denied,4,0
+PA-00007,2026-03-13 00:00,Commercial A,Oncology infusion,Approved,2,3994.37
+PA-00008,2026-02-15 00:00,Commercial A,IVIG,Approved,4,4801.31
+PA-00009,2026-06-04 00:00,Medicaid,IVIG,Approved,5,4411.97
+PA-00010,2026-01-27 00:00,Commercial B,Hepatitis C antiviral,Appealed,3,4081.52
+PA-00011,2026-04-03 00:00,Medicaid,Migraine CGRP,Approved,4,6628.89
+PA-00012,2026-02-15 00:00,Self-Pay,Hepatitis C antiviral,Appealed,2,4212.97
+PA-00013,2026-02-22 00:00,Medicare,MS biologic,Approved,3,3322.35
+PA-00014,2026-05-24 00:00,Self-Pay,MS biologic,Approved,6,5794.53
+PA-00015,2026-01-03 00:00,Self-Pay,IVIG,Approved,3,8167.47
+PA-00016,2026-04-19 00:00,Commercial A,Migraine CGRP,Approved,0,4391.82
+PA-00017,2026-03-26 00:00,Commercial A,GLP-1 therapy,Approved,1,7282.34
+PA-00018,2026-05-14 00:00,Medicare,IVIG,Approved,1,2683.53
+PA-00019,2026-05-21 00:00,Medicaid,Fertility medication,Appealed,2,8877.81
+PA-00020,2026-06-06 00:00,Commercial B,Hepatitis C antiviral,Approved,2,4988.38
+PA-00021,2026-05-29 00:00,Commercial B,Migraine CGRP,Approved,4,6396.93
+PA-00022,2026-04-28 00:00,Commercial B,GLP-1 therapy,Approved,5,4130.74
+PA-00023,2026-01-22 00:00,Medicare,Specialty biologic,Appealed,4,2169.57
+PA-00024,2026-05-15 00:00,Commercial B,Migraine CGRP,Approved,1,3943.83
+PA-00025,2026-03-25 00:00,Commercial A,GLP-1 therapy,Approved,6,6633.35
+PA-00026,2026-04-19 00:00,Medicare,GLP-1 therapy,Approved,3,8015.32
+PA-00027,2026-06-24 00:00,Medicaid,Oncology infusion,Approved,2,2105.14
+PA-00028,2026-04-05 00:00,Self-Pay,Hepatitis C antiviral,Approved,9,8359.26
+PA-00029,2026-03-24 00:00,Commercial A,GLP-1 therapy,Denied,4,0
+PA-00030,2026-04-15 00:00,Commercial B,IVIG,Approved,7,6819.69
+PA-00031,2026-03-09 00:00,Self-Pay,Oncology infusion,Approved,5,4403.17
+PA-00032,2026-06-29 00:00,Commercial A,Oncology infusion,Pending,9,0
+PA-00033,2026-03-18 00:00,Medicaid,GLP-1 therapy,Approved,7,2394.24
+PA-00034,2026-03-24 00:00,Commercial B,Fertility medication,Denied,3,0
+PA-00035,2026-04-07 00:00,Self-Pay,Migraine CGRP,Appealed,5,6876.12
+PA-00036,2026-05-13 00:00,Self-Pay,Migraine CGRP,Approved,4,6813.3
+PA-00037,2026-05-24 00:00,Commercial B,GLP-1 therapy,Approved,2,6564.79
+PA-00038,2026-01-22 00:00,Medicare,GLP-1 therapy,Pending,10,0
+PA-00039,2026-04-23 00:00,Self-Pay,Hepatitis C antiviral,Approved,3,8711.49
+PA-00040,2026-06-06 00:00,Medicare,IVIG,Denied,2,0
+PA-00041,2026-04-05 00:00,Commercial B,Oncology infusion,Approved,2,4860.37
+PA-00042,2026-05-02 00:00,Medicaid,GLP-1 therapy,Approved,3,1990.44
+PA-00043,2026-04-19 00:00,Commercial A,IVIG,Approved,4,2746.95
+PA-00044,2026-06-10 00:00,Commercial B,Migraine CGRP,Approved,1,6552.96
+PA-00045,2026-03-01 00:00,Self-Pay,Specialty biologic,Approved,2,8678.13
+PA-00046,2026-02-20 00:00,Commercial A,IVIG,Approved,1,7627.25
+PA-00047,2026-01-13 00:00,Medicaid,Fertility medication,Pending,20,0
+PA-00048,2026-03-19 00:00,Commercial A,Migraine CGRP,Approved,5,8009.43
+PA-00049,2026-02-14 00:00,Medicaid,Hepatitis C antiviral,Approved,6,3024.51
+PA-00050,2026-01-11 00:00,Commercial B,Fertility medication,Approved,3,4613.42
+PA-00051,2026-04-06 00:00,Commercial A,Migraine CGRP,Denied,7,0
+PA-00052,2026-03-27 00:00,Self-Pay,Oncology infusion,Approved,2,1955.25
+PA-00053,2026-04-28 00:00,Medicare,Migraine CGRP,Appealed,4,4351.86
+PA-00054,2026-05-23 00:00,Commercial A,Fertility medication,Approved,1,7887.44
+PA-00055,2026-01-06 00:00,Commercial B,Fertility medication,Approved,6,3351.37
+PA-00056,2026-03-18 00:00,Medicare,Specialty biologic,Approved,5,4399.31
+PA-00057,2026-02-23 00:00,Medicare,IVIG,Denied,4,0
+PA-00058,2026-01-12 00:00,Medicare,Migraine CGRP,Denied,4,0
+PA-00059,2026-04-06 00:00,Commercial A,Hepatitis C antiviral,Denied,5,0
+PA-00060,2026-03-09 00:00,Medicaid,MS biologic,Approved,6,8639.73
+PA-00061,2026-03-27 00:00,Commercial A,Hepatitis C antiviral,Approved,8,7824.8
+PA-00062,2026-02-03 00:00,Commercial B,Hepatitis C antiviral,Appealed,2,5792.29
+PA-00063,2026-06-21 00:00,Medicare,GLP-1 therapy,Approved,11,6710.7
+PA-00064,2026-01-18 00:00,Medicaid,GLP-1 therapy,Pending,17,0
+PA-00065,2026-04-18 00:00,Medicare,Specialty biologic,Approved,5,6958.83
+PA-00066,2026-05-09 00:00,Commercial A,Hepatitis C antiviral,Appealed,4,8014.56
+PA-00067,2026-05-09 00:00,Commercial B,IVIG,Denied,4,0
+PA-00068,2026-03-12 00:00,Commercial B,Hepatitis C antiviral,Approved,3,3997.94
+PA-00069,2026-01-24 00:00,Self-Pay,Hepatitis C antiviral,Approved,1,300.52
+PA-00070,2026-04-29 00:00,Commercial B,Hepatitis C antiviral,Denied,6,0
+PA-00071,2026-05-21 00:00,Self-Pay,Oncology infusion,Approved,1,3543.92
+PA-00072,2026-02-04 00:00,Commercial B,MS biologic,Approved,2,4882.76
+PA-00073,2026-06-08 00:00,Commercial A,Specialty biologic,Denied,2,0
+PA-00074,2026-06-29 00:00,Medicaid,IVIG,Approved,5,4618.5
+PA-00075,2026-03-15 00:00,Commercial A,GLP-1 therapy,Approved,6,4486.25
+PA-00076,2026-03-03 00:00,Medicaid,Hepatitis C antiviral,Appealed,4,884.92
+PA-00077,2026-01-23 00:00,Commercial B,Hepatitis C antiviral,Approved,4,4515.62
+PA-00078,2026-04-26 00:00,Medicaid,IVIG,Approved,4,6679.12
+PA-00079,2026-05-09 00:00,Medicaid,MS biologic,Approved,2,2903.32
+PA-00080,2026-03-19 00:00,Medicare,Oncology infusion,Approved,2,445.18
+PA-00081,2026-06-22 00:00,Medicaid,Oncology infusion,Denied,2,0
+PA-00082,2026-05-04 00:00,Commercial A,IVIG,Appealed,0,6387.23
+PA-00083,2026-04-15 00:00,Commercial A,Hepatitis C antiviral,Appealed,3,7821.39
+PA-00084,2026-05-03 00:00,Medicare,Migraine CGRP,Approved,8,964.29
+PA-00085,2026-06-22 00:00,Medicare,IVIG,Approved,3,4772.82
+PA-00086,2026-02-20 00:00,Commercial B,Migraine CGRP,Denied,3,0
+PA-00087,2026-02-23 00:00,Medicaid,MS biologic,Denied,3,0
+PA-00088,2026-05-06 00:00,Commercial A,MS biologic,Pending,7,0
+PA-00089,2026-05-28 00:00,Medicare,Migraine CGRP,Appealed,6,3563.44
+PA-00090,2026-04-03 00:00,Commercial B,Specialty biologic,Approved,3,6893.72
+PA-00091,2026-02-15 00:00,Self-Pay,IVIG,Approved,5,3006.13
+PA-00092,2026-05-27 00:00,Self-Pay,Specialty biologic,Appealed,1,6959.24
+PA-00093,2026-01-15 00:00,Self-Pay,IVIG,Approved,3,2554.31
+PA-00094,2026-06-30 00:00,Commercial A,Oncology infusion,Appealed,5,1194.33
+PA-00095,2026-06-05 00:00,Self-Pay,MS biologic,Approved,6,7668.83
+PA-00096,2026-05-31 00:00,Medicaid,Specialty biologic,Approved,0,3035.23
+PA-00097,2026-05-01 00:00,Commercial A,IVIG,Approved,6,1066.65
+PA-00098,2026-03-05 00:00,Commercial A,Specialty biologic,Pending,17,0
+PA-00099,2026-04-03 00:00,Medicare,IVIG,Appealed,5,3090.33
+PA-00100,2026-01-10 00:00,Medicare,IVIG,Pending,15,0
+PA-00101,2026-01-03 00:00,Commercial B,Fertility medication,Approved,3,712.84
+PA-00102,2026-04-15 00:00,Self-Pay,MS biologic,Approved,3,6073.7
+PA-00103,2026-03-22 00:00,Commercial B,MS biologic,Approved,5,6819.02
+PA-00104,2026-03-20 00:00,Commercial A,MS biologic,Approved,2,5157.75
+PA-00105,2026-02-17 00:00,Medicaid,Specialty biologic,Approved,0,2622.04
+PA-00106,2026-02-09 00:00,Commercial B,GLP-1 therapy,Approved,1,1013.7
+PA-00107,2026-06-08 00:00,Medicare,Specialty biologic,Approved,6,3627.27
+PA-00108,2026-06-14 00:00,Self-Pay,Hepatitis C antiviral,Approved,5,812.2
+PA-00109,2026-06-29 00:00,Medicaid,Oncology infusion,Denied,6,0
+PA-00110,2026-04-14 00:00,Commercial B,Oncology infusion,Pending,10,0
+PA-00111,2026-02-08 00:00,Commercial B,Specialty biologic,Approved,6,5850.92
+PA-00112,2026-02-13 00:00,Self-Pay,Hepatitis C antiviral,Approved,3,4902.98
+PA-00113,2026-06-11 00:00,Commercial B,Migraine CGRP,Approved,4,8411.87
+PA-00114,2026-01-23 00:00,Medicare,GLP-1 therapy,Approved,4,5817.06
+PA-00115,2026-06-12 00:00,Commercial B,MS biologic,Approved,6,1454.22
+PA-00116,2026-06-10 00:00,Medicare,Fertility medication,Denied,4,0
+PA-00117,2026-06-15 00:00,Commercial A,Fertility medication,Approved,4,5656.46
+PA-00118,2026-02-02 00:00,Medicaid,Migraine CGRP,Approved,5,3341.94
+PA-00119,2026-03-17 00:00,Medicaid,MS biologic,Appealed,3,7359.2
+PA-00120,2026-03-26 00:00,Medicaid,GLP-1 therapy,Appealed,5,7312.32
+PA-00121,2026-01-12 00:00,Self-Pay,Migraine CGRP,Approved,3,7184.27
+PA-00122,2026-02-16 00:00,Medicare,Migraine CGRP,Approved,2,4450.82
+PA-00123,2026-04-26 00:00,Self-Pay,Hepatitis C antiviral,Appealed,5,662.43
+PA-00124,2026-05-29 00:00,Commercial A,GLP-1 therapy,Pending,16,0
+PA-00125,2026-04-22 00:00,Commercial A,Hepatitis C antiviral,Approved,5,5754.94
+PA-00126,2026-04-01 00:00,Medicaid,Hepatitis C antiviral,Approved,5,5162.12
+PA-00127,2026-05-16 00:00,Commercial B,Fertility medication,Approved,2,5636.08
+PA-00128,2026-03-02 00:00,Medicaid,Specialty biologic,Approved,0,8643.14
+PA-00129,2026-04-17 00:00,Medicaid,Oncology infusion,Pending,6,0
+PA-00130,2026-01-23 00:00,Medicaid,Specialty biologic,Approved,5,7527.16
+PA-00131,2026-03-12 00:00,Medicare,Fertility medication,Denied,4,0
+PA-00132,2026-06-07 00:00,Medicaid,GLP-1 therapy,Approved,4,6572.97
+PA-00133,2026-03-07 00:00,Medicaid,MS biologic,Approved,4,8571.42
+PA-00134,2026-05-26 00:00,Commercial A,Migraine CGRP,Approved,3,4298.53
+PA-00135,2026-05-25 00:00,Commercial A,GLP-1 therapy,Approved,3,4132.35
+PA-00136,2026-05-24 00:00,Self-Pay,IVIG,Approved,6,4425.82
+PA-00137,2026-06-13 00:00,Self-Pay,GLP-1 therapy,Approved,5,2223.25
+PA-00138,2026-06-18 00:00,Commercial B,Hepatitis C antiviral,Approved,0,6904.51
+PA-00139,2026-04-14 00:00,Commercial A,Hepatitis C antiviral,Approved,2,6049.22
+PA-00140,2026-06-01 00:00,Commercial A,Oncology infusion,Denied,6,0
+PA-00141,2026-02-17 00:00,Self-Pay,Oncology infusion,Appealed,3,6537.07
+PA-00142,2026-01-01 00:00,Self-Pay,Specialty biologic,Approved,4,4100.07
+PA-00143,2026-05-11 00:00,Commercial B,MS biologic,Approved,5,2892.83
+PA-00144,2026-04-19 00:00,Commercial B,Fertility medication,Denied,1,0
+PA-00145,2026-04-13 00:00,Commercial A,Migraine CGRP,Pending,13,0
+PA-00146,2026-05-03 00:00,Commercial A,Migraine CGRP,Approved,3,7529.27
+PA-00147,2026-05-02 00:00,Medicaid,MS biologic,Approved,3,8457.37
+PA-00148,2026-03-24 00:00,Commercial A,MS biologic,Approved,5,1680.17
+PA-00149,2026-05-09 00:00,Commercial A,Fertility medication,Approved,2,8712.62
+PA-00150,2026-01-17 00:00,Self-Pay,Migraine CGRP,Approved,4,8019.71
+PA-00151,2026-02-10 00:00,Commercial B,Hepatitis C antiviral,Approved,6,1325.0
+PA-00152,2026-06-07 00:00,Commercial B,Fertility medication,Approved,6,2248.97
+PA-00153,2026-06-06 00:00,Commercial A,Hepatitis C antiviral,Denied,5,0
+PA-00154,2026-06-14 00:00,Commercial A,Hepatitis C antiviral,Pending,18,0
+PA-00155,2026-04-23 00:00,Medicaid,Hepatitis C antiviral,Appealed,4,369.05
+PA-00156,2026-01-13 00:00,Commercial A,IVIG,Denied,4,0
+PA-00157,2026-01-29 00:00,Medicaid,Hepatitis C antiviral,Pending,8,0
+PA-00158,2026-03-25 00:00,Medicaid,Fertility medication,Approved,3,2742.8
+PA-00159,2026-02-02 00:00,Self-Pay,Migraine CGRP,Denied,4,0
+PA-00160,2026-06-03 00:00,Commercial B,Oncology infusion,Approved,7,5113.69
+PA-00161,2026-05-26 00:00,Commercial B,Migraine CGRP,Denied,4,0
+PA-00162,2026-06-12 00:00,Commercial A,GLP-1 therapy,Approved,4,2074.64
+PA-00163,2026-03-18 00:00,Medicare,GLP-1 therapy,Pending,16,0
+PA-00164,2026-02-26 00:00,Medicaid,Fertility medication,Approved,5,8884.85
+PA-00165,2026-05-05 00:00,Commercial A,Specialty biologic,Approved,2,2671.32
+PA-00166,2026-01-05 00:00,Medicaid,MS biologic,Approved,4,8047.62
+PA-00167,2026-05-05 00:00,Commercial B,Migraine CGRP,Denied,3,0
+PA-00168,2026-02-05 00:00,Medicaid,Fertility medication,Approved,3,8349.06
+PA-00169,2026-03-18 00:00,Medicare,Specialty biologic,Approved,5,1632.47
+PA-00170,2026-05-16 00:00,Commercial B,MS biologic,Approved,1,7286.27
+PA-00171,2026-04-04 00:00,Medicaid,GLP-1 therapy,Appealed,1,7951.47
+PA-00172,2026-04-02 00:00,Medicaid,MS biologic,Approved,5,4249.7
+PA-00173,2026-03-23 00:00,Medicare,Oncology infusion,Appealed,1,3660.61
+PA-00174,2026-04-17 00:00,Medicaid,Migraine CGRP,Appealed,2,4754.39
+PA-00175,2026-03-15 00:00,Medicare,Hepatitis C antiviral,Approved,5,5602.74
+PA-00176,2026-01-06 00:00,Commercial A,Fertility medication,Approved,4,5254.81
+PA-00177,2026-01-26 00:00,Commercial B,Specialty biologic,Approved,1,3521.83
+PA-00178,2026-02-09 00:00,Commercial A,Migraine CGRP,Approved,2,3249.76
+PA-00179,2026-06-22 00:00,Commercial B,Specialty biologic,Appealed,7,5693.24
+PA-00180,2026-02-15 00:00,Self-Pay,IVIG,Denied,2,0
+PA-00181,2026-03-11 00:00,Commercial B,Fertility medication,Approved,6,3599.35
+PA-00182,2026-03-23 00:00,Commercial B,GLP-1 therapy,Approved,2,2590.92
+PA-00183,2026-02-23 00:00,Medicaid,Migraine CGRP,Appealed,6,4057.61
+PA-00184,2026-05-01 00:00,Medicare,Fertility medication,Approved,1,8571.52
+PA-00185,2026-01-01 00:00,Self-Pay,Migraine CGRP,Pending,7,0
+PA-00186,2026-05-05 00:00,Medicaid,Hepatitis C antiviral,Approved,5,1279.21
+PA-00187,2026-02-23 00:00,Self-Pay,MS biologic,Approved,4,715.33
+PA-00188,2026-02-01 00:00,Commercial A,MS biologic,Approved,4,7771.63
+PA-00189,2026-03-15 00:00,Medicaid,Migraine CGRP,Denied,5,0
+PA-00190,2026-06-27 00:00,Medicaid,Fertility medication,Approved,1,8500.48
+PA-00191,2026-04-30 00:00,Commercial B,MS biologic,Approved,4,8707.71
+PA-00192,2026-06-12 00:00,Commercial A,Fertility medication,Approved,5,4945.51
+PA-00193,2026-06-16 00:00,Commercial B,MS biologic,Approved,3,7788.12
+PA-00194,2026-05-18 00:00,Commercial A,MS biologic,Approved,3,453.58
+PA-00195,2026-06-22 00:00,Commercial B,MS biologic,Denied,3,0
+PA-00196,2026-05-09 00:00,Commercial B,Specialty biologic,Approved,6,1651.84
+PA-00197,2026-05-16 00:00,Medicare,Migraine CGRP,Denied,2,0
+PA-00198,2026-06-17 00:00,Commercial B,Migraine CGRP,Approved,4,458.71
+PA-00199,2026-01-27 00:00,Commercial B,Migraine CGRP,Pending,20,0
+PA-00200,2026-06-12 00:00,Commercial A,Specialty biologic,Denied,1,0
+PA-00201,2026-06-27 00:00,Commercial A,IVIG,Approved,4,3338.91
+PA-00202,2026-03-23 00:00,Medicare,MS biologic,Approved,4,3543.91
+PA-00203,2026-04-14 00:00,Medicare,GLP-1 therapy,Approved,8,1961.38
+PA-00204,2026-04-10 00:00,Medicare,Specialty biologic,Approved,2,6033.77
+PA-00205,2026-01-11 00:00,Commercial B,Specialty biologic,Denied,6,0
+PA-00206,2026-04-09 00:00,Self-Pay,Fertility medication,Denied,3,0
+PA-00207,2026-05-20 00:00,Self-Pay,Hepatitis C antiviral,Approved,4,4902.32
+PA-00208,2026-03-22 00:00,Commercial B,Specialty biologic,Appealed,5,3476.94
+PA-00209,2026-03-02 00:00,Commercial B,Hepatitis C antiviral,Approved,6,2474.88
+PA-00210,2026-02-20 00:00,Commercial B,Hepatitis C antiviral,Appealed,1,3397.6
+PA-00211,2026-05-15 00:00,Medicare,Hepatitis C antiviral,Approved,6,4253.75
+PA-00212,2026-02-04 00:00,Commercial A,IVIG,Denied,5,0
+PA-00213,2026-03-30 00:00,Medicaid,Specialty biologic,Approved,3,947.37
+PA-00214,2026-02-18 00:00,Self-Pay,GLP-1 therapy,Approved,4,5826.7
+PA-00215,2026-06-07 00:00,Commercial B,IVIG,Approved,3,6149.64
+PA-00216,2026-02-27 00:00,Commercial B,MS biologic,Denied,3,0
+PA-00217,2026-01-17 00:00,Self-Pay,Migraine CGRP,Appealed,1,2005.35
+PA-00218,2026-06-20 00:00,Medicare,GLP-1 therapy,Appealed,3,3468.59
+PA-00219,2026-06-10 00:00,Commercial A,Hepatitis C antiviral,Approved,2,1634.3
+PA-00220,2026-01-07 00:00,Commercial A,Oncology infusion,Approved,6,8103.26
+PA-00221,2026-05-01 00:00,Medicare,Migraine CGRP,Approved,3,4707.25
+PA-00222,2026-05-14 00:00,Commercial B,Hepatitis C antiviral,Appealed,6,6148.31
+PA-00223,2026-02-20 00:00,Medicare,Oncology infusion,Approved,6,6021.77
+PA-00224,2026-03-24 00:00,Commercial B,Oncology infusion,Approved,5,5884.63
+PA-00225,2026-05-26 00:00,Commercial A,Oncology infusion,Pending,15,0
+PA-00226,2026-04-11 00:00,Commercial B,MS biologic,Appealed,5,5773.84
+PA-00227,2026-03-11 00:00,Commercial A,Hepatitis C antiviral,Denied,5,0
+PA-00228,2026-03-23 00:00,Commercial A,Migraine CGRP,Appealed,6,1251.57
+PA-00229,2026-01-25 00:00,Medicare,MS biologic,Approved,5,8707.43
+PA-00230,2026-06-25 00:00,Medicaid,MS biologic,Approved,3,5107.77
+PA-00231,2026-06-15 00:00,Self-Pay,Specialty biologic,Approved,5,4763.02
+PA-00232,2026-01-26 00:00,Commercial B,Migraine CGRP,Appealed,1,2563.49
+PA-00233,2026-06-21 00:00,Medicaid,Oncology infusion,Approved,6,2421.32
+PA-00234,2026-03-04 00:00,Commercial A,MS biologic,Appealed,5,8124.78
+PA-00235,2026-01-29 00:00,Commercial B,Oncology infusion,Approved,4,2001.68
+PA-00236,2026-05-11 00:00,Commercial B,Fertility medication,Appealed,5,4377.8
+PA-00237,2026-05-04 00:00,Self-Pay,GLP-1 therapy,Approved,1,4088.77
+PA-00238,2026-05-20 00:00,Commercial B,IVIG,Approved,5,6742.02
+PA-00239,2026-04-06 00:00,Commercial B,GLP-1 therapy,Approved,0,5837.62
+PA-00240,2026-02-17 00:00,Commercial B,Specialty biologic,Approved,4,2752.87
+PA-00241,2026-05-15 00:00,Self-Pay,Hepatitis C antiviral,Approved,3,7381.12
+PA-00242,2026-02-26 00:00,Medicaid,GLP-1 therapy,Pending,11,0
+PA-00243,2026-04-10 00:00,Commercial A,Migraine CGRP,Denied,6,0
+PA-00244,2026-03-07 00:00,Commercial B,Hepatitis C antiviral,Approved,3,621.94
+PA-00245,2026-06-25 00:00,Self-Pay,IVIG,Denied,3,0
+PA-00246,2026-04-10 00:00,Self-Pay,Migraine CGRP,Approved,1,4532.92
+PA-00247,2026-01-04 00:00,Commercial A,IVIG,Approved,2,7384.85
+PA-00248,2026-01-30 00:00,Medicare,Fertility medication,Approved,7,5160.28
+PA-00249,2026-01-26 00:00,Commercial B,IVIG,Appealed,5,1537.15
+PA-00250,2026-04-11 00:00,Medicare,Fertility medication,Approved,6,8323.78
+PA-00251,2026-01-18 00:00,Commercial B,IVIG,Denied,8,0
+PA-00252,2026-03-29 00:00,Commercial B,Oncology infusion,Denied,4,0
+PA-00253,2026-05-27 00:00,Self-Pay,GLP-1 therapy,Denied,4,0
+PA-00254,2026-04-27 00:00,Commercial A,MS biologic,Approved,6,5550.31
+PA-00255,2026-02-20 00:00,Self-Pay,MS biologic,Approved,6,4680.32
+PA-00256,2026-03-18 00:00,Self-Pay,IVIG,Denied,5,0
+PA-00257,2026-03-03 00:00,Medicare,MS biologic,Approved,4,3241.23
+PA-00258,2026-03-06 00:00,Self-Pay,Hepatitis C antiviral,Approved,3,526.19
+PA-00259,2026-02-11 00:00,Commercial A,Specialty biologic,Approved,2,7327.92
+PA-00260,2026-01-23 00:00,Self-Pay,Oncology infusion,Approved,5,4765.08
+PA-00261,2026-06-12 00:00,Self-Pay,Fertility medication,Approved,4,8406.07
+PA-00262,2026-03-28 00:00,Medicare,Fertility medication,Approved,0,6383.55
+PA-00263,2026-02-19 00:00,Commercial A,GLP-1 therapy,Approved,4,4231.54
+PA-00264,2026-01-15 00:00,Medicare,Migraine CGRP,Approved,6,341.87
+PA-00265,2026-01-24 00:00,Commercial A,Hepatitis C antiviral,Approved,2,2317.17
+PA-00266,2026-06-12 00:00,Medicaid,MS biologic,Approved,2,6877.67
+PA-00267,2026-04-27 00:00,Commercial B,Hepatitis C antiviral,Approved,5,6104.91
+PA-00268,2026-01-16 00:00,Commercial B,GLP-1 therapy,Approved,2,6007.68
+PA-00269,2026-05-31 00:00,Medicaid,Fertility medication,Pending,21,0
+PA-00270,2026-03-02 00:00,Medicaid,GLP-1 therapy,Approved,8,2598.51
+PA-00271,2026-04-18 00:00,Commercial A,Fertility medication,Appealed,8,2597.04
+PA-00272,2026-03-29 00:00,Medicare,Specialty biologic,Approved,3,2743.88
+PA-00273,2026-05-17 00:00,Self-Pay,GLP-1 therapy,Approved,5,7277.34
+PA-00274,2026-01-30 00:00,Commercial A,Specialty biologic,Approved,2,7751.08
+PA-00275,2026-03-16 00:00,Commercial B,Oncology infusion,Approved,0,8051.7
+PA-00276,2026-04-03 00:00,Commercial B,Migraine CGRP,Approved,1,1321.09
+PA-00277,2026-01-28 00:00,Commercial B,GLP-1 therapy,Appealed,2,7965.68
+PA-00278,2026-04-03 00:00,Commercial A,Migraine CGRP,Approved,3,4313.61
+PA-00279,2026-05-12 00:00,Medicaid,Fertility medication,Approved,3,4710.12
+PA-00280,2026-03-10 00:00,Medicaid,GLP-1 therapy,Approved,2,5597.04
+PA-00281,2026-03-08 00:00,Self-Pay,Hepatitis C antiviral,Pending,19,0
+PA-00282,2026-01-03 00:00,Commercial B,Hepatitis C antiviral,Denied,3,0
+PA-00283,2026-06-16 00:00,Medicare,Hepatitis C antiviral,Approved,2,1450.29
+PA-00284,2026-04-15 00:00,Medicare,Fertility medication,Denied,6,0
+PA-00285,2026-04-27 00:00,Self-Pay,Fertility medication,Approved,0,655.66
+PA-00286,2026-06-17 00:00,Self-Pay,IVIG,Approved,4,2238.54
+PA-00287,2026-04-30 00:00,Commercial B,Oncology infusion,Approved,3,7132.32
+PA-00288,2026-01-15 00:00,Medicaid,Fertility medication,Appealed,5,3949.15
+PA-00289,2026-02-17 00:00,Commercial B,GLP-1 therapy,Approved,5,8138.75
+PA-00290,2026-02-12 00:00,Medicaid,Migraine CGRP,Approved,5,2404.15
+PA-00291,2026-02-06 00:00,Self-Pay,IVIG,Approved,8,2299.13
+PA-00292,2026-03-13 00:00,Medicare,Hepatitis C antiviral,Denied,5,0
+PA-00293,2026-04-07 00:00,Medicaid,Migraine CGRP,Denied,0,0
+PA-00294,2026-01-01 00:00,Self-Pay,Hepatitis C antiviral,Approved,5,4977.87
+PA-00295,2026-04-11 00:00,Medicaid,MS biologic,Approved,5,1085.99
+PA-00296,2026-05-10 00:00,Medicaid,MS biologic,Approved,4,3628.1
+PA-00297,2026-03-09 00:00,Self-Pay,Migraine CGRP,Pending,16,0
+PA-00298,2026-03-15 00:00,Commercial A,Fertility medication,Approved,3,1313.1
+PA-00299,2026-05-29 00:00,Commercial A,GLP-1 therapy,Approved,2,1545.6
+PA-00300,2026-01-02 00:00,Medicaid,MS biologic,Appealed,5,3868.71
+PA-00301,2026-03-19 00:00,Commercial A,Oncology infusion,Approved,6,8747.07
+PA-00302,2026-04-19 00:00,Self-Pay,Fertility medication,Approved,4,6205.0
+PA-00303,2026-01-11 00:00,Self-Pay,IVIG,Appealed,4,953.9
+PA-00304,2026-05-04 00:00,Medicare,GLP-1 therapy,Denied,5,0
+PA-00305,2026-03-25 00:00,Commercial B,Hepatitis C antiviral,Appealed,7,6057.95
+PA-00306,2026-05-19 00:00,Self-Pay,Fertility medication,Approved,2,4511.11
+PA-00307,2026-05-13 00:00,Medicaid,Fertility medication,Pending,8,0
+PA-00308,2026-03-06 00:00,Commercial A,Oncology infusion,Approved,4,7411.68
+PA-00309,2026-05-02 00:00,Commercial A,Hepatitis C antiviral,Approved,2,4015.86
+PA-00310,2026-03-02 00:00,Medicaid,IVIG,Approved,1,468.66
+PA-00311,2026-01-21 00:00,Medicaid,GLP-1 therapy,Approved,3,3016.31
+PA-00312,2026-06-25 00:00,Medicaid,Specialty biologic,Appealed,4,6418.78
+PA-00313,2026-01-01 00:00,Commercial B,Specialty biologic,Approved,4,3489.19
+PA-00314,2026-03-11 00:00,Commercial B,Specialty biologic,Approved,2,7824.53
+PA-00315,2026-01-18 00:00,Commercial A,GLP-1 therapy,Approved,4,1444.99
+PA-00316,2026-04-30 00:00,Medicare,MS biologic,Denied,2,0
+PA-00317,2026-06-24 00:00,Commercial A,Fertility medication,Approved,5,7479.56
+PA-00318,2026-02-28 00:00,Medicare,Hepatitis C antiviral,Approved,5,6694.02
+PA-00319,2026-02-18 00:00,Medicare,IVIG,Approved,3,3540.43
+PA-00320,2026-05-07 00:00,Medicaid,Oncology infusion,Denied,4,0
+PA-00321,2026-06-14 00:00,Commercial B,GLP-1 therapy,Approved,6,1064.94
+PA-00322,2026-03-08 00:00,Commercial B,MS biologic,Appealed,4,4523.21
+PA-00323,2026-03-10 00:00,Self-Pay,MS biologic,Denied,4,0
+PA-00324,2026-06-08 00:00,Medicare,Fertility medication,Approved,4,4060.88
+PA-00325,2026-06-05 00:00,Medicaid,Fertility medication,Approved,4,1423.4
+PA-00326,2026-01-19 00:00,Medicare,Oncology infusion,Approved,1,6571.57
+PA-00327,2026-02-02 00:00,Medicaid,IVIG,Denied,3,0
+PA-00328,2026-05-25 00:00,Medicare,Fertility medication,Pending,12,0
+PA-00329,2026-05-03 00:00,Self-Pay,MS biologic,Approved,5,8692.6
+PA-00330,2026-06-11 00:00,Commercial A,MS biologic,Pending,8,0
+PA-00331,2026-04-20 00:00,Self-Pay,IVIG,Denied,3,0
+PA-00332,2026-01-22 00:00,Self-Pay,Migraine CGRP,Approved,7,3207.95
+PA-00333,2026-04-28 00:00,Medicare,Migraine CGRP,Appealed,4,8679.6
+PA-00334,2026-02-16 00:00,Self-Pay,Migraine CGRP,Pending,13,0
+PA-00335,2026-05-30 00:00,Medicaid,Hepatitis C antiviral,Approved,3,8353.38
+PA-00336,2026-03-02 00:00,Medicaid,Specialty biologic,Approved,4,5303.41
+PA-00337,2026-05-01 00:00,Medicaid,Fertility medication,Denied,2,0
+PA-00338,2026-04-29 00:00,Medicaid,Fertility medication,Pending,14,0
+PA-00339,2026-03-18 00:00,Commercial A,IVIG,Approved,1,7985.07
+PA-00340,2026-03-19 00:00,Self-Pay,Fertility medication,Approved,0,3448.56
+PA-00341,2026-01-29 00:00,Commercial B,MS biologic,Denied,1,0
+PA-00342,2026-03-20 00:00,Self-Pay,IVIG,Pending,7,0
+PA-00343,2026-02-10 00:00,Medicaid,GLP-1 therapy,Approved,3,2882.41
+PA-00344,2026-03-17 00:00,Self-Pay,Fertility medication,Pending,7,0
+PA-00345,2026-06-10 00:00,Medicare,GLP-1 therapy,Approved,3,382.51
+PA-00346,2026-01-17 00:00,Commercial A,Hepatitis C antiviral,Approved,2,7947.14
+PA-00347,2026-04-14 00:00,Medicaid,Hepatitis C antiviral,Approved,4,2576.78
+PA-00348,2026-02-09 00:00,Medicaid,GLP-1 therapy,Approved,3,6916.13
+PA-00349,2026-03-10 00:00,Medicare,GLP-1 therapy,Denied,3,0
+PA-00350,2026-02-07 00:00,Medicaid,Fertility medication,Approved,3,1903.82
+PA-00351,2026-02-16 00:00,Commercial A,Hepatitis C antiviral,Appealed,0,2550.03
+PA-00352,2026-03-26 00:00,Self-Pay,Hepatitis C antiviral,Appealed,4,872.25
+PA-00353,2026-03-10 00:00,Self-Pay,Oncology infusion,Denied,4,0
+PA-00354,2026-02-25 00:00,Self-Pay,MS biologic,Approved,3,2963.72
+PA-00355,2026-02-10 00:00,Commercial A,IVIG,Approved,1,6254.21
+PA-00356,2026-06-27 00:00,Commercial B,Fertility medication,Denied,5,0
+PA-00357,2026-06-02 00:00,Medicaid,GLP-1 therapy,Approved,4,6991.59
+PA-00358,2026-02-11 00:00,Commercial B,Migraine CGRP,Denied,4,0
+PA-00359,2026-01-11 00:00,Medicaid,IVIG,Approved,5,438.32
+PA-00360,2026-01-10 00:00,Commercial B,GLP-1 therapy,Approved,3,7614.19
+PA-00361,2026-03-21 00:00,Medicaid,Migraine CGRP,Approved,4,4553.35
+PA-00362,2026-06-30 00:00,Commercial A,MS biologic,Approved,6,2772.02
+PA-00363,2026-06-14 00:00,Medicare,IVIG,Approved,2,4586.57
+PA-00364,2026-02-06 00:00,Commercial B,GLP-1 therapy,Approved,1,8530.98
+PA-00365,2026-02-27 00:00,Commercial A,IVIG,Appealed,7,6250.02
+PA-00366,2026-04-13 00:00,Commercial A,GLP-1 therapy,Approved,4,5432.69
+PA-00367,2026-02-16 00:00,Medicaid,MS biologic,Approved,7,5154.04
+PA-00368,2026-02-26 00:00,Commercial B,MS biologic,Approved,5,1157.89
+PA-00369,2026-02-26 00:00,Medicare,IVIG,Appealed,0,2322.26
+PA-00370,2026-03-29 00:00,Medicaid,IVIG,Approved,6,1182.8
+PA-00371,2026-02-15 00:00,Commercial A,Oncology infusion,Denied,3,0
+PA-00372,2026-03-06 00:00,Self-Pay,GLP-1 therapy,Approved,5,1668.36
+PA-00373,2026-03-03 00:00,Commercial A,IVIG,Approved,7,8267.93
+PA-00374,2026-04-13 00:00,Medicaid,GLP-1 therapy,Approved,4,546.53
+PA-00375,2026-01-23 00:00,Commercial A,MS biologic,Approved,4,7775.04
+PA-00376,2026-01-14 00:00,Medicare,Migraine CGRP,Approved,5,6277.57
+PA-00377,2026-03-18 00:00,Commercial B,MS biologic,Approved,6,984.66
+PA-00378,2026-06-08 00:00,Commercial A,Oncology infusion,Pending,8,0
+PA-00379,2026-02-03 00:00,Medicaid,MS biologic,Approved,5,7005.04
+PA-00380,2026-01-20 00:00,Medicaid,Specialty biologic,Pending,17,0
+PA-00381,2026-01-06 00:00,Medicaid,MS biologic,Denied,0,0
+PA-00382,2026-03-21 00:00,Medicare,Migraine CGRP,Approved,4,6320.46
+PA-00383,2026-03-22 00:00,Commercial B,MS biologic,Appealed,3,8078.99
+PA-00384,2026-04-11 00:00,Medicaid,Hepatitis C antiviral,Approved,1,8831.76
+PA-00385,2026-04-15 00:00,Medicare,IVIG,Pending,19,0
+PA-00386,2026-01-31 00:00,Medicaid,Hepatitis C antiviral,Pending,8,0
+PA-00387,2026-06-21 00:00,Commercial B,MS biologic,Approved,3,1443.38
+PA-00388,2026-01-01 00:00,Commercial B,Fertility medication,Appealed,3,776.19
+PA-00389,2026-06-05 00:00,Self-Pay,Hepatitis C antiviral,Pending,19,0
+PA-00390,2026-06-02 00:00,Commercial B,Fertility medication,Pending,15,0
+PA-00391,2026-02-18 00:00,Commercial B,IVIG,Approved,5,8419.46
+PA-00392,2026-01-11 00:00,Medicare,GLP-1 therapy,Approved,6,3933.1
+PA-00393,2026-01-25 00:00,Medicaid,GLP-1 therapy,Approved,2,4524.65
+PA-00394,2026-05-12 00:00,Self-Pay,Specialty biologic,Approved,7,8093.73
+PA-00395,2026-06-18 00:00,Commercial B,Specialty biologic,Appealed,4,5127.3
+PA-00396,2026-01-30 00:00,Self-Pay,Hepatitis C antiviral,Approved,2,4888.75
+PA-00397,2026-06-25 00:00,Commercial B,MS biologic,Appealed,3,697.99
+PA-00398,2026-03-31 00:00,Self-Pay,GLP-1 therapy,Approved,7,4965.83
+PA-00399,2026-02-11 00:00,Commercial B,Hepatitis C antiviral,Approved,3,598.19
+PA-00400,2026-05-03 00:00,Commercial B,Oncology infusion,Approved,6,5119.59
+PA-00401,2026-06-22 00:00,Commercial B,Migraine CGRP,Approved,4,1980.45
+PA-00402,2026-02-23 00:00,Commercial B,MS biologic,Approved,2,6602.54
+PA-00403,2026-01-08 00:00,Medicare,IVIG,Denied,4,0
+PA-00404,2026-06-04 00:00,Self-Pay,Fertility medication,Denied,0,0
+PA-00405,2026-04-06 00:00,Commercial A,Specialty biologic,Approved,0,2771.28
+PA-00406,2026-05-21 00:00,Commercial B,IVIG,Approved,5,2591.89
+PA-00407,2026-01-10 00:00,Commercial B,Hepatitis C antiviral,Approved,4,6591.99
+PA-00408,2026-04-26 00:00,Medicare,MS biologic,Pending,16,0
+PA-00409,2026-05-06 00:00,Medicare,Specialty biologic,Approved,3,6118.87
+PA-00410,2026-04-04 00:00,Medicaid,Hepatitis C antiviral,Appealed,4,2465.81
+PA-00411,2026-01-23 00:00,Commercial B,GLP-1 therapy,Approved,4,581.64
+PA-00412,2026-03-31 00:00,Commercial B,MS biologic,Approved,3,7181.76
+PA-00413,2026-03-03 00:00,Commercial B,Fertility medication,Approved,4,1164.97
+PA-00414,2026-05-07 00:00,Medicare,Fertility medication,Approved,7,1699.73
+PA-00415,2026-04-17 00:00,Commercial A,Specialty biologic,Approved,2,7713.39
+PA-00416,2026-02-06 00:00,Medicare,Migraine CGRP,Approved,4,3562.05
+PA-00417,2026-03-16 00:00,Commercial A,MS biologic,Approved,5,5431.73
+PA-00418,2026-01-09 00:00,Self-Pay,GLP-1 therapy,Approved,4,5089.88
+PA-00419,2026-02-23 00:00,Commercial B,Fertility medication,Denied,4,0
+PA-00420,2026-02-04 00:00,Commercial B,Migraine CGRP,Approved,6,2166.63
+PA-00421,2026-02-21 00:00,Medicaid,Migraine CGRP,Approved,4,560.21
+PA-00422,2026-01-21 00:00,Medicaid,Migraine CGRP,Approved,3,5651.27
+PA-00423,2026-06-08 00:00,Medicare,IVIG,Approved,5,4107.84
+PA-00424,2026-05-26 00:00,Commercial A,Hepatitis C antiviral,Appealed,3,3895.82
+PA-00425,2026-04-10 00:00,Self-Pay,Oncology infusion,Approved,3,4840.26
+PA-00426,2026-04-07 00:00,Medicaid,Oncology infusion,Approved,2,4235.37
+PA-00427,2026-03-25 00:00,Medicare,Hepatitis C antiviral,Approved,4,2252.76
+PA-00428,2026-03-15 00:00,Commercial A,GLP-1 therapy,Approved,4,4372.45
+PA-00429,2026-01-27 00:00,Commercial A,Oncology infusion,Approved,2,678.28
+PA-00430,2026-03-09 00:00,Self-Pay,Specialty biologic,Pending,11,0
+PA-00431,2026-05-10 00:00,Commercial A,GLP-1 therapy,Approved,5,3802.16
+PA-00432,2026-01-12 00:00,Medicaid,Specialty biologic,Approved,5,2857.04
+PA-00433,2026-03-12 00:00,Self-Pay,Fertility medication,Approved,5,5144.8
+PA-00434,2026-02-19 00:00,Medicare,Hepatitis C antiviral,Approved,1,7513.41
+PA-00435,2026-03-14 00:00,Commercial A,Migraine CGRP,Approved,4,1559.3
+PA-00436,2026-03-08 00:00,Commercial A,Oncology infusion,Approved,4,913.32
+PA-00437,2026-04-29 00:00,Commercial B,IVIG,Approved,2,3492.82
+PA-00438,2026-02-27 00:00,Medicare,Specialty biologic,Appealed,5,6207.65
+PA-00439,2026-06-11 00:00,Commercial A,Specialty biologic,Denied,4,0
+PA-00440,2026-06-04 00:00,Self-Pay,IVIG,Approved,3,4251.54
+PA-00441,2026-01-24 00:00,Medicare,Specialty biologic,Pending,10,0
+PA-00442,2026-03-22 00:00,Self-Pay,Hepatitis C antiviral,Approved,4,2942.83
+PA-00443,2026-05-05 00:00,Self-Pay,Hepatitis C antiviral,Approved,4,8728.75
+PA-00444,2026-02-26 00:00,Medicare,Migraine CGRP,Approved,2,2022.64
+PA-00445,2026-01-18 00:00,Medicare,Specialty biologic,Appealed,6,1201.05
+PA-00446,2026-01-03 00:00,Medicare,MS biologic,Denied,3,0
+PA-00447,2026-03-01 00:00,Commercial A,Oncology infusion,Denied,1,0
+PA-00448,2026-01-01 00:00,Commercial A,Migraine CGRP,Approved,4,4670.25
+PA-00449,2026-04-17 00:00,Self-Pay,GLP-1 therapy,Denied,4,0
+PA-00450,2026-04-09 00:00,Medicare,Fertility medication,Approved,0,7412.5
+PA-00451,2026-04-28 00:00,Medicare,IVIG,Approved,6,3377.08
+PA-00452,2026-04-10 00:00,Commercial A,Migraine CGRP,Approved,6,8533.38
+PA-00453,2026-02-09 00:00,Commercial A,Fertility medication,Denied,2,0
+PA-00454,2026-01-14 00:00,Commercial A,Fertility medication,Approved,4,2168.71
+PA-00455,2026-04-26 00:00,Commercial A,Migraine CGRP,Approved,0,4869.79
+PA-00456,2026-01-01 00:00,Medicaid,IVIG,Approved,1,6459.76
+PA-00457,2026-04-11 00:00,Medicare,Migraine CGRP,Approved,0,916.03
+PA-00458,2026-04-09 00:00,Medicaid,GLP-1 therapy,Approved,0,6903.97
+PA-00459,2026-04-26 00:00,Medicaid,MS biologic,Appealed,3,3324.84
+PA-00460,2026-04-12 00:00,Medicare,IVIG,Denied,1,0
+PA-00461,2026-01-10 00:00,Medicare,Specialty biologic,Appealed,1,2869.31
+PA-00462,2026-01-25 00:00,Commercial A,Oncology infusion,Approved,2,625.83
+PA-00463,2026-03-15 00:00,Medicare,GLP-1 therapy,Approved,3,4335.75
+PA-00464,2026-03-18 00:00,Self-Pay,Hepatitis C antiviral,Pending,14,0
+PA-00465,2026-05-11 00:00,Self-Pay,Migraine CGRP,Approved,6,405.42
+PA-00466,2026-06-16 00:00,Commercial B,IVIG,Pending,6,0
+PA-00467,2026-01-14 00:00,Commercial B,Fertility medication,Approved,6,8615.07
+PA-00468,2026-02-26 00:00,Commercial A,Fertility medication,Approved,5,2996.5
+PA-00469,2026-02-20 00:00,Medicare,IVIG,Approved,7,942.79
+PA-00470,2026-01-28 00:00,Medicare,Hepatitis C antiviral,Appealed,6,2718.88
+PA-00471,2026-01-07 00:00,Medicare,Oncology infusion,Approved,2,7348.34
+PA-00472,2026-03-27 00:00,Commercial B,Hepatitis C antiviral,Approved,8,2321.55
+PA-00473,2026-06-20 00:00,Self-Pay,Migraine CGRP,Denied,8,0
+PA-00474,2026-04-06 00:00,Medicaid,Oncology infusion,Approved,3,1247.41
+PA-00475,2026-06-24 00:00,Medicaid,GLP-1 therapy,Denied,1,0
+PA-00476,2026-01-15 00:00,Self-Pay,Migraine CGRP,Denied,7,0
+PA-00477,2026-05-30 00:00,Commercial B,Oncology infusion,Denied,5,0
+PA-00478,2026-04-09 00:00,Self-Pay,Specialty biologic,Approved,3,7533.8
+PA-00479,2026-03-02 00:00,Commercial B,Specialty biologic,Approved,2,4019.88
+PA-00480,2026-02-09 00:00,Self-Pay,Migraine CGRP,Approved,3,6588.14
+PA-00481,2026-02-20 00:00,Self-Pay,MS biologic,Approved,2,7569.66
+PA-00482,2026-02-09 00:00,Commercial B,Fertility medication,Approved,6,6074.9
+PA-00483,2026-03-08 00:00,Medicaid,Specialty biologic,Approved,4,6956.42
+PA-00484,2026-06-05 00:00,Commercial B,Hepatitis C antiviral,Appealed,4,4044.66
+PA-00485,2026-04-04 00:00,Self-Pay,MS biologic,Denied,2,0
+PA-00486,2026-03-23 00:00,Self-Pay,Fertility medication,Approved,4,7963.28
+PA-00487,2026-02-01 00:00,Medicaid,Hepatitis C antiviral,Approved,1,5148.44
+PA-00488,2026-02-18 00:00,Commercial A,MS biologic,Approved,6,3785.6
+PA-00489,2026-06-01 00:00,Medicare,Fertility medication,Approved,2,5919.23
+PA-00490,2026-04-03 00:00,Medicare,Fertility medication,Pending,13,0
+PA-00491,2026-06-03 00:00,Commercial A,IVIG,Denied,9,0
+PA-00492,2026-05-02 00:00,Self-Pay,Specialty biologic,Appealed,1,8694.45
+PA-00493,2026-04-03 00:00,Medicaid,MS biologic,Approved,5,7714.53
+PA-00494,2026-01-15 00:00,Medicare,MS biologic,Denied,6,0
+PA-00495,2026-01-02 00:00,Medicare,GLP-1 therapy,Denied,9,0
+PA-00496,2026-01-29 00:00,Medicare,GLP-1 therapy,Pending,19,0
+PA-00497,2026-01-19 00:00,Medicare,Hepatitis C antiviral,Pending,20,0
+PA-00498,2026-02-19 00:00,Commercial A,Migraine CGRP,Appealed,3,1012.54
+PA-00499,2026-01-23 00:00,Medicare,IVIG,Approved,1,6736.84
+PA-00500,2026-05-12 00:00,Medicaid,Oncology infusion,Approved,2,7540.21
+PA-00501,2026-06-09 00:00,Self-Pay,GLP-1 therapy,Pending,21,0
+PA-00502,2026-02-02 00:00,Medicaid,IVIG,Approved,9,2594.16
+PA-00503,2026-03-09 00:00,Commercial B,Specialty biologic,Denied,6,0
+PA-00504,2026-06-10 00:00,Commercial B,IVIG,Pending,17,0
+PA-00505,2026-03-23 00:00,Medicare,Hepatitis C antiviral,Approved,3,1400.07
+PA-00506,2026-01-19 00:00,Medicaid,Oncology infusion,Approved,4,6626.94
+PA-00507,2026-04-12 00:00,Medicare,Migraine CGRP,Approved,4,849.24
+PA-00508,2026-06-11 00:00,Medicare,IVIG,Approved,1,6305.42
+PA-00509,2026-04-22 00:00,Commercial B,IVIG,Approved,5,3056.72
+PA-00510,2026-06-10 00:00,Commercial B,Specialty biologic,Pending,19,0
+PA-00511,2026-03-12 00:00,Medicaid,GLP-1 therapy,Approved,4,6503.25
+PA-00512,2026-02-28 00:00,Commercial A,Oncology infusion,Approved,1,8127.38
+PA-00513,2026-02-08 00:00,Commercial B,Hepatitis C antiviral,Appealed,5,2391.48
+PA-00514,2026-05-30 00:00,Self-Pay,Migraine CGRP,Pending,16,0
+PA-00515,2026-02-12 00:00,Commercial A,Oncology infusion,Approved,7,5649.64
+PA-00516,2026-03-07 00:00,Commercial A,Migraine CGRP,Denied,3,0
+PA-00517,2026-06-11 00:00,Self-Pay,Hepatitis C antiviral,Approved,9,1282.8
+PA-00518,2026-01-30 00:00,Commercial A,Specialty biologic,Denied,4,0
+PA-00519,2026-03-07 00:00,Self-Pay,GLP-1 therapy,Denied,4,0
+PA-00520,2026-01-07 00:00,Self-Pay,MS biologic,Approved,5,6411.58
+PA-00521,2026-06-02 00:00,Commercial B,GLP-1 therapy,Denied,4,0
+PA-00522,2026-02-12 00:00,Self-Pay,Fertility medication,Approved,3,3400.08
+PA-00523,2026-01-26 00:00,Medicare,Oncology infusion,Denied,3,0
+PA-00524,2026-03-10 00:00,Medicaid,Hepatitis C antiviral,Approved,4,6602.96
+PA-00525,2026-04-12 00:00,Medicare,Hepatitis C antiviral,Approved,4,1955.28
+PA-00526,2026-05-11 00:00,Medicare,Migraine CGRP,Approved,6,3298.89
+PA-00527,2026-06-08 00:00,Commercial B,Fertility medication,Denied,4,0
+PA-00528,2026-04-27 00:00,Self-Pay,IVIG,Pending,21,0
+PA-00529,2026-05-29 00:00,Commercial A,MS biologic,Approved,7,2517.25
+PA-00530,2026-04-26 00:00,Medicare,Migraine CGRP,Approved,3,4471.51
+PA-00531,2026-02-25 00:00,Commercial B,Hepatitis C antiviral,Approved,3,8663.32
+PA-00532,2026-04-11 00:00,Commercial B,Fertility medication,Approved,1,1694.72
+PA-00533,2026-05-23 00:00,Medicaid,Migraine CGRP,Approved,4,673.76
+PA-00534,2026-04-12 00:00,Medicare,IVIG,Denied,4,0
+PA-00535,2026-05-11 00:00,Self-Pay,Oncology infusion,Appealed,0,5159.99
+PA-00536,2026-05-11 00:00,Medicaid,Fertility medication,Appealed,0,7595.48
+PA-00537,2026-02-13 00:00,Medicare,Specialty biologic,Pending,12,0
+PA-00538,2026-01-22 00:00,Commercial B,Oncology infusion,Approved,2,8301.0
+PA-00539,2026-05-20 00:00,Medicaid,MS biologic,Approved,4,4405.85
+PA-00540,2026-01-02 00:00,Self-Pay,Specialty biologic,Approved,5,5039.5
+PA-00541,2026-03-06 00:00,Commercial B,Specialty biologic,Denied,4,0
+PA-00542,2026-02-11 00:00,Self-Pay,Fertility medication,Denied,4,0
+PA-00543,2026-04-12 00:00,Medicare,MS biologic,Approved,2,6662.91
+PA-00544,2026-03-25 00:00,Commercial A,MS biologic,Approved,3,3461.86
+PA-00545,2026-01-21 00:00,Self-Pay,GLP-1 therapy,Approved,3,2941.1
+PA-00546,2026-05-18 00:00,Medicaid,Migraine CGRP,Approved,4,714.61
+PA-00547,2026-02-23 00:00,Medicare,Hepatitis C antiviral,Appealed,3,1471.37
+PA-00548,2026-03-03 00:00,Medicare,MS biologic,Approved,3,6436.89
+PA-00549,2026-02-18 00:00,Medicaid,Migraine CGRP,Pending,14,0
+PA-00550,2026-02-20 00:00,Commercial A,Fertility medication,Pending,9,0
+PA-00551,2026-04-22 00:00,Self-Pay,Oncology infusion,Approved,2,5573.46
+PA-00552,2026-04-17 00:00,Medicaid,Hepatitis C antiviral,Approved,5,5626.28
+PA-00553,2026-05-23 00:00,Commercial A,Fertility medication,Approved,1,2095.17
+PA-00554,2026-01-01 00:00,Commercial A,Migraine CGRP,Approved,3,3688.95
+PA-00555,2026-04-22 00:00,Commercial A,Hepatitis C antiviral,Approved,8,337.27
+PA-00556,2026-06-25 00:00,Commercial A,Migraine CGRP,Denied,3,0
+PA-00557,2026-03-26 00:00,Commercial B,Specialty biologic,Approved,4,1541.5
+PA-00558,2026-04-16 00:00,Self-Pay,Oncology infusion,Approved,4,3420.38
+PA-00559,2026-03-23 00:00,Self-Pay,GLP-1 therapy,Appealed,4,3849.13
+PA-00560,2026-05-27 00:00,Medicare,Hepatitis C antiviral,Denied,4,0
+PA-00561,2026-02-11 00:00,Commercial A,MS biologic,Approved,2,2427.52
+PA-00562,2026-02-11 00:00,Self-Pay,Oncology infusion,Appealed,2,1980.03
+PA-00563,2026-04-27 00:00,Commercial A,Fertility medication,Approved,7,8314.73
+PA-00564,2026-01-15 00:00,Commercial B,Migraine CGRP,Appealed,4,7872.18
+PA-00565,2026-02-20 00:00,Medicare,MS biologic,Denied,5,0
+PA-00566,2026-01-23 00:00,Commercial A,Specialty biologic,Denied,4,0
+PA-00567,2026-06-25 00:00,Medicaid,Hepatitis C antiviral,Approved,2,6425.88
+PA-00568,2026-05-22 00:00,Commercial B,Oncology infusion,Approved,5,4924.26
+PA-00569,2026-01-05 00:00,Medicare,IVIG,Approved,5,8685.42
+PA-00570,2026-05-17 00:00,Self-Pay,GLP-1 therapy,Approved,5,7253.67
+PA-00571,2026-03-21 00:00,Medicaid,Oncology infusion,Approved,2,8068.0
+PA-00572,2026-04-05 00:00,Commercial A,MS biologic,Denied,1,0
+PA-00573,2026-01-12 00:00,Commercial A,MS biologic,Approved,7,4153.71
+PA-00574,2026-04-24 00:00,Self-Pay,Fertility medication,Approved,4,1938.79
+PA-00575,2026-04-25 00:00,Medicare,IVIG,Denied,3,0
+PA-00576,2026-03-26 00:00,Commercial B,Fertility medication,Appealed,2,6973.37
+PA-00577,2026-06-24 00:00,Medicare,Specialty biologic,Appealed,4,304.89
+PA-00578,2026-05-26 00:00,Self-Pay,MS biologic,Approved,4,6881.66
+PA-00579,2026-03-31 00:00,Medicaid,Oncology infusion,Approved,3,2084.42
+PA-00580,2026-04-08 00:00,Medicare,Hepatitis C antiviral,Approved,2,4063.82
+PA-00581,2026-01-19 00:00,Self-Pay,Oncology infusion,Denied,3,0
+PA-00582,2026-05-13 00:00,Medicare,IVIG,Denied,5,0
+PA-00583,2026-01-28 00:00,Medicaid,Specialty biologic,Denied,3,0
+PA-00584,2026-05-27 00:00,Self-Pay,Fertility medication,Pending,10,0
+PA-00585,2026-04-30 00:00,Commercial A,Specialty biologic,Denied,8,0
+PA-00586,2026-02-26 00:00,Self-Pay,IVIG,Denied,2,0
+PA-00587,2026-05-19 00:00,Medicaid,MS biologic,Approved,3,5179.15
+PA-00588,2026-06-07 00:00,Self-Pay,Hepatitis C antiviral,Denied,0,0
+PA-00589,2026-05-20 00:00,Medicaid,Migraine CGRP,Appealed,0,745.0
+PA-00590,2026-05-26 00:00,Medicare,GLP-1 therapy,Approved,4,4619.04
+PA-00591,2026-03-14 00:00,Commercial A,Migraine CGRP,Approved,2,2498.06
+PA-00592,2026-03-21 00:00,Medicare,Migraine CGRP,Pending,7,0
+PA-00593,2026-04-26 00:00,Self-Pay,Hepatitis C antiviral,Appealed,1,1782.1
+PA-00594,2026-04-20 00:00,Commercial B,Oncology infusion,Denied,5,0
+PA-00595,2026-03-01 00:00,Commercial B,Migraine CGRP,Pending,9,0
+PA-00596,2026-06-26 00:00,Medicare,Hepatitis C antiviral,Appealed,3,6682.55
+PA-00597,2026-03-05 00:00,Self-Pay,MS biologic,Denied,0,0
+PA-00598,2026-05-13 00:00,Self-Pay,MS biologic,Denied,3,0
+PA-00599,2026-04-29 00:00,Commercial A,Hepatitis C antiviral,Approved,3,2239.82
+PA-00600,2026-06-22 00:00,Commercial A,Fertility medication,Approved,6,8880.13
+PA-00601,2026-05-22 00:00,Commercial B,Specialty biologic,Approved,2,8921.55
+PA-00602,2026-06-23 00:00,Commercial B,GLP-1 therapy,Pending,12,0
+PA-00603,2026-01-15 00:00,Medicare,Fertility medication,Pending,20,0
+PA-00604,2026-04-30 00:00,Medicare,Hepatitis C antiviral,Pending,12,0
+PA-00605,2026-03-22 00:00,Medicare,GLP-1 therapy,Approved,7,4951.03
+PA-00606,2026-04-10 00:00,Medicaid,Oncology infusion,Approved,3,2757.93
+PA-00607,2026-03-02 00:00,Commercial B,IVIG,Approved,1,5554.93
+PA-00608,2026-02-03 00:00,Medicare,MS biologic,Denied,4,0
+PA-00609,2026-02-05 00:00,Commercial A,Hepatitis C antiviral,Approved,7,4289.83
+PA-00610,2026-03-22 00:00,Medicare,MS biologic,Approved,2,6302.76
+PA-00611,2026-02-18 00:00,Medicaid,Oncology infusion,Approved,4,4494.02
+PA-00612,2026-01-20 00:00,Commercial B,Migraine CGRP,Denied,3,0
+PA-00613,2026-03-04 00:00,Commercial A,MS biologic,Approved,4,6345.29
+PA-00614,2026-01-11 00:00,Medicare,Oncology infusion,Approved,5,1992.69
+PA-00615,2026-03-21 00:00,Commercial A,Migraine CGRP,Approved,4,7254.09
+PA-00616,2026-04-11 00:00,Medicaid,Specialty biologic,Approved,0,5494.47
+PA-00617,2026-06-12 00:00,Commercial B,Oncology infusion,Denied,2,0
+PA-00618,2026-01-04 00:00,Commercial A,Hepatitis C antiviral,Approved,3,1638.25
+PA-00619,2026-02-08 00:00,Medicare,IVIG,Approved,3,2875.54
+PA-00620,2026-04-18 00:00,Medicaid,MS biologic,Denied,5,0
+PA-00621,2026-03-24 00:00,Self-Pay,MS biologic,Approved,3,1396.8
+PA-00622,2026-04-15 00:00,Commercial A,IVIG,Approved,1,4988.72
+PA-00623,2026-06-22 00:00,Medicaid,Migraine CGRP,Approved,4,1491.02
+PA-00624,2026-04-15 00:00,Self-Pay,IVIG,Denied,6,0
+PA-00625,2026-04-16 00:00,Medicare,GLP-1 therapy,Approved,5,6340.24
+PA-00626,2026-03-04 00:00,Self-Pay,Hepatitis C antiviral,Approved,2,1536.42
+PA-00627,2026-04-19 00:00,Medicaid,GLP-1 therapy,Appealed,0,1898.73
+PA-00628,2026-01-16 00:00,Commercial A,Fertility medication,Appealed,3,4283.83
+PA-00629,2026-06-05 00:00,Commercial B,GLP-1 therapy,Denied,2,0
+PA-00630,2026-04-29 00:00,Medicare,GLP-1 therapy,Appealed,3,785.61
+PA-00631,2026-05-30 00:00,Commercial A,IVIG,Approved,2,588.53
+PA-00632,2026-04-22 00:00,Medicaid,Fertility medication,Appealed,1,5095.73
+PA-00633,2026-02-19 00:00,Medicaid,IVIG,Approved,6,5826.18
+PA-00634,2026-01-19 00:00,Self-Pay,Oncology infusion,Appealed,4,1278.53
+PA-00635,2026-03-28 00:00,Medicare,IVIG,Approved,1,1688.65
+PA-00636,2026-04-17 00:00,Medicare,GLP-1 therapy,Appealed,4,2328.61
+PA-00637,2026-04-29 00:00,Commercial A,Fertility medication,Approved,4,7080.81
+PA-00638,2026-03-22 00:00,Self-Pay,Migraine CGRP,Approved,1,8035.5
+PA-00639,2026-02-12 00:00,Medicare,Oncology infusion,Approved,4,1611.32
+PA-00640,2026-06-27 00:00,Medicare,GLP-1 therapy,Appealed,6,5114.63
+PA-00641,2026-03-16 00:00,Commercial B,Migraine CGRP,Denied,8,0
+PA-00642,2026-04-04 00:00,Medicaid,MS biologic,Denied,3,0
+PA-00643,2026-05-26 00:00,Medicare,Hepatitis C antiviral,Denied,6,0
+PA-00644,2026-03-09 00:00,Medicaid,Fertility medication,Denied,3,0
+PA-00645,2026-03-29 00:00,Commercial A,Oncology infusion,Approved,7,4241.52
+PA-00646,2026-04-30 00:00,Commercial B,Migraine CGRP,Approved,5,4141.21
+PA-00647,2026-06-28 00:00,Commercial B,Migraine CGRP,Approved,3,4372.49
+PA-00648,2026-01-14 00:00,Medicare,Hepatitis C antiviral,Approved,2,4247.71
+PA-00649,2026-02-09 00:00,Medicaid,Migraine CGRP,Approved,2,833.28
+PA-00650,2026-06-03 00:00,Self-Pay,Oncology infusion,Denied,5,0
+PA-00651,2026-01-19 00:00,Commercial A,Hepatitis C antiviral,Approved,5,533.56
+PA-00652,2026-03-29 00:00,Commercial B,IVIG,Approved,1,3211.79
+PA-00653,2026-04-12 00:00,Medicaid,GLP-1 therapy,Approved,3,7602.17
+PA-00654,2026-06-14 00:00,Commercial B,Hepatitis C antiviral,Approved,0,7591.59
+PA-00655,2026-06-12 00:00,Medicaid,Specialty biologic,Approved,4,4856.16
+PA-00656,2026-02-01 00:00,Commercial A,Oncology infusion,Approved,3,3545.8
+PA-00657,2026-06-25 00:00,Medicare,Migraine CGRP,Pending,6,0
+PA-00658,2026-01-22 00:00,Self-Pay,Specialty biologic,Approved,2,2576.71
+PA-00659,2026-01-06 00:00,Medicare,Fertility medication,Appealed,4,4775.6
+PA-00660,2026-06-25 00:00,Commercial B,Hepatitis C antiviral,Pending,9,0
+PA-00661,2026-04-04 00:00,Medicare,Oncology infusion,Approved,4,5945.12
+PA-00662,2026-01-15 00:00,Commercial A,Fertility medication,Approved,4,5067.35
+PA-00663,2026-04-06 00:00,Self-Pay,Fertility medication,Approved,6,6384.67
+PA-00664,2026-06-15 00:00,Commercial B,Migraine CGRP,Approved,9,1096.84
+PA-00665,2026-05-27 00:00,Medicare,GLP-1 therapy,Denied,5,0
+PA-00666,2026-01-14 00:00,Commercial B,Specialty biologic,Approved,1,402.84
+PA-00667,2026-01-13 00:00,Commercial A,Oncology infusion,Denied,6,0
+PA-00668,2026-05-25 00:00,Medicaid,Fertility medication,Denied,5,0
+PA-00669,2026-06-24 00:00,Medicare,Oncology infusion,Approved,3,8910.89
+PA-00670,2026-02-14 00:00,Commercial A,Fertility medication,Appealed,4,5941.27
+PA-00671,2026-06-22 00:00,Medicaid,MS biologic,Pending,19,0
+PA-00672,2026-03-24 00:00,Commercial A,Fertility medication,Approved,1,6912.73
+PA-00673,2026-03-30 00:00,Commercial B,Oncology infusion,Denied,2,0
+PA-00674,2026-03-08 00:00,Medicare,Oncology infusion,Approved,0,3818.83
+PA-00675,2026-01-29 00:00,Medicaid,MS biologic,Approved,7,6215.43
+PA-00676,2026-04-04 00:00,Medicaid,Specialty biologic,Approved,4,8455.66
+PA-00677,2026-06-06 00:00,Commercial B,IVIG,Denied,4,0
+PA-00678,2026-05-27 00:00,Commercial B,Fertility medication,Approved,2,6768.82
+PA-00679,2026-04-07 00:00,Self-Pay,GLP-1 therapy,Approved,3,7222.72
+PA-00680,2026-03-19 00:00,Commercial A,GLP-1 therapy,Approved,4,5653.78
+PA-00681,2026-04-11 00:00,Commercial A,Specialty biologic,Approved,2,2139.52
+PA-00682,2026-03-28 00:00,Medicaid,Hepatitis C antiviral,Approved,2,692.66
+PA-00683,2026-04-02 00:00,Commercial A,Fertility medication,Approved,6,5153.22
+PA-00684,2026-02-23 00:00,Commercial A,Oncology infusion,Approved,4,2418.33
+PA-00685,2026-02-07 00:00,Self-Pay,Fertility medication,Approved,4,8676.34
+PA-00686,2026-06-29 00:00,Medicare,MS biologic,Appealed,3,2477.48
+PA-00687,2026-06-23 00:00,Self-Pay,Hepatitis C antiviral,Approved,2,5489.15
+PA-00688,2026-02-12 00:00,Medicaid,Specialty biologic,Approved,1,5318.81
+PA-00689,2026-01-31 00:00,Medicare,IVIG,Pending,20,0
+PA-00690,2026-06-27 00:00,Commercial A,IVIG,Denied,4,0
+PA-00691,2026-01-11 00:00,Medicaid,Oncology infusion,Denied,3,0
+PA-00692,2026-04-18 00:00,Medicaid,Migraine CGRP,Approved,6,8412.12
+PA-00693,2026-01-03 00:00,Commercial A,MS biologic,Approved,3,7488.24
+PA-00694,2026-05-28 00:00,Self-Pay,Fertility medication,Pending,10,0
+PA-00695,2026-01-17 00:00,Commercial B,Migraine CGRP,Appealed,3,2736.36
+PA-00696,2026-03-20 00:00,Medicare,Hepatitis C antiviral,Approved,7,5379.71
+PA-00697,2026-04-27 00:00,Commercial B,Specialty biologic,Denied,6,0
+PA-00698,2026-02-16 00:00,Commercial A,Specialty biologic,Approved,2,4284.7
+PA-00699,2026-05-08 00:00,Self-Pay,MS biologic,Approved,3,5707.0
+PA-00700,2026-02-16 00:00,Commercial B,Hepatitis C antiviral,Pending,19,0
