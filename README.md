@@ -1,7 +1,7 @@
 # Healthcare Analytics Portfolio
 
 Four end-to-end healthcare analytics case studies by **Cierra Reynolds, CPhT,
-CRCR, CSPR**.
+CRCR, CSBI**.
 
 This portfolio demonstrates how I translate healthcare operations and
 reimbursement questions into validated KPIs, auditable analysis, executive
