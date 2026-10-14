@@ -1,0 +1,120 @@
+script_id,workflow,priority,round1_status,final_status,tester_role,last_run
+TS-001,Order verification,Medium,Pass,Pass,Pharmacy Technician,2026-09-21
+TS-002,Order verification,Medium,Pass,Pass,Pharmacy Technician,2026-09-05
+TS-003,Order verification,Critical,Pass,Pass,Pharmacy Technician,2026-09-23
+TS-004,Order verification,Medium,Pass,Pass,Pharmacy Technician,2026-09-01
+TS-005,Order verification,Medium,Pass,Pass,Pharmacy Technician,2026-09-18
+TS-006,Order verification,High,Pass,Pass,Pharmacy Technician,2026-09-16
+TS-007,Order verification,High,Blocked,Fail,Pharmacist,2026-09-14
+TS-008,Order verification,Critical,Pass,Pass,Super User,2026-09-20
+TS-009,Order verification,Medium,Fail,Pass,Pharmacy Technician,2026-09-19
+TS-010,Order verification,Medium,Fail,Pass,Super User,2026-09-25
+TS-011,Order verification,Medium,Pass,Pass,Pharmacy Technician,2026-09-05
+TS-012,Order verification,Medium,Fail,Fail,Pharmacist,2026-09-19
+TS-013,Order verification,Critical,Pass,Pass,Pharmacy Technician,2026-09-11
+TS-014,Order verification,Medium,Pass,Pass,Pharmacy Technician,2026-09-20
+TS-015,Order verification,High,Pass,Pass,Pharmacist,2026-09-11
+TS-016,Order verification,Medium,Pass,Pass,Pharmacy Technician,2026-09-15
+TS-017,Order verification,Medium,Pass,Pass,Super User,2026-09-10
+TS-018,Dispense prep,High,Pass,Pass,Pharmacy Technician,2026-09-15
+TS-019,Dispense prep,High,Pass,Pass,Super User,2026-09-23
+TS-020,Dispense prep,Medium,Pass,Pass,Super User,2026-09-14
+TS-021,Dispense prep,High,Pass,Pass,Pharmacy Technician,2026-09-04
+TS-022,Dispense prep,Medium,Pass,Pass,Super User,2026-09-13
+TS-023,Dispense prep,Medium,Pass,Pass,Super User,2026-09-04
+TS-024,Dispense prep,High,Pass,Pass,Pharmacist,2026-09-24
+TS-025,Dispense prep,High,Pass,Pass,Pharmacy Technician,2026-09-20
+TS-026,Dispense prep,High,Pass,Pass,Pharmacy Technician,2026-09-23
+TS-027,Dispense prep,High,Pass,Pass,Super User,2026-09-10
+TS-028,Dispense prep,High,Pass,Pass,Pharmacist,2026-09-24
+TS-029,Dispense prep,High,Pass,Pass,Pharmacy Technician,2026-09-25
+TS-030,Dispense prep,Critical,Pass,Pass,Pharmacist,2026-09-25
+TS-031,Dispense prep,Medium,Pass,Pass,Pharmacist,2026-09-03
+TS-032,Dispense prep,High,Pass,Pass,Pharmacy Technician,2026-09-04
+TS-033,Dispense prep,Medium,Pass,Pass,Super User,2026-09-05
+TS-034,Dispense prep,Medium,Pass,Pass,Pharmacy Technician,2026-09-06
+TS-035,Dispense tracking,High,Pass,Pass,Pharmacy Technician,2026-09-18
+TS-036,Dispense tracking,Critical,Pass,Pass,Pharmacist,2026-09-03
+TS-037,Dispense tracking,High,Pass,Pass,Pharmacy Technician,2026-09-01
+TS-038,Dispense tracking,Medium,Pass,Pass,Pharmacy Technician,2026-09-21
+TS-039,Dispense tracking,Critical,Pass,Pass,Pharmacist,2026-09-13
+TS-040,Dispense tracking,Medium,Pass,Pass,Super User,2026-09-15
+TS-041,Dispense tracking,High,Pass,Pass,Super User,2026-09-25
+TS-042,Dispense tracking,Critical,Pass,Pass,Pharmacy Technician,2026-09-08
+TS-043,Dispense tracking,Medium,Pass,Pass,Pharmacy Technician,2026-09-01
+TS-044,Dispense tracking,Medium,Pass,Pass,Pharmacist,2026-09-01
+TS-045,Dispense tracking,High,Pass,Pass,Pharmacist,2026-09-24
+TS-046,Dispense tracking,Critical,Fail,Pass,Super User,2026-09-03
+TS-047,Dispense tracking,Medium,Pass,Pass,Super User,2026-09-09
+TS-048,Dispense tracking,Medium,Pass,Pass,Super User,2026-09-02
+TS-049,Dispense tracking,Medium,Pass,Pass,Pharmacy Technician,2026-09-15
+TS-050,Dispense tracking,High,Pass,Pass,Pharmacist,2026-09-18
+TS-051,Dispense tracking,Medium,Pass,Pass,Pharmacy Technician,2026-09-15
+TS-052,Automated cabinet interface,High,Pass,Pass,Pharmacist,2026-09-24
+TS-053,Automated cabinet interface,Medium,Pass,Pass,Super User,2026-09-22
+TS-054,Automated cabinet interface,Medium,Fail,Pass,Pharmacist,2026-09-24
+TS-055,Automated cabinet interface,Critical,Fail,Pass,Pharmacist,2026-09-03
+TS-056,Automated cabinet interface,High,Pass,Pass,Super User,2026-09-25
+TS-057,Automated cabinet interface,Medium,Pass,Pass,Pharmacy Technician,2026-09-01
+TS-058,Automated cabinet interface,High,Pass,Pass,Pharmacist,2026-09-25
+TS-059,Automated cabinet interface,Medium,Pass,Pass,Pharmacy Technician,2026-09-16
+TS-060,Automated cabinet interface,Medium,Pass,Pass,Super User,2026-09-23
+TS-061,Automated cabinet interface,Critical,Pass,Pass,Pharmacy Technician,2026-09-13
+TS-062,Automated cabinet interface,Critical,Pass,Pass,Super User,2026-09-23
+TS-063,Automated cabinet interface,High,Pass,Pass,Super User,2026-09-04
+TS-064,Automated cabinet interface,High,Pass,Pass,Pharmacy Technician,2026-09-05
+TS-065,Automated cabinet interface,Critical,Pass,Pass,Super User,2026-09-07
+TS-066,Automated cabinet interface,High,Pass,Pass,Pharmacy Technician,2026-09-04
+TS-067,Automated cabinet interface,Medium,Pass,Pass,Pharmacist,2026-09-25
+TS-068,Automated cabinet interface,Critical,Pass,Pass,Pharmacist,2026-09-17
+TS-069,Barcode scanning,Medium,Pass,Pass,Pharmacist,2026-09-09
+TS-070,Barcode scanning,Medium,Pass,Pass,Pharmacist,2026-09-10
+TS-071,Barcode scanning,High,Pass,Pass,Super User,2026-09-20
+TS-072,Barcode scanning,High,Pass,Pass,Super User,2026-09-19
+TS-073,Barcode scanning,Medium,Pass,Pass,Pharmacy Technician,2026-09-19
+TS-074,Barcode scanning,High,Pass,Pass,Pharmacy Technician,2026-09-13
+TS-075,Barcode scanning,Medium,Pass,Pass,Super User,2026-09-09
+TS-076,Barcode scanning,Medium,Pass,Pass,Pharmacist,2026-09-06
+TS-077,Barcode scanning,Critical,Pass,Pass,Pharmacy Technician,2026-09-05
+TS-078,Barcode scanning,High,Blocked,Pass,Pharmacist,2026-09-13
+TS-079,Barcode scanning,Critical,Pass,Pass,Pharmacist,2026-09-10
+TS-080,Barcode scanning,High,Pass,Pass,Super User,2026-09-03
+TS-081,Barcode scanning,Medium,Pass,Pass,Super User,2026-09-07
+TS-082,Barcode scanning,Critical,Pass,Pass,Pharmacist,2026-09-25
+TS-083,Barcode scanning,Critical,Pass,Pass,Super User,2026-09-10
+TS-084,Barcode scanning,Medium,Pass,Pass,Pharmacy Technician,2026-09-11
+TS-085,Barcode scanning,Medium,Pass,Pass,Super User,2026-09-18
+TS-086,Downtime & reconciliation,Critical,Fail,Not Run,Super User,2026-09-18
+TS-087,Downtime & reconciliation,Critical,Pass,Pass,Pharmacist,2026-09-12
+TS-088,Downtime & reconciliation,Medium,Fail,Pass,Pharmacy Technician,2026-09-01
+TS-089,Downtime & reconciliation,High,Pass,Pass,Pharmacist,2026-09-14
+TS-090,Downtime & reconciliation,Medium,Pass,Pass,Pharmacist,2026-09-08
+TS-091,Downtime & reconciliation,Critical,Pass,Pass,Super User,2026-09-08
+TS-092,Downtime & reconciliation,Medium,Fail,Fail,Super User,2026-09-01
+TS-093,Downtime & reconciliation,Critical,Pass,Pass,Super User,2026-09-15
+TS-094,Downtime & reconciliation,Critical,Pass,Pass,Pharmacy Technician,2026-09-04
+TS-095,Downtime & reconciliation,High,Pass,Pass,Pharmacist,2026-09-12
+TS-096,Downtime & reconciliation,Critical,Pass,Pass,Pharmacist,2026-09-14
+TS-097,Downtime & reconciliation,High,Fail,Pass,Pharmacy Technician,2026-09-06
+TS-098,Downtime & reconciliation,Critical,Pass,Pass,Pharmacy Technician,2026-09-14
+TS-099,Downtime & reconciliation,Medium,Pass,Pass,Super User,2026-09-02
+TS-100,Downtime & reconciliation,Medium,Fail,Fail,Super User,2026-09-12
+TS-101,Downtime & reconciliation,Medium,Pass,Pass,Pharmacist,2026-09-01
+TS-102,Downtime & reconciliation,Medium,Pass,Pass,Pharmacist,2026-09-22
+TS-103,Reporting & worklists,Medium,Pass,Pass,Pharmacy Technician,2026-09-18
+TS-104,Reporting & worklists,Critical,Pass,Pass,Pharmacy Technician,2026-09-01
+TS-105,Reporting & worklists,Critical,Pass,Pass,Pharmacy Technician,2026-09-20
+TS-106,Reporting & worklists,High,Pass,Pass,Pharmacy Technician,2026-09-08
+TS-107,Reporting & worklists,Critical,Pass,Pass,Pharmacy Technician,2026-09-08
+TS-108,Reporting & worklists,Critical,Pass,Pass,Pharmacy Technician,2026-09-23
+TS-109,Reporting & worklists,High,Pass,Pass,Super User,2026-09-02
+TS-110,Reporting & worklists,Medium,Blocked,Fail,Pharmacist,2026-09-15
+TS-111,Reporting & worklists,Medium,Pass,Pass,Super User,2026-09-15
+TS-112,Reporting & worklists,Medium,Pass,Pass,Super User,2026-09-01
+TS-113,Reporting & worklists,High,Pass,Pass,Pharmacy Technician,2026-09-10
+TS-114,Reporting & worklists,High,Fail,Pass,Pharmacist,2026-09-16
+TS-115,Reporting & worklists,High,Pass,Pass,Super User,2026-09-05
+TS-116,Reporting & worklists,Critical,Pass,Pass,Pharmacy Technician,2026-09-13
+TS-117,Reporting & worklists,Critical,Pass,Pass,Super User,2026-09-24
+TS-118,Reporting & worklists,High,Fail,Pass,Super User,2026-09-03
+TS-119,Reporting & worklists,Critical,Pass,Pass,Pharmacy Technician,2026-09-25

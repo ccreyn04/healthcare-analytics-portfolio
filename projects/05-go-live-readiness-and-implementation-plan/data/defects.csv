@@ -1,0 +1,14 @@
+defect_id,script_id,workflow,severity,status,days_open
+DEF-001,TS-009,Order verification,High,Resolved - retest passed,2
+DEF-002,TS-010,Order verification,Medium,Resolved - retest passed,9
+DEF-003,TS-012,Order verification,Medium,Open,6
+DEF-004,TS-046,Dispense tracking,Medium,Resolved - retest passed,4
+DEF-005,TS-054,Automated cabinet interface,High,Resolved - retest passed,8
+DEF-006,TS-055,Automated cabinet interface,High,Resolved - retest passed,2
+DEF-007,TS-086,Downtime & reconciliation,Critical,Fixed - pending retest,19
+DEF-008,TS-088,Downtime & reconciliation,Medium,Resolved - retest passed,3
+DEF-009,TS-092,Downtime & reconciliation,Medium,Open,12
+DEF-010,TS-097,Downtime & reconciliation,High,Resolved - retest passed,4
+DEF-011,TS-100,Downtime & reconciliation,Medium,Open,8
+DEF-012,TS-114,Reporting & worklists,Medium,Resolved - retest passed,2
+DEF-013,TS-118,Reporting & worklists,High,Resolved - retest passed,6

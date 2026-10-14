@@ -1,0 +1,9 @@
+risk_id,risk,likelihood,impact,owner_role,mitigation,status
+R-01,Cabinet interface needed fixes to pass (88.2% round-1 pass); fixes need a full regression retest,High,High,Interface analyst,Run full regression retest; keep manual refill backup for first 2 weeks,Open
+R-02,"Competency sign-off below target, lowest for super users (83.3%) and night shift (85.7%)",High,Medium,Pharmacy supervisor,Schedule make-up sessions and sign-offs before go-live,Open
+R-03,Downtime procedure not rehearsed end to end,Medium,High,Operations lead,Run one full downtime drill with reconciliation,Open
+R-04,Super users spread thin across shifts,Medium,Medium,Project coordinator,Assign one super user per shift for first 14 days,Mitigated
+R-05,Reports/worklists not matching floor needs,Low,Medium,Analyst,Validate worklist filters with each unit before go-live,Mitigated
+R-06,Barcode label stock shortage at cutover,Low,High,Inventory lead,Order 30 days of labels; confirm receipt,Mitigated
+R-07,Go-live overlaps with staff vacation week,Medium,Medium,Pharmacy manager,Freeze time-off for key roles,Mitigated
+R-08,Unclear escalation path for floor issues,Medium,High,Project coordinator,Publish one-page escalation contact card,Open

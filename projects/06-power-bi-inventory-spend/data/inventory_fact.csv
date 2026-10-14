@@ -1,0 +1,901 @@
+month,site,category,item,units_purchased,unit_cost,spend,units_expired,expired_value,stockout_events
+2025-10-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1863,2.1,3912.3,16,33.6,0
+2025-10-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,946,4.5,4257.0,10,45.0,0
+2025-10-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,756,6.8,5140.8,9,61.2,2
+2025-10-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1678,1.9,3188.2,18,34.2,0
+2025-10-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,587,3.2,1878.4,2,6.4,0
+2025-11-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1614,2.1,3389.4,21,44.1,1
+2025-11-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,972,4.5,4374.0,7,31.5,0
+2025-11-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,663,6.8,4508.4,11,74.8,0
+2025-11-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1525,1.9,2897.5,17,32.3,0
+2025-11-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,613,3.2,1961.6,5,16.0,0
+2025-12-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,2103,2.1,4416.3,22,46.2,0
+2025-12-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,1006,4.5,4527.0,8,36.0,0
+2025-12-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,793,6.8,5392.4,11,74.8,1
+2025-12-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1798,1.9,3416.2,19,36.1,0
+2025-12-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,840,3.2,2688.0,10,32.0,0
+2026-01-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,2190,2.1,4599.0,24,50.4,0
+2026-01-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,1134,4.5,5103.0,14,63.0,0
+2026-01-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,855,6.8,5814.0,2,13.6,0
+2026-01-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1665,1.9,3163.5,13,24.7,1
+2026-01-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,653,3.2,2089.6,5,16.0,0
+2026-02-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1999,2.1,4197.9,24,50.4,1
+2026-02-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,1010,4.5,4545.0,12,54.0,1
+2026-02-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,866,6.8,5888.8,11,74.8,0
+2026-02-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1841,1.9,3497.9,14,26.6,1
+2026-02-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,684,3.2,2188.8,8,25.6,0
+2026-03-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1724,2.1,3620.4,26,54.6,0
+2026-03-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,948,4.5,4266.0,13,58.5,0
+2026-03-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,718,6.8,4882.4,5,34.0,1
+2026-03-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1234,1.9,2344.6,11,20.9,0
+2026-03-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,644,3.2,2060.8,7,22.4,0
+2026-04-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1841,2.1,3866.1,20,42.0,0
+2026-04-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,901,4.5,4054.5,7,31.5,0
+2026-04-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,746,6.8,5072.8,7,47.6,0
+2026-04-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1252,1.9,2378.8,12,22.8,0
+2026-04-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,632,3.2,2022.4,4,12.8,0
+2026-05-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1638,2.1,3439.8,16,33.6,0
+2026-05-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,975,4.5,4387.5,10,45.0,0
+2026-05-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,564,6.8,3835.2,1,6.8,0
+2026-05-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1431,1.9,2718.9,16,30.4,0
+2026-05-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,549,3.2,1756.8,4,12.8,0
+2026-06-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1711,2.1,3593.1,24,50.4,0
+2026-06-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,894,4.5,4023.0,9,40.5,0
+2026-06-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,691,6.8,4698.8,5,34.0,0
+2026-06-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1519,1.9,2886.1,11,20.9,1
+2026-06-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,658,3.2,2105.6,7,22.4,0
+2026-07-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1702,2.1,3574.2,20,42.0,0
+2026-07-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,823,4.5,3703.5,3,13.5,0
+2026-07-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,713,6.8,4848.4,12,81.6,0
+2026-07-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1516,1.9,2880.4,16,30.4,0
+2026-07-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,490,3.2,1568.0,6,19.2,0
+2026-08-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,2000,2.1,4200.0,20,42.0,0
+2026-08-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,816,4.5,3672.0,8,36.0,0
+2026-08-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,738,6.8,5018.4,5,34.0,0
+2026-08-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1661,1.9,3155.9,9,17.1,0
+2026-08-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,538,3.2,1721.6,4,12.8,0
+2026-09-01,Central Hospital,Antibiotics,Ceftriaxone 1 g vial,1921,2.1,4034.1,20,42.0,0
+2026-09-01,Central Hospital,Antibiotics,Vancomycin 1 g vial,1022,4.5,4599.0,4,18.0,0
+2026-09-01,Central Hospital,Antibiotics,Piperacillin-tazobactam 3.375 g,617,6.8,4195.6,5,34.0,0
+2026-09-01,Central Hospital,Antibiotics,Cefazolin 1 g vial,1687,1.9,3205.3,22,41.8,1
+2026-09-01,Central Hospital,Antibiotics,Azithromycin 500 mg vial,571,3.2,1827.2,4,12.8,0
+2025-10-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1152,4.8,5529.6,13,62.4,1
+2025-10-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1597,1.4,2235.8,21,29.4,0
+2025-10-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4262,0.6,2557.2,37,22.2,0
+2025-10-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,2652,0.12,318.24,32,3.84,0
+2025-10-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,62,85.0,5270.0,1,85.0,0
+2025-11-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1248,4.8,5990.4,14,67.2,1
+2025-11-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1550,1.4,2170.0,6,8.4,0
+2025-11-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,3596,0.6,2157.6,41,24.6,0
+2025-11-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,3061,0.12,367.32,23,2.76,0
+2025-11-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,64,85.0,5440.0,0,0.0,0
+2025-12-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1285,4.8,6168.0,7,33.6,0
+2025-12-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1430,1.4,2002.0,13,18.2,0
+2025-12-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4592,0.6,2755.2,59,35.4,0
+2025-12-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,3329,0.12,399.48,30,3.6,1
+2025-12-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,57,85.0,4845.0,0,0.0,0
+2026-01-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1206,4.8,5788.8,11,52.8,0
+2026-01-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1458,1.4,2041.2,20,28.0,0
+2026-01-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4274,0.6,2564.4,39,23.4,0
+2026-01-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,3245,0.12,389.4,43,5.16,1
+2026-01-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,58,85.0,4930.0,0,0.0,0
+2026-02-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1321,4.8,6340.8,14,67.2,0
+2026-02-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1684,1.4,2357.6,12,16.8,0
+2026-02-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4148,0.6,2488.8,53,31.8,0
+2026-02-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,3198,0.12,383.76,31,3.72,0
+2026-02-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,53,85.0,4505.0,1,85.0,0
+2026-03-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1101,4.8,5284.8,20,96.0,1
+2026-03-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1525,1.4,2135.0,9,12.6,1
+2026-03-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,3999,0.6,2399.4,41,24.6,0
+2026-03-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,2817,0.12,338.04,37,4.44,0
+2026-03-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,65,85.0,5525.0,0,0.0,0
+2026-04-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1208,4.8,5798.4,8,38.4,0
+2026-04-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1468,1.4,2055.2,18,25.2,1
+2026-04-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,3941,0.6,2364.6,31,18.6,0
+2026-04-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,2874,0.12,344.88,22,2.64,0
+2026-04-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,52,85.0,4420.0,1,85.0,0
+2026-05-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1186,4.8,5692.8,16,76.8,0
+2026-05-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1339,1.4,1874.6,11,15.4,1
+2026-05-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4088,0.6,2452.8,36,21.6,0
+2026-05-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,3246,0.12,389.52,38,4.56,0
+2026-05-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,65,85.0,5525.0,0,0.0,0
+2026-06-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1177,4.8,5649.6,13,62.4,0
+2026-06-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1533,1.4,2146.2,13,18.2,0
+2026-06-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4452,0.6,2671.2,39,23.4,1
+2026-06-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,2687,0.12,322.44,27,3.24,0
+2026-06-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,60,85.0,5100.0,0,0.0,0
+2026-07-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1082,4.8,5193.6,10,48.0,0
+2026-07-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1577,1.4,2207.8,22,30.8,0
+2026-07-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4045,0.6,2427.0,55,33.0,0
+2026-07-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,3080,0.12,369.6,45,5.4,2
+2026-07-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,53,85.0,4505.0,1,85.0,0
+2026-08-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1238,4.8,5942.4,18,86.4,0
+2026-08-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1443,1.4,2020.2,10,14.0,1
+2026-08-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4324,0.6,2594.4,44,26.4,0
+2026-08-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,2650,0.12,318.0,29,3.48,0
+2026-08-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,52,85.0,4420.0,0,0.0,0
+2026-09-01,Central Hospital,Anticoagulants,Enoxaparin 40 mg syringe,1205,4.8,5784.0,11,52.8,0
+2026-09-01,Central Hospital,Anticoagulants,"Heparin 5,000 unit vial",1604,1.4,2245.6,18,25.2,1
+2026-09-01,Central Hospital,Anticoagulants,Apixaban 5 mg tablet,4032,0.6,2419.2,46,27.6,0
+2026-09-01,Central Hospital,Anticoagulants,Warfarin 5 mg tablet,3096,0.12,371.52,30,3.6,1
+2026-09-01,Central Hospital,Anticoagulants,Bivalirudin 250 mg vial,53,85.0,4505.0,0,0.0,0
+2025-10-01,Central Hospital,Insulins,Insulin glargine pen,258,28.0,7224.0,0,0.0,0
+2025-10-01,Central Hospital,Insulins,Insulin lispro pen,285,26.0,7410.0,0,0.0,0
+2025-10-01,Central Hospital,Insulins,Regular insulin vial,157,22.0,3454.0,1,22.0,0
+2025-10-01,Central Hospital,Insulins,Insulin aspart pen,190,25.0,4750.0,0,0.0,0
+2025-10-01,Central Hospital,Insulins,NPH insulin vial,85,21.0,1785.0,0,0.0,0
+2025-11-01,Central Hospital,Insulins,Insulin glargine pen,298,28.0,8344.0,2,56.0,0
+2025-11-01,Central Hospital,Insulins,Insulin lispro pen,287,26.0,7462.0,5,130.0,0
+2025-11-01,Central Hospital,Insulins,Regular insulin vial,138,22.0,3036.0,4,88.0,0
+2025-11-01,Central Hospital,Insulins,Insulin aspart pen,226,25.0,5650.0,1,25.0,0
+2025-11-01,Central Hospital,Insulins,NPH insulin vial,87,21.0,1827.0,0,0.0,0
+2025-12-01,Central Hospital,Insulins,Insulin glargine pen,274,28.0,7672.0,2,56.0,0
+2025-12-01,Central Hospital,Insulins,Insulin lispro pen,295,26.0,7670.0,4,104.0,0
+2025-12-01,Central Hospital,Insulins,Regular insulin vial,138,22.0,3036.0,2,44.0,0
+2025-12-01,Central Hospital,Insulins,Insulin aspart pen,233,25.0,5825.0,1,25.0,0
+2025-12-01,Central Hospital,Insulins,NPH insulin vial,93,21.0,1953.0,1,21.0,0
+2026-01-01,Central Hospital,Insulins,Insulin glargine pen,302,28.0,8456.0,1,28.0,0
+2026-01-01,Central Hospital,Insulins,Insulin lispro pen,275,26.0,7150.0,2,52.0,0
+2026-01-01,Central Hospital,Insulins,Regular insulin vial,147,22.0,3234.0,3,66.0,0
+2026-01-01,Central Hospital,Insulins,Insulin aspart pen,227,25.0,5675.0,3,75.0,1
+2026-01-01,Central Hospital,Insulins,NPH insulin vial,88,21.0,1848.0,1,21.0,0
+2026-02-01,Central Hospital,Insulins,Insulin glargine pen,313,28.0,8764.0,3,84.0,0
+2026-02-01,Central Hospital,Insulins,Insulin lispro pen,246,26.0,6396.0,3,78.0,0
+2026-02-01,Central Hospital,Insulins,Regular insulin vial,171,22.0,3762.0,6,132.0,0
+2026-02-01,Central Hospital,Insulins,Insulin aspart pen,221,25.0,5525.0,3,75.0,1
+2026-02-01,Central Hospital,Insulins,NPH insulin vial,83,21.0,1743.0,0,0.0,0
+2026-03-01,Central Hospital,Insulins,Insulin glargine pen,280,28.0,7840.0,1,28.0,0
+2026-03-01,Central Hospital,Insulins,Insulin lispro pen,268,26.0,6968.0,4,104.0,0
+2026-03-01,Central Hospital,Insulins,Regular insulin vial,145,22.0,3190.0,0,0.0,0
+2026-03-01,Central Hospital,Insulins,Insulin aspart pen,212,25.0,5300.0,0,0.0,0
+2026-03-01,Central Hospital,Insulins,NPH insulin vial,99,21.0,2079.0,0,0.0,0
+2026-04-01,Central Hospital,Insulins,Insulin glargine pen,304,28.0,8512.0,5,140.0,0
+2026-04-01,Central Hospital,Insulins,Insulin lispro pen,275,26.0,7150.0,2,52.0,0
+2026-04-01,Central Hospital,Insulins,Regular insulin vial,159,22.0,3498.0,2,44.0,0
+2026-04-01,Central Hospital,Insulins,Insulin aspart pen,207,25.0,5175.0,0,0.0,0
+2026-04-01,Central Hospital,Insulins,NPH insulin vial,78,21.0,1638.0,0,0.0,0
+2026-05-01,Central Hospital,Insulins,Insulin glargine pen,309,28.0,8652.0,3,84.0,0
+2026-05-01,Central Hospital,Insulins,Insulin lispro pen,300,26.0,7800.0,1,26.0,0
+2026-05-01,Central Hospital,Insulins,Regular insulin vial,152,22.0,3344.0,0,0.0,0
+2026-05-01,Central Hospital,Insulins,Insulin aspart pen,222,25.0,5550.0,2,50.0,0
+2026-05-01,Central Hospital,Insulins,NPH insulin vial,89,21.0,1869.0,1,21.0,0
+2026-06-01,Central Hospital,Insulins,Insulin glargine pen,233,28.0,6524.0,4,112.0,0
+2026-06-01,Central Hospital,Insulins,Insulin lispro pen,288,26.0,7488.0,2,52.0,0
+2026-06-01,Central Hospital,Insulins,Regular insulin vial,141,22.0,3102.0,1,22.0,1
+2026-06-01,Central Hospital,Insulins,Insulin aspart pen,226,25.0,5650.0,2,50.0,0
+2026-06-01,Central Hospital,Insulins,NPH insulin vial,78,21.0,1638.0,1,21.0,1
+2026-07-01,Central Hospital,Insulins,Insulin glargine pen,314,28.0,8792.0,2,56.0,0
+2026-07-01,Central Hospital,Insulins,Insulin lispro pen,289,26.0,7514.0,0,0.0,0
+2026-07-01,Central Hospital,Insulins,Regular insulin vial,164,22.0,3608.0,2,44.0,1
+2026-07-01,Central Hospital,Insulins,Insulin aspart pen,210,25.0,5250.0,2,50.0,0
+2026-07-01,Central Hospital,Insulins,NPH insulin vial,81,21.0,1701.0,0,0.0,0
+2026-08-01,Central Hospital,Insulins,Insulin glargine pen,289,28.0,8092.0,2,56.0,0
+2026-08-01,Central Hospital,Insulins,Insulin lispro pen,249,26.0,6474.0,3,78.0,0
+2026-08-01,Central Hospital,Insulins,Regular insulin vial,133,22.0,2926.0,2,44.0,0
+2026-08-01,Central Hospital,Insulins,Insulin aspart pen,205,25.0,5125.0,2,50.0,0
+2026-08-01,Central Hospital,Insulins,NPH insulin vial,93,21.0,1953.0,0,0.0,0
+2026-09-01,Central Hospital,Insulins,Insulin glargine pen,268,28.0,7504.0,2,56.0,0
+2026-09-01,Central Hospital,Insulins,Insulin lispro pen,238,26.0,6188.0,0,0.0,0
+2026-09-01,Central Hospital,Insulins,Regular insulin vial,148,22.0,3256.0,1,22.0,1
+2026-09-01,Central Hospital,Insulins,Insulin aspart pen,226,25.0,5650.0,2,50.0,0
+2026-09-01,Central Hospital,Insulins,NPH insulin vial,95,21.0,1995.0,1,21.0,1
+2025-10-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,43,650.0,27950.0,1,650.0,0
+2025-10-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,24,780.0,18720.0,0,0.0,0
+2025-10-01,Central Hospital,High-cost biologics,Adalimumab pen,32,1900.0,60800.0,0,0.0,0
+2025-10-01,Central Hospital,High-cost biologics,Trastuzumab vial,16,1500.0,24000.0,0,0.0,1
+2025-10-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,22,480.0,10560.0,0,0.0,0
+2025-11-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,42,659.75,27709.5,1,659.75,0
+2025-11-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,29,791.7,22959.3,0,0.0,0
+2025-11-01,Central Hospital,High-cost biologics,Adalimumab pen,35,1928.5,67497.5,0,0.0,0
+2025-11-01,Central Hospital,High-cost biologics,Trastuzumab vial,21,1522.5,31972.5,0,0.0,0
+2025-11-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,23,487.2,11205.6,2,974.4,0
+2025-12-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,36,669.65,24107.4,0,0.0,0
+2025-12-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,36,803.58,28928.88,2,1607.16,1
+2025-12-01,Central Hospital,High-cost biologics,Adalimumab pen,32,1957.43,62637.76,0,0.0,0
+2025-12-01,Central Hospital,High-cost biologics,Trastuzumab vial,18,1545.34,27816.12,1,1545.34,1
+2025-12-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,24,494.51,11868.24,0,0.0,0
+2026-01-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,36,679.69,24468.84,1,679.69,0
+2026-01-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,31,815.63,25284.53,0,0.0,0
+2026-01-01,Central Hospital,High-cost biologics,Adalimumab pen,34,1986.79,67550.86,0,0.0,0
+2026-01-01,Central Hospital,High-cost biologics,Trastuzumab vial,22,1568.52,34507.44,0,0.0,1
+2026-01-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,25,501.93,12548.25,0,0.0,0
+2026-02-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,42,689.89,28975.38,0,0.0,0
+2026-02-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,28,827.86,23180.08,1,827.86,0
+2026-02-01,Central Hospital,High-cost biologics,Adalimumab pen,34,2016.59,68564.06,1,2016.59,1
+2026-02-01,Central Hospital,High-cost biologics,Trastuzumab vial,20,1592.05,31841.0,0,0.0,0
+2026-02-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,26,509.45,13245.7,0,0.0,0
+2026-03-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,40,700.23,28009.2,0,0.0,0
+2026-03-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,29,840.28,24368.12,0,0.0,1
+2026-03-01,Central Hospital,High-cost biologics,Adalimumab pen,28,2046.84,57311.52,0,0.0,0
+2026-03-01,Central Hospital,High-cost biologics,Trastuzumab vial,21,1615.93,33934.53,0,0.0,0
+2026-03-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,26,517.1,13444.6,0,0.0,0
+2026-04-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,44,710.74,31272.56,0,0.0,0
+2026-04-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,29,852.89,24733.81,0,0.0,0
+2026-04-01,Central Hospital,High-cost biologics,Adalimumab pen,32,2077.54,66481.28,0,0.0,0
+2026-04-01,Central Hospital,High-cost biologics,Trastuzumab vial,17,1640.16,27882.72,0,0.0,0
+2026-04-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,29,524.85,15220.65,0,0.0,0
+2026-05-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,42,721.4,30298.8,0,0.0,0
+2026-05-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,31,865.68,26836.08,0,0.0,1
+2026-05-01,Central Hospital,High-cost biologics,Adalimumab pen,35,2108.71,73804.85,0,0.0,1
+2026-05-01,Central Hospital,High-cost biologics,Trastuzumab vial,22,1664.77,36624.94,0,0.0,0
+2026-05-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,31,532.73,16514.63,1,532.73,0
+2026-06-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,39,732.22,28556.58,0,0.0,0
+2026-06-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,26,878.66,22845.16,0,0.0,0
+2026-06-01,Central Hospital,High-cost biologics,Adalimumab pen,33,2140.34,70631.22,0,0.0,0
+2026-06-01,Central Hospital,High-cost biologics,Trastuzumab vial,21,1689.74,35484.54,1,1689.74,0
+2026-06-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,23,540.72,12436.56,0,0.0,0
+2026-07-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,39,743.2,28984.8,1,743.2,0
+2026-07-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,35,891.84,31214.4,1,891.84,0
+2026-07-01,Central Hospital,High-cost biologics,Adalimumab pen,32,2172.44,69518.08,0,0.0,0
+2026-07-01,Central Hospital,High-cost biologics,Trastuzumab vial,22,1715.08,37731.76,0,0.0,0
+2026-07-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,22,548.83,12074.26,0,0.0,0
+2026-08-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,38,754.35,28665.3,1,754.35,0
+2026-08-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,29,905.22,26251.38,1,905.22,1
+2026-08-01,Central Hospital,High-cost biologics,Adalimumab pen,37,2205.03,81586.11,1,2205.03,0
+2026-08-01,Central Hospital,High-cost biologics,Trastuzumab vial,20,1740.81,34816.2,0,0.0,0
+2026-08-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,20,557.06,11141.2,1,557.06,0
+2026-09-01,Central Hospital,High-cost biologics,Infliximab 100 mg vial,39,765.67,29861.13,0,0.0,1
+2026-09-01,Central Hospital,High-cost biologics,Pegfilgrastim syringe,30,918.8,27564.0,0,0.0,0
+2026-09-01,Central Hospital,High-cost biologics,Adalimumab pen,39,2238.1,87285.9,0,0.0,1
+2026-09-01,Central Hospital,High-cost biologics,Trastuzumab vial,16,1766.92,28270.72,0,0.0,0
+2026-09-01,Central Hospital,High-cost biologics,Rituximab 100 mg vial,26,565.42,14700.92,1,565.42,0
+2025-10-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,3915,1.8,7047.0,44,79.2,0
+2025-10-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1852,2.0,3704.0,16,32.0,2
+2025-10-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,1044,2.9,3027.6,14,40.6,0
+2025-10-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,727,3.1,2253.7,7,21.7,0
+2025-10-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,949,2.2,2087.8,16,35.2,0
+2025-11-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,4535,1.8,8163.0,39,70.2,0
+2025-11-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,2088,2.0,4176.0,24,48.0,0
+2025-11-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,875,2.9,2537.5,7,20.3,0
+2025-11-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,745,3.1,2309.5,6,18.6,0
+2025-11-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,914,2.2,2010.8,13,28.6,0
+2025-12-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,4090,1.8,7362.0,35,63.0,0
+2025-12-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1818,2.0,3636.0,18,36.0,0
+2025-12-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,896,2.9,2598.4,12,34.8,0
+2025-12-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,698,3.1,2163.8,10,31.0,0
+2025-12-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,751,2.2,1652.2,5,11.0,0
+2026-01-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,3659,1.8,6586.2,35,63.0,1
+2026-01-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1754,2.0,3508.0,13,26.0,0
+2026-01-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,861,2.9,2496.9,7,20.3,0
+2026-01-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,684,3.1,2120.4,9,27.9,1
+2026-01-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,973,2.2,2140.6,12,26.4,0
+2026-02-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,3889,1.8,7000.2,30,54.0,0
+2026-02-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1806,2.0,3612.0,19,38.0,0
+2026-02-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,803,2.9,2328.7,8,23.2,0
+2026-02-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,678,3.1,2101.8,9,27.9,0
+2026-02-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,801,2.2,1762.2,14,30.8,1
+2026-03-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,3867,1.8,6960.6,33,59.4,0
+2026-03-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1752,2.0,3504.0,18,36.0,0
+2026-03-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,1058,2.9,3068.2,9,26.1,0
+2026-03-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,712,3.1,2207.2,8,24.8,1
+2026-03-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,951,2.2,2092.2,14,30.8,0
+2026-04-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,4030,1.8,7254.0,37,66.6,0
+2026-04-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1768,2.0,3536.0,20,40.0,0
+2026-04-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,847,2.9,2456.3,7,20.3,0
+2026-04-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,759,3.1,2352.9,10,31.0,0
+2026-04-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,842,2.2,1852.4,7,15.4,0
+2026-05-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,4158,1.8,7484.4,42,75.6,0
+2026-05-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1936,2.0,3872.0,21,42.0,0
+2026-05-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,822,2.9,2383.8,6,17.4,0
+2026-05-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,701,3.1,2173.1,11,34.1,0
+2026-05-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,961,2.2,2114.2,4,8.8,0
+2026-06-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,4367,1.8,7860.6,54,97.2,0
+2026-06-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1650,2.0,3300.0,15,30.0,0
+2026-06-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,987,2.9,2862.3,11,31.9,1
+2026-06-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,715,3.1,2216.5,5,15.5,0
+2026-06-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,870,2.2,1914.0,6,13.2,0
+2026-07-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,3856,1.8,6940.8,46,82.8,0
+2026-07-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,2144,2.0,4288.0,19,38.0,1
+2026-07-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,929,2.9,2694.1,8,23.2,0
+2026-07-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,643,3.1,1993.3,13,40.3,0
+2026-07-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,953,2.2,2096.6,14,30.8,0
+2026-08-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,4107,1.8,7392.6,32,57.6,0
+2026-08-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1901,2.0,3802.0,26,52.0,0
+2026-08-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,779,2.9,2259.1,4,11.6,1
+2026-08-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,735,3.1,2278.5,4,12.4,0
+2026-08-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,998,2.2,2195.6,13,28.6,0
+2026-09-01,Central Hospital,IV fluids & electrolytes,Normal saline 1 L,3396,1.8,6112.8,29,52.2,0
+2026-09-01,Central Hospital,IV fluids & electrolytes,Lactated Ringer 1 L,1790,2.0,3580.0,21,42.0,0
+2026-09-01,Central Hospital,IV fluids & electrolytes,Potassium chloride 20 mEq,939,2.9,2723.1,6,17.4,1
+2026-09-01,Central Hospital,IV fluids & electrolytes,Magnesium sulfate 2 g,725,3.1,2247.5,8,24.8,1
+2026-09-01,Central Hospital,IV fluids & electrolytes,Dextrose 5% 1 L,745,2.2,1639.0,4,8.8,0
+2025-10-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,766,2.1,1608.6,6,12.6,0
+2025-10-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,409,4.5,1840.5,3,13.5,0
+2025-10-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,308,6.8,2094.4,2,13.6,0
+2025-10-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,631,1.9,1198.9,11,20.9,0
+2025-10-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,282,3.2,902.4,5,16.0,0
+2025-11-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,709,2.1,1488.9,7,14.7,0
+2025-11-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,391,4.5,1759.5,7,31.5,0
+2025-11-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,310,6.8,2108.0,6,40.8,0
+2025-11-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,674,1.9,1280.6,5,9.5,0
+2025-11-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,274,3.2,876.8,4,12.8,0
+2025-12-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,898,2.1,1885.8,4,8.4,0
+2025-12-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,477,4.5,2146.5,6,27.0,0
+2025-12-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,378,6.8,2570.4,3,20.4,0
+2025-12-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,803,1.9,1525.7,10,19.0,0
+2025-12-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,339,3.2,1084.8,4,12.8,0
+2026-01-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,974,2.1,2045.4,6,12.6,0
+2026-01-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,439,4.5,1975.5,3,13.5,1
+2026-01-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,363,6.8,2468.4,3,20.4,0
+2026-01-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,835,1.9,1586.5,9,17.1,0
+2026-01-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,311,3.2,995.2,5,16.0,0
+2026-02-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,899,2.1,1887.9,10,21.0,0
+2026-02-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,428,4.5,1926.0,5,22.5,0
+2026-02-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,356,6.8,2420.8,3,20.4,0
+2026-02-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,845,1.9,1605.5,8,15.2,0
+2026-02-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,387,3.2,1238.4,0,0.0,0
+2026-03-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,757,2.1,1589.7,7,14.7,0
+2026-03-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,370,4.5,1665.0,3,13.5,0
+2026-03-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,266,6.8,1808.8,5,34.0,0
+2026-03-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,634,1.9,1204.6,6,11.4,0
+2026-03-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,273,3.2,873.6,4,12.8,0
+2026-04-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,736,2.1,1545.6,7,14.7,0
+2026-04-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,401,4.5,1804.5,2,9.0,0
+2026-04-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,275,6.8,1870.0,0,0.0,0
+2026-04-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,701,1.9,1331.9,6,11.4,0
+2026-04-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,269,3.2,860.8,4,12.8,1
+2026-05-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,664,2.1,1394.4,7,14.7,0
+2026-05-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,418,4.5,1881.0,4,18.0,1
+2026-05-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,275,6.8,1870.0,1,6.8,1
+2026-05-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,717,1.9,1362.3,9,17.1,0
+2026-05-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,299,3.2,956.8,8,25.6,0
+2026-06-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,866,2.1,1818.6,10,21.0,1
+2026-06-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,441,4.5,1984.5,8,36.0,0
+2026-06-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,302,6.8,2053.6,3,20.4,0
+2026-06-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,743,1.9,1411.7,4,7.6,0
+2026-06-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,229,3.2,732.8,5,16.0,1
+2026-07-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,692,2.1,1453.2,5,10.5,0
+2026-07-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,393,4.5,1768.5,6,27.0,1
+2026-07-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,261,6.8,1774.8,1,6.8,0
+2026-07-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,655,1.9,1244.5,9,17.1,1
+2026-07-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,285,3.2,912.0,0,0.0,0
+2026-08-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,825,2.1,1732.5,8,16.8,0
+2026-08-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,432,4.5,1944.0,5,22.5,0
+2026-08-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,337,6.8,2291.6,7,47.6,1
+2026-08-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,732,1.9,1390.8,4,7.6,0
+2026-08-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,296,3.2,947.2,5,16.0,0
+2026-09-01,North Clinic Pharmacy,Antibiotics,Ceftriaxone 1 g vial,740,2.1,1554.0,5,10.5,0
+2026-09-01,North Clinic Pharmacy,Antibiotics,Vancomycin 1 g vial,391,4.5,1759.5,3,13.5,0
+2026-09-01,North Clinic Pharmacy,Antibiotics,Piperacillin-tazobactam 3.375 g,303,6.8,2060.4,2,13.6,1
+2026-09-01,North Clinic Pharmacy,Antibiotics,Cefazolin 1 g vial,594,1.9,1128.6,6,11.4,0
+2026-09-01,North Clinic Pharmacy,Antibiotics,Azithromycin 500 mg vial,272,3.2,870.4,2,6.4,0
+2025-10-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,500,4.8,2400.0,8,38.4,0
+2025-10-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",652,1.4,912.8,8,11.2,0
+2025-10-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1796,0.6,1077.6,22,13.2,0
+2025-10-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1323,0.12,158.76,15,1.8,0
+2025-10-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,29,85.0,2465.0,0,0.0,0
+2025-11-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,584,4.8,2803.2,10,48.0,0
+2025-11-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",728,1.4,1019.2,7,9.8,0
+2025-11-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1924,0.6,1154.4,17,10.2,0
+2025-11-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1379,0.12,165.48,18,2.16,0
+2025-11-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,28,85.0,2380.0,1,85.0,0
+2025-12-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,486,4.8,2332.8,3,14.4,0
+2025-12-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",661,1.4,925.4,4,5.6,0
+2025-12-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1733,0.6,1039.8,17,10.2,2
+2025-12-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1464,0.12,175.68,10,1.2,0
+2025-12-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,25,85.0,2125.0,0,0.0,1
+2026-01-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,549,4.8,2635.2,5,24.0,1
+2026-01-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",643,1.4,900.2,7,9.8,0
+2026-01-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1825,0.6,1095.0,26,15.6,0
+2026-01-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1344,0.12,161.28,12,1.44,0
+2026-01-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,28,85.0,2380.0,0,0.0,1
+2026-02-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,470,4.8,2256.0,7,33.6,0
+2026-02-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",604,1.4,845.6,9,12.6,1
+2026-02-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1661,0.6,996.6,19,11.4,0
+2026-02-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1312,0.12,157.44,9,1.08,0
+2026-02-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,26,85.0,2210.0,0,0.0,0
+2026-03-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,503,4.8,2414.4,8,38.4,0
+2026-03-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",731,1.4,1023.4,10,14.0,0
+2026-03-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1873,0.6,1123.8,21,12.6,0
+2026-03-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1385,0.12,166.2,15,1.8,0
+2026-03-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,28,85.0,2380.0,0,0.0,0
+2026-04-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,495,4.8,2376.0,6,28.8,0
+2026-04-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",650,1.4,910.0,10,14.0,0
+2026-04-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1816,0.6,1089.6,23,13.8,1
+2026-04-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1202,0.12,144.24,10,1.2,1
+2026-04-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,28,85.0,2380.0,0,0.0,0
+2026-05-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,492,4.8,2361.6,3,14.4,0
+2026-05-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",691,1.4,967.4,7,9.8,0
+2026-05-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1620,0.6,972.0,19,11.4,0
+2026-05-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1168,0.12,140.16,10,1.2,1
+2026-05-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,27,85.0,2295.0,0,0.0,0
+2026-06-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,563,4.8,2702.4,4,19.2,0
+2026-06-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",674,1.4,943.6,11,15.4,0
+2026-06-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1741,0.6,1044.6,15,9.0,2
+2026-06-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1410,0.12,169.2,17,2.04,0
+2026-06-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,28,85.0,2380.0,0,0.0,1
+2026-07-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,556,4.8,2668.8,4,19.2,0
+2026-07-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",661,1.4,925.4,12,16.8,0
+2026-07-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1823,0.6,1093.8,14,8.4,1
+2026-07-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1322,0.12,158.64,11,1.32,0
+2026-07-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,28,85.0,2380.0,0,0.0,0
+2026-08-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,463,4.8,2222.4,6,28.8,0
+2026-08-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",639,1.4,894.6,5,7.0,0
+2026-08-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1528,0.6,916.8,13,7.8,0
+2026-08-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1325,0.12,159.0,10,1.2,0
+2026-08-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,26,85.0,2210.0,0,0.0,1
+2026-09-01,North Clinic Pharmacy,Anticoagulants,Enoxaparin 40 mg syringe,558,4.8,2678.4,5,24.0,0
+2026-09-01,North Clinic Pharmacy,Anticoagulants,"Heparin 5,000 unit vial",658,1.4,921.2,3,4.2,0
+2026-09-01,North Clinic Pharmacy,Anticoagulants,Apixaban 5 mg tablet,1787,0.6,1072.2,12,7.2,0
+2026-09-01,North Clinic Pharmacy,Anticoagulants,Warfarin 5 mg tablet,1498,0.12,179.76,10,1.2,0
+2026-09-01,North Clinic Pharmacy,Anticoagulants,Bivalirudin 250 mg vial,30,85.0,2550.0,1,85.0,0
+2025-10-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,136,28.0,3808.0,1,28.0,0
+2025-10-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,130,26.0,3380.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,Insulins,Regular insulin vial,75,22.0,1650.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,92,25.0,2300.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,Insulins,NPH insulin vial,37,21.0,777.0,1,21.0,0
+2025-11-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,129,28.0,3612.0,0,0.0,0
+2025-11-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,144,26.0,3744.0,2,52.0,0
+2025-11-01,North Clinic Pharmacy,Insulins,Regular insulin vial,64,22.0,1408.0,1,22.0,0
+2025-11-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,89,25.0,2225.0,0,0.0,0
+2025-11-01,North Clinic Pharmacy,Insulins,NPH insulin vial,44,21.0,924.0,0,0.0,0
+2025-12-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,144,28.0,4032.0,2,56.0,0
+2025-12-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,138,26.0,3588.0,0,0.0,0
+2025-12-01,North Clinic Pharmacy,Insulins,Regular insulin vial,64,22.0,1408.0,1,22.0,0
+2025-12-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,114,25.0,2850.0,1,25.0,0
+2025-12-01,North Clinic Pharmacy,Insulins,NPH insulin vial,38,21.0,798.0,0,0.0,0
+2026-01-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,123,28.0,3444.0,0,0.0,0
+2026-01-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,127,26.0,3302.0,1,26.0,0
+2026-01-01,North Clinic Pharmacy,Insulins,Regular insulin vial,74,22.0,1628.0,0,0.0,0
+2026-01-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,109,25.0,2725.0,0,0.0,0
+2026-01-01,North Clinic Pharmacy,Insulins,NPH insulin vial,43,21.0,903.0,0,0.0,0
+2026-02-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,154,28.0,4312.0,2,56.0,0
+2026-02-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,117,26.0,3042.0,1,26.0,0
+2026-02-01,North Clinic Pharmacy,Insulins,Regular insulin vial,68,22.0,1496.0,1,22.0,0
+2026-02-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,107,25.0,2675.0,2,50.0,0
+2026-02-01,North Clinic Pharmacy,Insulins,NPH insulin vial,36,21.0,756.0,1,21.0,0
+2026-03-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,139,28.0,3892.0,1,28.0,0
+2026-03-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,124,26.0,3224.0,0,0.0,0
+2026-03-01,North Clinic Pharmacy,Insulins,Regular insulin vial,73,22.0,1606.0,0,0.0,0
+2026-03-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,94,25.0,2350.0,0,0.0,0
+2026-03-01,North Clinic Pharmacy,Insulins,NPH insulin vial,45,21.0,945.0,0,0.0,0
+2026-04-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,138,28.0,3864.0,1,28.0,0
+2026-04-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,135,26.0,3510.0,2,52.0,1
+2026-04-01,North Clinic Pharmacy,Insulins,Regular insulin vial,64,22.0,1408.0,2,44.0,0
+2026-04-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,98,25.0,2450.0,2,50.0,0
+2026-04-01,North Clinic Pharmacy,Insulins,NPH insulin vial,43,21.0,903.0,1,21.0,0
+2026-05-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,121,28.0,3388.0,0,0.0,0
+2026-05-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,118,26.0,3068.0,2,52.0,0
+2026-05-01,North Clinic Pharmacy,Insulins,Regular insulin vial,73,22.0,1606.0,1,22.0,0
+2026-05-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,98,25.0,2450.0,2,50.0,0
+2026-05-01,North Clinic Pharmacy,Insulins,NPH insulin vial,43,21.0,903.0,0,0.0,0
+2026-06-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,136,28.0,3808.0,0,0.0,0
+2026-06-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,116,26.0,3016.0,0,0.0,2
+2026-06-01,North Clinic Pharmacy,Insulins,Regular insulin vial,66,22.0,1452.0,0,0.0,0
+2026-06-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,90,25.0,2250.0,0,0.0,0
+2026-06-01,North Clinic Pharmacy,Insulins,NPH insulin vial,43,21.0,903.0,0,0.0,0
+2026-07-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,126,28.0,3528.0,1,28.0,0
+2026-07-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,137,26.0,3562.0,2,52.0,0
+2026-07-01,North Clinic Pharmacy,Insulins,Regular insulin vial,62,22.0,1364.0,1,22.0,0
+2026-07-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,103,25.0,2575.0,0,0.0,0
+2026-07-01,North Clinic Pharmacy,Insulins,NPH insulin vial,42,21.0,882.0,3,63.0,0
+2026-08-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,144,28.0,4032.0,0,0.0,0
+2026-08-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,109,26.0,2834.0,1,26.0,0
+2026-08-01,North Clinic Pharmacy,Insulins,Regular insulin vial,63,22.0,1386.0,0,0.0,0
+2026-08-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,102,25.0,2550.0,0,0.0,1
+2026-08-01,North Clinic Pharmacy,Insulins,NPH insulin vial,38,21.0,798.0,0,0.0,0
+2026-09-01,North Clinic Pharmacy,Insulins,Insulin glargine pen,137,28.0,3836.0,0,0.0,1
+2026-09-01,North Clinic Pharmacy,Insulins,Insulin lispro pen,141,26.0,3666.0,2,52.0,1
+2026-09-01,North Clinic Pharmacy,Insulins,Regular insulin vial,58,22.0,1276.0,1,22.0,0
+2026-09-01,North Clinic Pharmacy,Insulins,Insulin aspart pen,109,25.0,2725.0,0,0.0,1
+2026-09-01,North Clinic Pharmacy,Insulins,NPH insulin vial,42,21.0,882.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,4,650.0,2600.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,780.0,3120.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,5,1900.0,9500.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1500.0,3000.0,0,0.0,0
+2025-10-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,480.0,1440.0,0,0.0,0
+2025-11-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,659.75,3298.75,0,0.0,0
+2025-11-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,791.7,3166.8,0,0.0,0
+2025-11-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,1928.5,7714.0,0,0.0,1
+2025-11-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1522.5,3045.0,0,0.0,0
+2025-11-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,487.2,1461.6,0,0.0,0
+2025-12-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,669.65,3348.25,0,0.0,0
+2025-12-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,803.58,3214.32,0,0.0,0
+2025-12-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,1957.43,7829.72,0,0.0,0
+2025-12-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1545.34,3090.68,0,0.0,0
+2025-12-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,494.51,1483.53,0,0.0,0
+2026-01-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,679.69,3398.45,0,0.0,0
+2026-01-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,815.63,3262.52,0,0.0,0
+2026-01-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,1986.79,7947.16,0,0.0,0
+2026-01-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1568.52,3137.04,0,0.0,0
+2026-01-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,501.93,1505.79,0,0.0,0
+2026-02-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,689.89,3449.45,0,0.0,0
+2026-02-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,3,827.86,2483.58,0,0.0,0
+2026-02-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,2016.59,8066.36,0,0.0,0
+2026-02-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1592.05,3184.1,0,0.0,0
+2026-02-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,509.45,1528.35,0,0.0,0
+2026-03-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,700.23,3501.15,0,0.0,0
+2026-03-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,840.28,3361.12,0,0.0,1
+2026-03-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,5,2046.84,10234.2,0,0.0,0
+2026-03-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1615.93,3231.86,0,0.0,0
+2026-03-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,517.1,1551.3,0,0.0,0
+2026-04-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,710.74,3553.7,0,0.0,0
+2026-04-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,3,852.89,2558.67,0,0.0,0
+2026-04-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,2077.54,8310.16,0,0.0,0
+2026-04-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,3,1640.16,4920.48,0,0.0,0
+2026-04-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,524.85,1574.55,0,0.0,0
+2026-05-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,721.4,3607.0,0,0.0,0
+2026-05-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,865.68,3462.72,1,865.68,1
+2026-05-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,2108.71,8434.84,0,0.0,0
+2026-05-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1664.77,3329.54,0,0.0,0
+2026-05-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,532.73,1598.19,0,0.0,0
+2026-06-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,732.22,3661.1,0,0.0,0
+2026-06-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,3,878.66,2635.98,0,0.0,0
+2026-06-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,5,2140.34,10701.7,0,0.0,1
+2026-06-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1689.74,3379.48,0,0.0,0
+2026-06-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,540.72,1622.16,0,0.0,0
+2026-07-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,743.2,3716.0,0,0.0,0
+2026-07-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,3,891.84,2675.52,0,0.0,1
+2026-07-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,2172.44,8689.76,0,0.0,0
+2026-07-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1715.08,3430.16,1,1715.08,0
+2026-07-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,548.83,1646.49,0,0.0,0
+2026-08-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,754.35,3771.75,0,0.0,0
+2026-08-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,905.22,3620.88,0,0.0,0
+2026-08-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,2205.03,8820.12,0,0.0,0
+2026-08-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1740.81,3481.62,0,0.0,0
+2026-08-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,557.06,1671.18,0,0.0,0
+2026-09-01,North Clinic Pharmacy,High-cost biologics,Infliximab 100 mg vial,5,765.67,3828.35,0,0.0,0
+2026-09-01,North Clinic Pharmacy,High-cost biologics,Pegfilgrastim syringe,4,918.8,3675.2,0,0.0,0
+2026-09-01,North Clinic Pharmacy,High-cost biologics,Adalimumab pen,4,2238.1,8952.4,0,0.0,0
+2026-09-01,North Clinic Pharmacy,High-cost biologics,Trastuzumab vial,2,1766.92,3533.84,1,1766.92,0
+2026-09-01,North Clinic Pharmacy,High-cost biologics,Rituximab 100 mg vial,3,565.42,1696.26,0,0.0,3
+2025-10-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,255,1.8,459.0,11,19.8,0
+2025-10-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,110,2.0,220.0,4,8.0,0
+2025-10-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,69,2.9,200.1,2,5.8,0
+2025-10-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,41,3.1,127.1,2,6.2,0
+2025-10-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,61,2.2,134.2,1,2.2,0
+2025-11-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,239,1.8,430.2,5,9.0,0
+2025-11-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,109,2.0,218.0,3,6.0,0
+2025-11-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,57,2.9,165.3,1,2.9,0
+2025-11-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,45,3.1,139.5,0,0.0,1
+2025-11-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,68,2.2,149.6,0,0.0,1
+2025-12-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,265,1.8,477.0,7,12.6,0
+2025-12-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,145,2.0,290.0,1,2.0,0
+2025-12-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,63,2.9,182.7,2,5.8,0
+2025-12-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,47,3.1,145.7,1,3.1,0
+2025-12-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,61,2.2,134.2,3,6.6,1
+2026-01-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,260,1.8,468.0,7,12.6,0
+2026-01-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,142,2.0,284.0,3,6.0,0
+2026-01-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,53,2.9,153.7,4,11.6,0
+2026-01-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,43,3.1,133.3,2,6.2,0
+2026-01-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,61,2.2,134.2,3,6.6,0
+2026-02-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,284,1.8,511.2,16,28.8,0
+2026-02-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,109,2.0,218.0,6,12.0,0
+2026-02-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,58,2.9,168.2,3,8.7,1
+2026-02-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,43,3.1,133.3,1,3.1,0
+2026-02-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,65,2.2,143.0,1,2.2,1
+2026-03-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,248,1.8,446.4,7,12.6,1
+2026-03-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,119,2.0,238.0,2,4.0,0
+2026-03-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,48,2.9,139.2,0,0.0,0
+2026-03-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,50,3.1,155.0,3,9.3,0
+2026-03-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,50,2.2,110.0,2,4.4,0
+2026-04-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,300,1.8,540.0,4,7.2,0
+2026-04-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,124,2.0,248.0,2,4.0,0
+2026-04-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,61,2.9,176.9,0,0.0,0
+2026-04-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,40,3.1,124.0,0,0.0,0
+2026-04-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,55,2.2,121.0,3,6.6,0
+2026-05-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,292,1.8,525.6,5,9.0,0
+2026-05-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,101,2.0,202.0,3,6.0,0
+2026-05-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,60,2.9,174.0,1,2.9,1
+2026-05-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,43,3.1,133.3,0,0.0,0
+2026-05-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,59,2.2,129.8,2,4.4,0
+2026-06-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,270,1.8,486.0,7,12.6,0
+2026-06-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,114,2.0,228.0,2,4.0,1
+2026-06-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,67,2.9,194.3,1,2.9,0
+2026-06-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,52,3.1,161.2,0,0.0,0
+2026-06-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,63,2.2,138.6,0,0.0,1
+2026-07-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,220,1.8,396.0,6,10.8,0
+2026-07-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,110,2.0,220.0,4,8.0,0
+2026-07-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,56,2.9,162.4,7,20.3,0
+2026-07-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,44,3.1,136.4,4,12.4,0
+2026-07-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,58,2.2,127.6,1,2.2,0
+2026-08-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,276,1.8,496.8,7,12.6,0
+2026-08-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,116,2.0,232.0,1,2.0,0
+2026-08-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,62,2.9,179.8,6,17.4,0
+2026-08-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,44,3.1,136.4,1,3.1,0
+2026-08-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,60,2.2,132.0,1,2.2,0
+2026-09-01,North Clinic Pharmacy,IV fluids & electrolytes,Normal saline 1 L,310,1.8,558.0,11,19.8,0
+2026-09-01,North Clinic Pharmacy,IV fluids & electrolytes,Lactated Ringer 1 L,134,2.0,268.0,1,2.0,0
+2026-09-01,North Clinic Pharmacy,IV fluids & electrolytes,Potassium chloride 20 mEq,53,2.9,153.7,0,0.0,0
+2026-09-01,North Clinic Pharmacy,IV fluids & electrolytes,Magnesium sulfate 2 g,44,3.1,136.4,1,3.1,0
+2026-09-01,North Clinic Pharmacy,IV fluids & electrolytes,Dextrose 5% 1 L,58,2.2,127.6,1,2.2,0
+2025-10-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1265,2.1,2656.5,9,18.9,0
+2025-10-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,572,4.5,2574.0,8,36.0,1
+2025-10-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,414,6.8,2815.2,8,54.4,0
+2025-10-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,885,1.9,1681.5,7,13.3,0
+2025-10-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,375,3.2,1200.0,4,12.8,0
+2025-11-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1214,2.1,2549.4,16,33.6,0
+2025-11-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,604,4.5,2718.0,10,45.0,0
+2025-11-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,409,6.8,2781.2,5,34.0,0
+2025-11-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,845,1.9,1605.5,10,19.0,0
+2025-11-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,343,3.2,1097.6,6,19.2,0
+2025-12-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1301,2.1,2732.1,12,25.2,0
+2025-12-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,620,4.5,2790.0,7,31.5,0
+2025-12-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,521,6.8,3542.8,3,20.4,0
+2025-12-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,1011,1.9,1920.9,9,17.1,0
+2025-12-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,426,3.2,1363.2,5,16.0,0
+2026-01-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1359,2.1,2853.9,11,23.1,0
+2026-01-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,580,4.5,2610.0,5,22.5,0
+2026-01-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,519,6.8,3529.2,1,6.8,1
+2026-01-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,1083,1.9,2057.7,10,19.0,0
+2026-01-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,427,3.2,1366.4,5,16.0,0
+2026-02-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1227,2.1,2576.7,10,21.0,0
+2026-02-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,620,4.5,2790.0,3,13.5,1
+2026-02-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,544,6.8,3699.2,1,6.8,0
+2026-02-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,1025,1.9,1947.5,13,24.7,0
+2026-02-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,415,3.2,1328.0,5,16.0,0
+2026-03-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1174,2.1,2465.4,10,21.0,0
+2026-03-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,505,4.5,2272.5,9,40.5,1
+2026-03-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,394,6.8,2679.2,6,40.8,0
+2026-03-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,910,1.9,1729.0,12,22.8,0
+2026-03-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,386,3.2,1235.2,3,9.6,0
+2026-04-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1127,2.1,2366.7,17,35.7,1
+2026-04-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,572,4.5,2574.0,6,27.0,0
+2026-04-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,387,6.8,2631.6,4,27.2,0
+2026-04-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,874,1.9,1660.6,10,19.0,0
+2026-04-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,343,3.2,1097.6,5,16.0,0
+2026-05-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1213,2.1,2547.3,15,31.5,0
+2026-05-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,472,4.5,2124.0,6,27.0,0
+2026-05-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,411,6.8,2794.8,5,34.0,0
+2026-05-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,891,1.9,1692.9,9,17.1,0
+2026-05-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,386,3.2,1235.2,4,12.8,0
+2026-06-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1062,2.1,2230.2,8,16.8,0
+2026-06-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,546,4.5,2457.0,10,45.0,0
+2026-06-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,449,6.8,3053.2,5,34.0,0
+2026-06-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,887,1.9,1685.3,10,19.0,1
+2026-06-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,355,3.2,1136.0,6,19.2,0
+2026-07-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1145,2.1,2404.5,10,21.0,0
+2026-07-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,525,4.5,2362.5,4,18.0,1
+2026-07-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,498,6.8,3386.4,7,47.6,0
+2026-07-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,1061,1.9,2015.9,10,19.0,0
+2026-07-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,374,3.2,1196.8,3,9.6,0
+2026-08-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1029,2.1,2160.9,12,25.2,0
+2026-08-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,567,4.5,2551.5,5,22.5,0
+2026-08-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,394,6.8,2679.2,3,20.4,0
+2026-08-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,878,1.9,1668.2,10,19.0,0
+2026-08-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,384,3.2,1228.8,6,19.2,0
+2026-09-01,East Infusion Center,Antibiotics,Ceftriaxone 1 g vial,1098,2.1,2305.8,12,25.2,0
+2026-09-01,East Infusion Center,Antibiotics,Vancomycin 1 g vial,515,4.5,2317.5,5,22.5,1
+2026-09-01,East Infusion Center,Antibiotics,Piperacillin-tazobactam 3.375 g,388,6.8,2638.4,3,20.4,0
+2026-09-01,East Infusion Center,Antibiotics,Cefazolin 1 g vial,862,1.9,1637.8,8,15.2,0
+2026-09-01,East Infusion Center,Antibiotics,Azithromycin 500 mg vial,400,3.2,1280.0,6,19.2,0
+2025-10-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,633,4.8,3038.4,9,43.2,0
+2025-10-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",909,1.4,1272.6,15,21.0,0
+2025-10-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2502,0.6,1501.2,27,16.2,0
+2025-10-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,2058,0.12,246.96,21,2.52,0
+2025-10-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,38,85.0,3230.0,1,85.0,1
+2025-11-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,725,4.8,3480.0,7,33.6,0
+2025-11-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",943,1.4,1320.2,11,15.4,0
+2025-11-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2602,0.6,1561.2,19,11.4,1
+2025-11-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1620,0.12,194.4,17,2.04,0
+2025-11-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,36,85.0,3060.0,0,0.0,0
+2025-12-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,634,4.8,3043.2,7,33.6,1
+2025-12-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",842,1.4,1178.8,8,11.2,0
+2025-12-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2684,0.6,1610.4,22,13.2,0
+2025-12-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1844,0.12,221.28,14,1.68,2
+2025-12-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,35,85.0,2975.0,0,0.0,0
+2026-01-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,714,4.8,3427.2,6,28.8,0
+2026-01-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",854,1.4,1195.6,8,11.2,0
+2026-01-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2159,0.6,1295.4,22,13.2,0
+2026-01-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1754,0.12,210.48,16,1.92,0
+2026-01-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,29,85.0,2465.0,0,0.0,0
+2026-02-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,850,4.8,4080.0,6,28.8,1
+2026-02-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",981,1.4,1373.4,11,15.4,1
+2026-02-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2281,0.6,1368.6,19,11.4,0
+2026-02-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,2016,0.12,241.92,13,1.56,0
+2026-02-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,31,85.0,2635.0,0,0.0,0
+2026-03-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,733,4.8,3518.4,8,38.4,0
+2026-03-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",825,1.4,1155.0,10,14.0,1
+2026-03-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2325,0.6,1395.0,21,12.6,0
+2026-03-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1911,0.12,229.32,14,1.68,1
+2026-03-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,35,85.0,2975.0,2,170.0,0
+2026-04-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,780,4.8,3744.0,6,28.8,0
+2026-04-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",903,1.4,1264.2,10,14.0,0
+2026-04-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2510,0.6,1506.0,31,18.6,0
+2026-04-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1924,0.12,230.88,17,2.04,1
+2026-04-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,34,85.0,2890.0,1,85.0,0
+2026-05-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,639,4.8,3067.2,6,28.8,0
+2026-05-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",927,1.4,1297.8,10,14.0,0
+2026-05-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2441,0.6,1464.6,24,14.4,0
+2026-05-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1840,0.12,220.8,20,2.4,1
+2026-05-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,37,85.0,3145.0,1,85.0,0
+2026-06-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,823,4.8,3950.4,12,57.6,0
+2026-06-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",955,1.4,1337.0,10,14.0,0
+2026-06-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2435,0.6,1461.0,28,16.8,0
+2026-06-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1771,0.12,212.52,18,2.16,1
+2026-06-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,39,85.0,3315.0,1,85.0,0
+2026-07-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,712,4.8,3417.6,8,38.4,0
+2026-07-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",817,1.4,1143.8,6,8.4,0
+2026-07-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2329,0.6,1397.4,30,18.0,1
+2026-07-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1710,0.12,205.2,18,2.16,0
+2026-07-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,32,85.0,2720.0,0,0.0,2
+2026-08-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,740,4.8,3552.0,5,24.0,1
+2026-08-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",871,1.4,1219.4,10,14.0,0
+2026-08-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2485,0.6,1491.0,24,14.4,0
+2026-08-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1873,0.12,224.76,20,2.4,0
+2026-08-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,35,85.0,2975.0,0,0.0,1
+2026-09-01,East Infusion Center,Anticoagulants,Enoxaparin 40 mg syringe,754,4.8,3619.2,9,43.2,0
+2026-09-01,East Infusion Center,Anticoagulants,"Heparin 5,000 unit vial",882,1.4,1234.8,11,15.4,0
+2026-09-01,East Infusion Center,Anticoagulants,Apixaban 5 mg tablet,2150,0.6,1290.0,32,19.2,1
+2026-09-01,East Infusion Center,Anticoagulants,Warfarin 5 mg tablet,1667,0.12,200.04,26,3.12,0
+2026-09-01,East Infusion Center,Anticoagulants,Bivalirudin 250 mg vial,37,85.0,3145.0,0,0.0,0
+2025-10-01,East Infusion Center,Insulins,Insulin glargine pen,170,28.0,4760.0,0,0.0,0
+2025-10-01,East Infusion Center,Insulins,Insulin lispro pen,148,26.0,3848.0,0,0.0,0
+2025-10-01,East Infusion Center,Insulins,Regular insulin vial,98,22.0,2156.0,3,66.0,0
+2025-10-01,East Infusion Center,Insulins,Insulin aspart pen,128,25.0,3200.0,1,25.0,0
+2025-10-01,East Infusion Center,Insulins,NPH insulin vial,51,21.0,1071.0,1,21.0,1
+2025-11-01,East Infusion Center,Insulins,Insulin glargine pen,166,28.0,4648.0,0,0.0,0
+2025-11-01,East Infusion Center,Insulins,Insulin lispro pen,164,26.0,4264.0,3,78.0,0
+2025-11-01,East Infusion Center,Insulins,Regular insulin vial,85,22.0,1870.0,1,22.0,0
+2025-11-01,East Infusion Center,Insulins,Insulin aspart pen,136,25.0,3400.0,3,75.0,0
+2025-11-01,East Infusion Center,Insulins,NPH insulin vial,52,21.0,1092.0,1,21.0,0
+2025-12-01,East Infusion Center,Insulins,Insulin glargine pen,176,28.0,4928.0,1,28.0,0
+2025-12-01,East Infusion Center,Insulins,Insulin lispro pen,162,26.0,4212.0,0,0.0,0
+2025-12-01,East Infusion Center,Insulins,Regular insulin vial,91,22.0,2002.0,2,44.0,0
+2025-12-01,East Infusion Center,Insulins,Insulin aspart pen,140,25.0,3500.0,2,50.0,0
+2025-12-01,East Infusion Center,Insulins,NPH insulin vial,53,21.0,1113.0,1,21.0,0
+2026-01-01,East Infusion Center,Insulins,Insulin glargine pen,199,28.0,5572.0,1,28.0,0
+2026-01-01,East Infusion Center,Insulins,Insulin lispro pen,168,26.0,4368.0,0,0.0,0
+2026-01-01,East Infusion Center,Insulins,Regular insulin vial,93,22.0,2046.0,1,22.0,0
+2026-01-01,East Infusion Center,Insulins,Insulin aspart pen,131,25.0,3275.0,3,75.0,0
+2026-01-01,East Infusion Center,Insulins,NPH insulin vial,51,21.0,1071.0,1,21.0,0
+2026-02-01,East Infusion Center,Insulins,Insulin glargine pen,175,28.0,4900.0,1,28.0,0
+2026-02-01,East Infusion Center,Insulins,Insulin lispro pen,179,26.0,4654.0,0,0.0,0
+2026-02-01,East Infusion Center,Insulins,Regular insulin vial,97,22.0,2134.0,0,0.0,0
+2026-02-01,East Infusion Center,Insulins,Insulin aspart pen,134,25.0,3350.0,2,50.0,0
+2026-02-01,East Infusion Center,Insulins,NPH insulin vial,53,21.0,1113.0,0,0.0,0
+2026-03-01,East Infusion Center,Insulins,Insulin glargine pen,193,28.0,5404.0,2,56.0,0
+2026-03-01,East Infusion Center,Insulins,Insulin lispro pen,170,26.0,4420.0,1,26.0,0
+2026-03-01,East Infusion Center,Insulins,Regular insulin vial,85,22.0,1870.0,0,0.0,0
+2026-03-01,East Infusion Center,Insulins,Insulin aspart pen,123,25.0,3075.0,1,25.0,0
+2026-03-01,East Infusion Center,Insulins,NPH insulin vial,59,21.0,1239.0,2,42.0,0
+2026-04-01,East Infusion Center,Insulins,Insulin glargine pen,173,28.0,4844.0,2,56.0,1
+2026-04-01,East Infusion Center,Insulins,Insulin lispro pen,182,26.0,4732.0,2,52.0,0
+2026-04-01,East Infusion Center,Insulins,Regular insulin vial,92,22.0,2024.0,0,0.0,0
+2026-04-01,East Infusion Center,Insulins,Insulin aspart pen,117,25.0,2925.0,2,50.0,0
+2026-04-01,East Infusion Center,Insulins,NPH insulin vial,56,21.0,1176.0,2,42.0,0
+2026-05-01,East Infusion Center,Insulins,Insulin glargine pen,178,28.0,4984.0,5,140.0,0
+2026-05-01,East Infusion Center,Insulins,Insulin lispro pen,167,26.0,4342.0,0,0.0,0
+2026-05-01,East Infusion Center,Insulins,Regular insulin vial,84,22.0,1848.0,3,66.0,1
+2026-05-01,East Infusion Center,Insulins,Insulin aspart pen,126,25.0,3150.0,5,125.0,0
+2026-05-01,East Infusion Center,Insulins,NPH insulin vial,47,21.0,987.0,0,0.0,0
+2026-06-01,East Infusion Center,Insulins,Insulin glargine pen,166,28.0,4648.0,3,84.0,0
+2026-06-01,East Infusion Center,Insulins,Insulin lispro pen,162,26.0,4212.0,0,0.0,0
+2026-06-01,East Infusion Center,Insulins,Regular insulin vial,88,22.0,1936.0,1,22.0,0
+2026-06-01,East Infusion Center,Insulins,Insulin aspart pen,137,25.0,3425.0,1,25.0,0
+2026-06-01,East Infusion Center,Insulins,NPH insulin vial,44,21.0,924.0,0,0.0,0
+2026-07-01,East Infusion Center,Insulins,Insulin glargine pen,167,28.0,4676.0,2,56.0,0
+2026-07-01,East Infusion Center,Insulins,Insulin lispro pen,181,26.0,4706.0,2,52.0,0
+2026-07-01,East Infusion Center,Insulins,Regular insulin vial,77,22.0,1694.0,2,44.0,0
+2026-07-01,East Infusion Center,Insulins,Insulin aspart pen,130,25.0,3250.0,1,25.0,0
+2026-07-01,East Infusion Center,Insulins,NPH insulin vial,55,21.0,1155.0,0,0.0,0
+2026-08-01,East Infusion Center,Insulins,Insulin glargine pen,158,28.0,4424.0,1,28.0,0
+2026-08-01,East Infusion Center,Insulins,Insulin lispro pen,165,26.0,4290.0,1,26.0,0
+2026-08-01,East Infusion Center,Insulins,Regular insulin vial,95,22.0,2090.0,1,22.0,0
+2026-08-01,East Infusion Center,Insulins,Insulin aspart pen,130,25.0,3250.0,0,0.0,0
+2026-08-01,East Infusion Center,Insulins,NPH insulin vial,58,21.0,1218.0,1,21.0,0
+2026-09-01,East Infusion Center,Insulins,Insulin glargine pen,186,28.0,5208.0,1,28.0,0
+2026-09-01,East Infusion Center,Insulins,Insulin lispro pen,183,26.0,4758.0,1,26.0,1
+2026-09-01,East Infusion Center,Insulins,Regular insulin vial,95,22.0,2090.0,0,0.0,0
+2026-09-01,East Infusion Center,Insulins,Insulin aspart pen,111,25.0,2775.0,2,50.0,0
+2026-09-01,East Infusion Center,Insulins,NPH insulin vial,54,21.0,1134.0,1,21.0,0
+2025-10-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,47,650.0,30550.0,1,650.0,0
+2025-10-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,40,780.0,31200.0,0,0.0,1
+2025-10-01,East Infusion Center,High-cost biologics,Adalimumab pen,47,1900.0,89300.0,3,5700.0,0
+2025-10-01,East Infusion Center,High-cost biologics,Trastuzumab vial,28,1500.0,42000.0,2,3000.0,0
+2025-10-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,35,480.0,16800.0,1,480.0,0
+2025-11-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,59,659.75,38925.25,3,1979.25,0
+2025-11-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,44,791.7,34834.8,4,3166.8,0
+2025-11-01,East Infusion Center,High-cost biologics,Adalimumab pen,41,1928.5,79068.5,1,1928.5,0
+2025-11-01,East Infusion Center,High-cost biologics,Trastuzumab vial,26,1522.5,39585.0,1,1522.5,0
+2025-11-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,28,487.2,13641.6,1,487.2,0
+2025-12-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,52,669.65,34821.8,1,669.65,0
+2025-12-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,37,803.58,29732.46,1,803.58,0
+2025-12-01,East Infusion Center,High-cost biologics,Adalimumab pen,46,1957.43,90041.78,1,1957.43,0
+2025-12-01,East Infusion Center,High-cost biologics,Trastuzumab vial,28,1545.34,43269.52,2,3090.68,0
+2025-12-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,34,494.51,16813.34,0,0.0,0
+2026-01-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,55,679.69,37382.95,2,1359.38,0
+2026-01-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,46,815.63,37518.98,2,1631.26,0
+2026-01-01,East Infusion Center,High-cost biologics,Adalimumab pen,46,1986.79,91392.34,1,1986.79,0
+2026-01-01,East Infusion Center,High-cost biologics,Trastuzumab vial,26,1568.52,40781.52,1,1568.52,0
+2026-01-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,34,501.93,17065.62,4,2007.72,1
+2026-02-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,45,689.89,31045.05,2,1379.78,0
+2026-02-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,41,827.86,33942.26,0,0.0,0
+2026-02-01,East Infusion Center,High-cost biologics,Adalimumab pen,41,2016.59,82680.19,3,6049.77,0
+2026-02-01,East Infusion Center,High-cost biologics,Trastuzumab vial,26,1592.05,41393.3,0,0.0,0
+2026-02-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,30,509.45,15283.5,1,509.45,0
+2026-03-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,48,700.23,33611.04,2,1400.46,0
+2026-03-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,37,840.28,31090.36,3,2520.84,1
+2026-03-01,East Infusion Center,High-cost biologics,Adalimumab pen,40,2046.84,81873.6,1,2046.84,0
+2026-03-01,East Infusion Center,High-cost biologics,Trastuzumab vial,25,1615.93,40398.25,2,3231.86,0
+2026-03-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,31,517.1,16030.1,4,2068.4,0
+2026-04-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,48,710.74,34115.52,0,0.0,0
+2026-04-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,43,852.89,36674.27,3,2558.67,0
+2026-04-01,East Infusion Center,High-cost biologics,Adalimumab pen,41,2077.54,85179.14,1,2077.54,0
+2026-04-01,East Infusion Center,High-cost biologics,Trastuzumab vial,27,1640.16,44284.32,0,0.0,0
+2026-04-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,33,524.85,17320.05,0,0.0,1
+2026-05-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,53,721.4,38234.2,1,721.4,0
+2026-05-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,43,865.68,37224.24,1,865.68,0
+2026-05-01,East Infusion Center,High-cost biologics,Adalimumab pen,42,2108.71,88565.82,5,10543.55,0
+2026-05-01,East Infusion Center,High-cost biologics,Trastuzumab vial,27,1664.77,44948.79,2,3329.54,0
+2026-05-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,33,532.73,17580.09,2,1065.46,0
+2026-06-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,51,732.22,37343.22,2,1464.44,0
+2026-06-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,39,878.66,34267.74,2,1757.32,1
+2026-06-01,East Infusion Center,High-cost biologics,Adalimumab pen,46,2140.34,98455.64,1,2140.34,0
+2026-06-01,East Infusion Center,High-cost biologics,Trastuzumab vial,27,1689.74,45622.98,2,3379.48,0
+2026-06-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,31,540.72,16762.32,2,1081.44,0
+2026-07-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,56,743.2,41619.2,1,743.2,0
+2026-07-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,42,891.84,37457.28,2,1783.68,0
+2026-07-01,East Infusion Center,High-cost biologics,Adalimumab pen,44,2172.44,95587.36,1,2172.44,0
+2026-07-01,East Infusion Center,High-cost biologics,Trastuzumab vial,29,1715.08,49737.32,2,3430.16,0
+2026-07-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,33,548.83,18111.39,1,548.83,0
+2026-08-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,54,754.35,40734.9,2,1508.7,0
+2026-08-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,41,905.22,37114.02,0,0.0,0
+2026-08-01,East Infusion Center,High-cost biologics,Adalimumab pen,41,2205.03,90406.23,1,2205.03,0
+2026-08-01,East Infusion Center,High-cost biologics,Trastuzumab vial,27,1740.81,47001.87,0,0.0,0
+2026-08-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,33,557.06,18382.98,0,0.0,0
+2026-09-01,East Infusion Center,High-cost biologics,Infliximab 100 mg vial,54,765.67,41346.18,4,3062.68,0
+2026-09-01,East Infusion Center,High-cost biologics,Pegfilgrastim syringe,41,918.8,37670.8,2,1837.6,0
+2026-09-01,East Infusion Center,High-cost biologics,Adalimumab pen,45,2238.1,100714.5,2,4476.2,0
+2026-09-01,East Infusion Center,High-cost biologics,Trastuzumab vial,24,1766.92,42406.08,2,3533.84,0
+2026-09-01,East Infusion Center,High-cost biologics,Rituximab 100 mg vial,29,565.42,16397.18,1,565.42,0
+2025-10-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1261,1.8,2269.8,9,16.2,0
+2025-10-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,564,2.0,1128.0,6,12.0,0
+2025-10-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,230,2.9,667.0,1,2.9,0
+2025-10-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,232,3.1,719.2,3,9.3,0
+2025-10-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,251,2.2,552.2,5,11.0,0
+2025-11-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1244,1.8,2239.2,10,18.0,0
+2025-11-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,618,2.0,1236.0,7,14.0,0
+2025-11-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,263,2.9,762.7,4,11.6,0
+2025-11-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,213,3.1,660.3,5,15.5,1
+2025-11-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,220,2.2,484.0,1,2.2,0
+2025-12-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1178,1.8,2120.4,10,18.0,0
+2025-12-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,440,2.0,880.0,6,12.0,0
+2025-12-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,289,2.9,838.1,3,8.7,1
+2025-12-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,167,3.1,517.7,1,3.1,0
+2025-12-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,283,2.2,622.6,2,4.4,0
+2026-01-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1374,1.8,2473.2,11,19.8,0
+2026-01-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,543,2.0,1086.0,5,10.0,0
+2026-01-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,223,2.9,646.7,4,11.6,0
+2026-01-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,181,3.1,561.1,3,9.3,0
+2026-01-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,287,2.2,631.4,2,4.4,0
+2026-02-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1242,1.8,2235.6,16,28.8,0
+2026-02-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,495,2.0,990.0,6,12.0,0
+2026-02-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,296,2.9,858.4,4,11.6,1
+2026-02-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,210,3.1,651.0,0,0.0,1
+2026-02-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,269,2.2,591.8,1,2.2,1
+2026-03-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1181,1.8,2125.8,15,27.0,0
+2026-03-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,492,2.0,984.0,3,6.0,0
+2026-03-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,248,2.9,719.2,2,5.8,0
+2026-03-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,234,3.1,725.4,0,0.0,0
+2026-03-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,266,2.2,585.2,1,2.2,0
+2026-04-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1265,1.8,2277.0,13,23.4,0
+2026-04-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,537,2.0,1074.0,5,10.0,0
+2026-04-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,282,2.9,817.8,3,8.7,0
+2026-04-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,206,3.1,638.6,2,6.2,0
+2026-04-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,284,2.2,624.8,3,6.6,1
+2026-05-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1161,1.8,2089.8,13,23.4,0
+2026-05-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,531,2.0,1062.0,4,8.0,0
+2026-05-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,263,2.9,762.7,1,2.9,0
+2026-05-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,214,3.1,663.4,3,9.3,0
+2026-05-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,276,2.2,607.2,1,2.2,0
+2026-06-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1329,1.8,2392.2,9,16.2,0
+2026-06-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,542,2.0,1084.0,4,8.0,0
+2026-06-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,297,2.9,861.3,1,2.9,0
+2026-06-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,208,3.1,644.8,4,12.4,0
+2026-06-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,290,2.2,638.0,0,0.0,0
+2026-07-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1096,1.8,1972.8,6,10.8,0
+2026-07-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,534,2.0,1068.0,4,8.0,0
+2026-07-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,214,2.9,620.6,2,5.8,0
+2026-07-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,193,3.1,598.3,4,12.4,1
+2026-07-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,295,2.2,649.0,5,11.0,1
+2026-08-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1033,1.8,1859.4,5,9.0,0
+2026-08-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,511,2.0,1022.0,7,14.0,0
+2026-08-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,256,2.9,742.4,4,11.6,1
+2026-08-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,213,3.1,660.3,6,18.6,0
+2026-08-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,261,2.2,574.2,3,6.6,1
+2026-09-01,East Infusion Center,IV fluids & electrolytes,Normal saline 1 L,1309,1.8,2356.2,15,27.0,0
+2026-09-01,East Infusion Center,IV fluids & electrolytes,Lactated Ringer 1 L,542,2.0,1084.0,14,28.0,0
+2026-09-01,East Infusion Center,IV fluids & electrolytes,Potassium chloride 20 mEq,264,2.9,765.6,3,8.7,0
+2026-09-01,East Infusion Center,IV fluids & electrolytes,Magnesium sulfate 2 g,205,3.1,635.5,1,3.1,0
+2026-09-01,East Infusion Center,IV fluids & electrolytes,Dextrose 5% 1 L,276,2.2,607.2,4,8.8,0

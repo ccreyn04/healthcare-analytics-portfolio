@@ -1,0 +1,61 @@
+staff_id,role,shift,training_completed,competency_signoff
+ST-001,Pharmacy Technician,Day,1,1
+ST-002,Pharmacy Technician,Day,1,1
+ST-003,Pharmacy Technician,Day,1,1
+ST-004,Pharmacy Technician,Day,1,1
+ST-005,Pharmacy Technician,Day,1,1
+ST-006,Pharmacy Technician,Evening,1,1
+ST-007,Pharmacy Technician,Evening,1,0
+ST-008,Pharmacy Technician,Evening,1,1
+ST-009,Pharmacy Technician,Night,1,1
+ST-010,Pharmacy Technician,Night,1,1
+ST-011,Pharmacy Technician,Evening,1,1
+ST-012,Pharmacy Technician,Day,0,0
+ST-013,Pharmacy Technician,Evening,1,1
+ST-014,Pharmacy Technician,Evening,1,1
+ST-015,Pharmacy Technician,Day,1,1
+ST-016,Pharmacy Technician,Night,1,1
+ST-017,Pharmacy Technician,Evening,1,1
+ST-018,Pharmacy Technician,Evening,1,1
+ST-019,Pharmacy Technician,Day,1,1
+ST-020,Pharmacy Technician,Evening,1,1
+ST-021,Pharmacy Technician,Night,1,1
+ST-022,Pharmacy Technician,Day,1,1
+ST-023,Pharmacy Technician,Night,1,1
+ST-024,Pharmacy Technician,Night,1,1
+ST-025,Pharmacy Technician,Night,1,1
+ST-026,Pharmacy Technician,Day,1,1
+ST-027,Pharmacy Technician,Day,1,1
+ST-028,Pharmacy Technician,Day,1,1
+ST-029,Pharmacy Technician,Night,1,0
+ST-030,Pharmacy Technician,Evening,1,1
+ST-031,Pharmacist,Evening,1,1
+ST-032,Pharmacist,Day,1,1
+ST-033,Pharmacist,Evening,1,0
+ST-034,Pharmacist,Day,1,1
+ST-035,Pharmacist,Day,1,1
+ST-036,Pharmacist,Day,1,1
+ST-037,Pharmacist,Evening,1,1
+ST-038,Pharmacist,Day,1,1
+ST-039,Pharmacist,Night,0,0
+ST-040,Pharmacist,Night,1,1
+ST-041,Pharmacist,Day,1,1
+ST-042,Pharmacist,Evening,1,1
+ST-043,Pharmacist,Night,1,1
+ST-044,Pharmacist,Evening,1,1
+ST-045,Pharmacist,Day,1,1
+ST-046,Pharmacist,Evening,1,1
+ST-047,Super User,Day,1,1
+ST-048,Super User,Night,1,1
+ST-049,Super User,Day,0,0
+ST-050,Super User,Evening,1,1
+ST-051,Super User,Evening,1,1
+ST-052,Super User,Day,1,1
+ST-053,Inventory / Buyer,Evening,1,1
+ST-054,Inventory / Buyer,Day,1,1
+ST-055,Inventory / Buyer,Night,1,1
+ST-056,Inventory / Buyer,Day,0,0
+ST-057,Inventory / Buyer,Day,1,1
+ST-058,Inventory / Buyer,Evening,1,1
+ST-059,Inventory / Buyer,Night,1,1
+ST-060,Inventory / Buyer,Day,1,1

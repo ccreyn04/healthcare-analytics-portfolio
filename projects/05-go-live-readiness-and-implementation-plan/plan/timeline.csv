@@ -1,0 +1,13 @@
+task,start,end,owner_role,depends_on,critical_path
+Kickoff and charter approved,2026-07-06,2026-07-10,Project coordinator,,Yes
+Build and configuration complete,2026-07-13,2026-08-14,Application analyst,Kickoff and charter approved,Yes
+Test script writing,2026-07-27,2026-08-14,Application analyst,Kickoff and charter approved,No
+Test round 1,2026-08-17,2026-08-28,Super users,Build and configuration complete,Yes
+Defect fix and retest,2026-08-31,2026-09-25,Application analyst,Test round 1,Yes
+Training delivery,2026-09-14,2026-10-09,Educator,Build and configuration complete,No
+Competency sign-off,2026-10-05,2026-10-23,Super users,Training delivery,Yes
+Downtime drill with reconciliation,2026-10-26,2026-10-30,Operations lead,Defect fix and retest,Yes
+Go/no-go meeting,2026-11-04,2026-11-04,Pharmacy manager,Competency sign-off; Downtime drill with reconciliation,Yes
+Go-live,2026-11-09,2026-11-09,Project coordinator,Go/no-go meeting,Yes
+Hypercare,2026-11-09,2026-11-22,Super users,Go-live,No
+Lessons learned and closeout,2026-11-23,2026-11-27,Project coordinator,Hypercare,No

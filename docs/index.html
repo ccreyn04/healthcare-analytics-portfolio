@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cierra Reynolds | Healthcare Analytics and Implementation Portfolio</title>
+<meta name="description" content="Six healthcare analytics and implementation case studies covering Epic and clinical applications, revenue cycle, and project management. Synthetic, PHI-free data.">
+<style>
+:root{--ink:#14262e;--muted:#4a5f68;--paper:#f6f8f9;--panel:#ffffff;--line:#d3dde1;--teal:#0b6f6a;--teal-soft:#e3f0ef;--flag:#b0391f;--flag-soft:#fbe9e4}
+@media (prefers-color-scheme:dark){:root{--ink:#e6eef0;--muted:#a3b6bd;--paper:#0f1a1f;--panel:#15252b;--line:#2a3d45;--teal:#5fc4bc;--teal-soft:#16322f;--flag:#ff9a80;--flag-soft:#3a201a}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--teal);text-underline-offset:3px}
+a:focus-visible{outline:3px solid var(--teal);outline-offset:2px;border-radius:2px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+h1,h2,h3{font-family:"Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;font-weight:700;line-height:1.2;margin:0}
+header.top{border-bottom:1px solid var(--line);background:var(--panel)}
+.top .wrap{display:flex;flex-wrap:wrap;gap:12px 28px;align-items:baseline;justify-content:space-between;padding-top:16px;padding-bottom:16px}
+.brand{font-family:Palatino,Georgia,serif;font-weight:700;font-size:1.15rem}
+.brand span{font-family:ui-sans-serif,system-ui,sans-serif;font-weight:400;color:var(--muted);font-size:.9rem;margin-left:8px}
+nav a{margin-right:18px;text-decoration:none;font-size:.95rem}
+nav a:hover{text-decoration:underline}
+.hero{padding:56px 0 40px}
+.hero h1{font-size:clamp(2rem,5vw,3.2rem);max-width:20ch}
+.hero p.lead{font-size:1.15rem;max-width:62ch;color:var(--muted);margin:18px 0 0}
+.results{margin-top:36px;background:var(--panel);border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.results h2{font-size:1rem;padding:14px 18px;border-bottom:1px solid var(--line);font-family:ui-sans-serif,system-ui,sans-serif;font-weight:600}
+.results h2 small{font-weight:400;color:var(--muted);margin-left:8px}
+table{width:100%;border-collapse:collapse}
+th,td{text-align:left;padding:12px 18px;border-bottom:1px solid var(--line);vertical-align:baseline}
+th{font-weight:600;font-size:.85rem;color:var(--muted)}
+tr:last-child td{border-bottom:0}
+td.v{font-variant-numeric:tabular-nums;font-weight:700;white-space:nowrap}
+td.v.flag{color:var(--flag)}
+td.ref{color:var(--muted);font-variant-numeric:tabular-nums}
+section.track{padding:44px 0 8px;border-top:1px solid var(--line)}
+section.track>.wrap>h2{font-size:1.7rem}
+.track .intro{color:var(--muted);max-width:64ch;margin:10px 0 24px}
+.project{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:8px 36px;padding:24px 0;border-top:1px solid var(--line)}
+.project h3{font-size:1.25rem}
+.project .q{margin:8px 0 12px;max-width:62ch}
+.project .tools{color:var(--muted);font-size:.9rem;margin:0}
+.facts{margin:0;padding:0;list-style:none;font-size:.95rem}
+.facts li{padding:6px 0 6px 14px;border-left:3px solid var(--teal)}
+.facts li+li{margin-top:6px}
+.facts b{font-variant-numeric:tabular-nums}
+.links{margin-top:14px;display:flex;flex-wrap:wrap;gap:6px 18px;font-size:.95rem}
+.status{display:inline-block;background:var(--flag-soft);color:var(--flag);padding:2px 8px;border-radius:3px;font-size:.85rem;margin-left:8px;font-family:ui-sans-serif,system-ui,sans-serif;font-weight:600;vertical-align:middle}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:32px;padding:44px 0 8px}
+.two h2{font-size:1.4rem;margin-bottom:12px}
+.two ul{margin:0;padding-left:20px}
+.two li{margin:6px 0}
+.note{background:var(--teal-soft);border-radius:6px;padding:18px 20px;margin:36px 0;max-width:80ch}
+footer{border-top:1px solid var(--line);padding:28px 0 48px;color:var(--muted);font-size:.95rem}
+@media (max-width:760px){
+ .project{grid-template-columns:1fr}
+ .two{grid-template-columns:1fr}
+ .results thead{display:none}
+ .results tr{display:block;padding:12px 18px;border-bottom:1px solid var(--line)}
+ .results tr:last-child{border-bottom:0}
+ .results td{display:block;padding:2px 0;border:0}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+ <div class="brand">Cierra Reynolds<span>CPhT, CRCR, CSPR, CSBI</span></div>
+ <nav aria-label="Sections"><a href="#epic">Epic and clinical applications</a><a href="#revenue">Revenue cycle</a><a href="#implementation">Implementation</a><a href="#contact">Contact</a></nav>
+</div></header>
+
+<main>
+<div class="wrap hero">
+ <h1>I find where healthcare workflows lose time and money.</h1>
+ <p class="lead">Pharmacy technician turned analyst. Six case studies on medication workflows, application support, charge capture, denials, go-live readiness, and spend, each ending in findings, owners, and targets. All data is synthetic and PHI-free.</p>
+ <div class="results">
+  <h2>Results from the case studies <small>Select a result to read the full analysis</small></h2>
+  <table>
+   <thead><tr><th scope="col">Measure</th><th scope="col">Result</th><th scope="col">Compared with</th></tr></thead>
+   <tbody>
+    <tr><td><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/01-medication-workflow-analysis">Medication orders on time, night shift</a></td><td class="v flag">66.3%</td><td class="ref">90.2% on day shift</td></tr>
+    <tr><td><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/02-clinical-app-support-ticket-analysis">Support tickets within SLA, cabinet interface</a></td><td class="v flag">53.2%</td><td class="ref">79.7% across all tickets</td></tr>
+    <tr><td><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/03-pharmacy-charge-capture-audit">Dispense charges lost to billing errors</a></td><td class="v flag">$47,295</td><td class="ref">6.3% of expected charges, 81% in one infusion center</td></tr>
+    <tr><td><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/04-claims-denial-and-ar-analysis">Prior authorization denials overturned on appeal</a></td><td class="v flag">26.8%</td><td class="ref">84.2% for coding denials</td></tr>
+    <tr><td><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/05-go-live-readiness-and-implementation-plan">Go-live readiness recommendation</a></td><td class="v">Conditional Go</td><td class="ref">2 of 5 gates met, 6 items to close</td></tr>
+    <tr><td><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/06-power-bi-inventory-spend">Pharmacy spend over budget</a></td><td class="v flag">2.1%</td><td class="ref">Biologics are 73.6% of spend</td></tr>
+   </tbody>
+  </table>
+ </div>
+</div>
+
+<section class="track" id="epic"><div class="wrap">
+ <h2>Epic and clinical applications</h2>
+ <p class="intro">Workflow analysis and application support from the analyst's chair: where orders stall, what the help desk sees after an upgrade, and what to fix first.</p>
+
+ <article class="project">
+  <div>
+   <h3>Medication Order Workflow Analysis</h3>
+   <p class="q">Where does order-to-dispense fall behind, and which workflow exceptions cause it? Built around a verify, dispense prep, and dispense tracking flow, using 1,500 synthetic orders.</p>
+   <p class="tools">SQL (PostgreSQL), KPI design, root-cause analysis</p>
+   <div class="links"><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/01-medication-workflow-analysis">Read the case study</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/01-medication-workflow-analysis/data/medication_orders.csv">Data</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/01-medication-workflow-analysis/sql/analysis.sql">SQL</a></div>
+  </div>
+  <ul class="facts">
+   <li><b>85.3%</b> of orders on time overall</li>
+   <li>Exceptions drop on-time from <b>88.8%</b> to <b>52.7%</b></li>
+   <li>Oncology verification takes a median <b>23.8 min</b>, vs 13 to 16 elsewhere</li>
+  </ul>
+ </article>
+
+ <article class="project">
+  <div>
+   <h3>Clinical Application Support Ticket Analysis</h3>
+   <p class="q">Where are support SLAs missed, what drives ticket volume, and what happened after an upgrade? 900 synthetic tickets across six months.</p>
+   <p class="tools">SQL (PostgreSQL), SLA analysis, root-cause analysis</p>
+   <div class="links"><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/02-clinical-app-support-ticket-analysis">Read the case study</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/02-clinical-app-support-ticket-analysis/data/support_tickets.csv">Data</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/02-clinical-app-support-ticket-analysis/sql/analysis.sql">SQL</a></div>
+  </div>
+  <ul class="facts">
+   <li>P1 tickets meet SLA only <b>64.9%</b> of the time</li>
+   <li>Upgrade week: <b>71</b> tickets vs <b>31.9</b> a normal week</li>
+   <li><b>26.8%</b> of tickets are knowledge gaps, only 22% had an article</li>
+  </ul>
+ </article>
+</div></section>
+
+<section class="track" id="revenue"><div class="wrap">
+ <h2>Revenue cycle</h2>
+ <p class="intro">Two ends of the revenue cycle: making sure what was dispensed gets billed correctly, and working denials and A/R where the dollars are.</p>
+
+ <article class="project">
+  <div>
+   <h3>Pharmacy Charge Capture and Revenue Integrity Audit</h3>
+   <p class="q">Do billed charges match what pharmacy dispensed, and where is revenue lost or overbilled? Reconciles 4,000 synthetic dispense records against charges.</p>
+   <p class="tools">SQL (PostgreSQL), reconciliation, charge master review</p>
+   <div class="links"><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/03-pharmacy-charge-capture-audit">Read the case study</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/03-pharmacy-charge-capture-audit/data/dispense_charges.csv">Data</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/03-pharmacy-charge-capture-audit/sql/analysis.sql">SQL</a></div>
+  </div>
+  <ul class="facts">
+   <li>Charge capture of <b>93.7%</b>, a <b>$47,295</b> net gap</li>
+   <li><b>51.8%</b> of updated biologics billed at a stale price</li>
+   <li><b>48 of 183</b> returned items were still billed, a compliance risk</li>
+  </ul>
+ </article>
+
+ <article class="project">
+  <div>
+   <h3>Claims Denial and A/R Analysis</h3>
+   <p class="q">Which denials are preventable, which appeals are worth working, and where is A/R aging? 3,000 synthetic claims across six generic payers.</p>
+   <p class="tools">SQL (PostgreSQL), denial root-cause, appeal prioritization, A/R aging</p>
+   <div class="links"><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/04-claims-denial-and-ar-analysis">Read the case study</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/04-claims-denial-and-ar-analysis/data/claims.csv">Data</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/04-claims-denial-and-ar-analysis/sql/analysis.sql">SQL</a></div>
+  </div>
+  <ul class="facts">
+   <li><b>45.2%</b> of denied dollars start at the front end</li>
+   <li>Up to about <b>$71K</b> recoverable from unappealed high-win denials</li>
+   <li>Commercial C averages <b>88.1</b> days in A/R vs about 50 for the best payers</li>
+  </ul>
+ </article>
+</div></section>
+
+<section class="track" id="implementation"><div class="wrap">
+ <h2>Implementation and project management</h2>
+ <p class="intro">Planning a go-live and judging whether it is ready, plus the reporting layer that keeps operations honest after launch.</p>
+
+ <article class="project">
+  <div>
+   <h3>Go-Live Readiness and Implementation Plan</h3>
+   <p class="q">Is a pharmacy system go-live ready, and what must close first? Includes the project charter, RACI, timeline with critical path, communication and hypercare plan, and a readiness assessment built from test, defect, training, and risk data.</p>
+   <p class="tools">Project charter, RACI, test and defect tracking, risk management, SQL</p>
+   <div class="links"><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/05-go-live-readiness-and-implementation-plan">Read the case study</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/05-go-live-readiness-and-implementation-plan/plan/project_charter.md">Project charter</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/05-go-live-readiness-and-implementation-plan/plan/raci.csv">RACI</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/05-go-live-readiness-and-implementation-plan/plan/timeline.csv">Timeline</a></div>
+  </div>
+  <ul class="facts">
+   <li>Recommendation: <b>Conditional Go</b></li>
+   <li><b>95.0%</b> test pass rate, one script short of the 95% gate</li>
+   <li>Downtime drill and super-user sign-off are the gaps to close</li>
+  </ul>
+ </article>
+
+ <article class="project">
+  <div>
+   <h3>Pharmacy Inventory and Spend Dashboard<span class="status">Power BI report in progress</span></h3>
+   <p class="q">Where is spend over budget, product wasted, and stock short across three sites? The analysis, star-schema model, and DAX measures are complete.</p>
+   <p class="tools">Power BI, DAX, data modeling, SQL (PostgreSQL)</p>
+   <div class="links"><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/tree/main/projects/06-power-bi-inventory-spend">Read the case study</a><a href="https://github.com/ccreyn04/healthcare-analytics-portfolio/blob/main/projects/06-power-bi-inventory-spend/powerbi/dax_measures.md">DAX measures</a></div>
+  </div>
+  <ul class="facts">
+   <li><b>$6.67M</b> spent against a <b>$6.53M</b> budget</li>
+   <li>One infusion center's biologics are <b>73.8%</b> of all expired value</li>
+   <li>Anticoagulants cause <b>31.3%</b> of stockouts on <b>5.8%</b> of spend</li>
+  </ul>
+ </article>
+</div></section>
+
+<div class="wrap">
+ <div class="two">
+  <div>
+   <h2>Background</h2>
+   <ul>
+    <li>Certified pharmacy technician with 8+ years of experience in inpatient and outpatient pharmacy</li>
+    <li>Trained about 20 pharmacy technicians on Epic and inpatient workflows, and supported a go-live of dispense prep and dispense tracking</li>
+    <li>Tested an Epic upgrade and workflow changes, and ran downtime procedures</li>
+    <li>BS in Public Health, University of Louisville, expected May 2027</li>
+    <li>Based in Louisville, Kentucky. Open to remote and hybrid roles.</li>
+   </ul>
+  </div>
+  <div>
+   <h2>Credentials</h2>
+   <ul>
+    <li>Certified Pharmacy Technician (CPhT), PTCB</li>
+    <li>HFMA Certified Revenue Cycle Representative (CRCR)</li>
+    <li>HFMA Certified Specialist, Payment and Reimbursement (CSPR)</li>
+    <li>HFMA Certified Specialist, Business Intelligence (CSBI)</li>
+    <li>Google Data Analytics Professional Certificate</li>
+    <li>In progress: Power BI Data Analyst, AHIMA CCA, Google Project Management</li>
+   </ul>
+  </div>
+ </div>
+ <div class="note"><b>About the data.</b> Every dataset is synthetic and contains no PHI, and no real system screenshots or configurations are used. The datasets were generated to demonstrate analytical method, so findings show how each analysis works, not real organizational performance. Each case study lists its assumptions and limitations.</div>
+</div>
+</main>
+
+<footer id="contact"><div class="wrap">
+ <p><b>Contact:</b> <a href="https://www.linkedin.com/in/cierrareynolds20">LinkedIn</a> &nbsp; <a href="https://github.com/ccreyn04">GitHub</a> &nbsp; <a href="mailto:ccreyn04@louisville.edu">ccreyn04@louisville.edu</a></p>
+</div></footer>
+</body>
+</html>

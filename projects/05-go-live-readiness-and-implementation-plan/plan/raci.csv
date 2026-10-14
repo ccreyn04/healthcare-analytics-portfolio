@@ -1,0 +1,11 @@
+activity,project_coordinator,application_analyst,pharmacy_manager,super_user,educator,vendor_or_IS,nursing_lead
+Build and configure workflows,C,R,A,C,I,R,I
+Write and run test scripts,A,R,C,R,I,C,I
+Triage and track defects,A,R,I,I,I,R,I
+Interface and cabinet testing,C,R,I,C,I,A,I
+Training plan and delivery,C,C,A,R,R,I,I
+Competency sign-off,I,I,A,R,R,I,I
+Downtime drill and reconciliation,A,R,R,R,C,C,C
+Risk log and weekly report,R,C,A,I,I,I,I
+Go/no-go decision,R,C,A,C,I,C,C
+Hypercare floor support,A,R,C,R,C,C,I
